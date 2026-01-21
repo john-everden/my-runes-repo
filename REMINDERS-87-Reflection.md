@@ -1,0 +1,5 @@
+# Reminders 87 — Reflection
+
+- Pause to review sequences.
+- Reflection reveals thresholds.
+- Reflection deepens understanding.
