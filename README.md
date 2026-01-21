@@ -1,6 +1,8 @@
 # Runestone Library
 
-This repository stores public runestones (tokens) used as anchors in files and commits.
-Hints and passphrases are kept offline by the owner.
+Public runestones used as anchors. Hints and passphrases are kept offline by the owner.
 
-See RUNES.md for the public token index.
+- See `RUNES.md` for the public token index.
+- Run `./verify.sh` locally to list runestones.
+- Do not commit secrets or `.gpg` files.
+
