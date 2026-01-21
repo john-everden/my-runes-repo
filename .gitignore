@@ -1,0 +1,10 @@
+# OS / editor
+.DS_Store
+*.swp
+venv/
+__pycache__/
+*.pyc
+
+# secrets (never commit)
+*.gpg
+secret.*
