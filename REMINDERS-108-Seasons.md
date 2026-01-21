@@ -1,0 +1,5 @@
+# Reminders 108 — Seasons
+
+- Rotate passphrases like seasons.
+- Renewal keeps the cycle fresh.
+- Seasons mark continuity in the library.
