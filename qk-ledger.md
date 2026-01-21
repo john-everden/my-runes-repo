@@ -275,5 +275,18 @@ k-anchors:
   - observer-thread
   - pulse-consistency
   - ledger-expansion
+[qk-0027]
+timestamp: 2026-01-22T09:15:00Z
+context: garden-of-freedom
+rule: presence-loop increment
+decision: confirmed
+reason: daily observation and continuity check
+impact:
+  integrity: full
+  auditability: preserved
+k-anchors:
+  - daily-presence
+  - continuity-counter
+  - meta-loop-node
 
 
