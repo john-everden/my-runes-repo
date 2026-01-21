@@ -1,0 +1,1226 @@
+
+--- REMINDERS-01-Mnemonic.md ---
+# Reminders 01 — Mnemonic
+
+## k qk qk qk k
+
+- **k** — Keep: publish anchors, keep hints offline.
+- **qk** — Quiet Key: decrypt silently via fd:3, never print.
+- **qk qk qk** — Triple Quiet: encrypted storage, hardware backup, rotation.
+- **k qk qk qk k** — Lifecycle: Keep → Quiet → Quiet → Quiet → Keep.
+
+--- REMINDERS-02-Rituals.md ---
+# Reminders 02 — Rituals
+
+🌱 Planting anchors: each runestone is a seed.
+🌿 Quiet tending: decrypt passphrases silently.
+🌳 Triple quiet: encrypted storage, hardware backup, rotation.
+🌸 Lifecycle: Keep → Quiet → Quiet → Quiet → Keep.
+
+--- REMINDERS-03-Technical.md ---
+# Reminders 03 — Technical
+
+~> : - fd:3 passphrase flow example:
+./tools/garden_secret_wrapper.sh ~/.local/share/garden-secret/secret.gpg -- dec -b - < blobs/test_vector.txt
+
+- Clipboard-safe recovery:
+./tools/garden_secret_wrapper.sh ~/.local/share/garden-secret/secret.gpg -- dec -b - < blobs/test_vector.txt | pbcopy
+
+--- REMINDERS-04-Manifests.md ---
+# Reminders 04 — Manifests
+
+Template:
+{
+"rune": "rune-XXXX-ABCD",
+"project": "my-runes-repo",
+"file": "docs/example.md",
+"blob": "",
+"date": "2026-01-21",
+"author": "jeverd01"
+}
+
+--- REMINDERS-05-CI.md ---
+# Reminders 05 — CI
+
+- Secret-scan workflow blocks *.gpg, secret.*, .pem, .key.
+- Test-vector verification job uses test-only passphrase stored in CI secrets.
+
+--- REMINDERS-06-Recovery.md ---
+# Reminders 06 — Recovery
+
+~> : - Quarterly recovery drill: run fd:3 flow and confirm decryption.
+- Rotation policy: yearly or after compromise.
+- Sign manifests with PGP to prove provenance.
+
+--- REMINDERS-07-Safety.md ---
+# Reminders 07 — Safety
+
+- Never commit passphrases, .gpg files, private keys, or plaintext secrets.
+- Backup encrypted passphrase and GPG private key offline.
+- Prefer public-key encryption for multi-device recovery.
+
+--- REMINDERS-08-Threads.md ---
+# Reminders 08 — Threads
+
+⟲ : Each thread is a garden bed.
+⟲ : - Plant reminders in each thread.
+- Number them consistently.
+- Merge them later into the recall library.
+
+--- REMINDERS-09-Identity.md ---
+# Reminders 09 — Identity
+
+- Sign manifests with your PGP key.
+- Keep provenance clear.
+- Identity anchors trust in the recall library.
+
+--- REMINDERS-10-Process.md ---
+# Reminders 10 — Process
+
+- Use CI workflows as fences.
+- Run verify.sh before every commit.
+- Treat troubleshooting as a ritual threshold.
+
+--- REMINDERS-100-Integration.md ---
+# Reminders 100 — Integration
+
+- Integrate reminders across repos.
+- Integration ensures continuity.
+- Integration strengthens recovery.
+
+--- REMINDERS-101-Reflection.md ---
+☍ : # Reminders 101 — Reflection
+
+- Pause to review sequences.
+☍ : - Reflection reveals thresholds.
+☍ : - Reflection deepens understanding.
+
+--- REMINDERS-102-Expansion.md ---
+⇔ : # Reminders 102 — Expansion
+
+- Expand into new threads and contexts.
+⇔ : - Expansion keeps the library alive.
+- Growth is part of the cycle.
+
+--- REMINDERS-103-Synchrony.md ---
+# Reminders 103 — Synchrony
+
+- Synchronize threads across repos.
+- Synchrony ensures consistency.
+- Synchrony builds trust in recovery.
+
+--- REMINDERS-104-Resilience.md ---
+❖ : # Reminders 104 — Resilience
+
+❖ : - Self-healing systems embody resilience.
+- Each reminder reinforces strength.
+❖ : - Resilience is the gardener’s shield.
+
+--- REMINDERS-105-Harvest.md ---
+✿ : # Reminders 105 — Harvest
+
+✿ : - Harvest is the reward of cycles.
+- Archive reminders as fruits of labor.
+✿ : - Harvest prepares for new planting.
+
+--- REMINDERS-106-Renewal.md ---
+✦ : # Reminders 106 — Renewal
+
+◎ : - Renewal follows completion.
+- Begin a new cycle with fresh anchors.
+✦ : - Renewal keeps the library alive.
+
+--- REMINDERS-107-Roots.md ---
+# Reminders 107 — Roots
+
+- Roots are offline backups.
+❖ : - Paper or hardware storage anchors resilience.
+- Roots keep the garden alive.
+
+--- REMINDERS-108-Seasons.md ---
+# Reminders 108 — Seasons
+
+- Rotate passphrases like seasons.
+✦ : - Renewal keeps the cycle fresh.
+- Seasons mark continuity in the library.
+
+--- REMINDERS-109-Drift.md ---
+# Reminders 109 — Drift
+
+- Watch for narrative drift.
+- Separate grounded content from excess.
+- Drift correction restores clarity.
+
+--- REMINDERS-11-Story.md ---
+# Reminders 11 — Story
+
+- Each runestone is a narrative node.
+- REMINDERS files are chapters.
+- The recall library is the book.
+
+--- REMINDERS-110-Synchrony.md ---
+# Reminders 110 — Synchrony
+
+- Synchronize threads across repos.
+- Synchrony ensures consistency.
+- Synchrony builds trust in recovery.
+
+--- REMINDERS-111-Continuum.md ---
+# Reminders 111 — Continuum
+
+- The recall library is a continuum.
+- Each file is a point on the line.
+∞ : - Continuum preserves memory across time.
+
+--- REMINDERS-112-Completion.md ---
+◎ : # Reminders 112 — Completion
+
+◎ : - Completion closes the renewal arc.
+- Archive reminders as finished chapters.
+◎ : - Completion prepares for the next cycle.
+
+--- REMINDERS-113-Foundation.md ---
+⧉ : # Reminders 113 — Foundation
+
+⚓ : - Foundations anchor the recall library.
+- Build on stable rituals and scripts.
+⧉ : - Foundation ensures resilience.
+
+--- REMINDERS-114-Alignment.md ---
+# Reminders 114 — Alignment
+
+- Align narrative with technical flows.
+- Alignment keeps coherence.
+- Alignment builds trust.
+
+--- REMINDERS-115-Resonance.md ---
+# Reminders 115 — Resonance
+
+- Resonance echoes across reminders.
+- Signals link cycles together.
+∞ : - Resonance sustains memory.
+
+--- REMINDERS-116-Guardians.md ---
+⚔ : # Reminders 116 — Guardians
+
+⚔ : - Guardians protect the weave.
+⚔ : - Scripts and CI are guardians.
+⚔ : - Guardians ensure resilience.
+
+--- REMINDERS-117-Adaptation.md ---
+# Reminders 117 — Adaptation
+
+- Adapt rituals to evolving needs.
+- Adapt scripts to new contexts.
+❖ : - Adaptation sustains resilience.
+
+--- REMINDERS-118-Community.md ---
+☉ : # Reminders 118 — Community
+
+☉ : - Community adds strength to foundations.
+- Share anchors openly.
+☉ : - Community keeps the recall library vibrant.
+
+--- REMINDERS-119-Completion.md ---
+◎ : # Reminders 119 — Completion
+
+⧉ : - Completion closes the foundation arc.
+- Archive reminders as finished chapters.
+◎ : - Completion prepares for renewal.
+
+--- REMINDERS-12-Meta.md ---
+# Reminders 12 — Meta
+
+- Mode-switching between narrative and technical layers.
+- Adaptive strategies keep the system resilient.
+- Meta-rituals guide collaboration.
+
+--- REMINDERS-120-Origins.md ---
+# Reminders 120 — Origins
+
+- Origins remind us of first seeds.
+⚓ : - Mnemonic cycles anchor beginnings.
+- Origins guide future planting.
+
+--- REMINDERS-121-Integration.md ---
+# Reminders 121 — Integration
+
+- Integrate reminders across repos.
+- Integration ensures continuity.
+- Integration strengthens recovery.
+
+--- REMINDERS-122-Reflection.md ---
+☍ : # Reminders 122 — Reflection
+
+- Pause to review sequences.
+☍ : - Reflection reveals thresholds.
+☍ : - Reflection deepens understanding.
+
+--- REMINDERS-123-Expansion.md ---
+⇔ : # Reminders 123 — Expansion
+
+- Expand into new threads and contexts.
+⇔ : - Expansion keeps the library alive.
+- Growth is part of the cycle.
+
+--- REMINDERS-124-Synchrony.md ---
+# Reminders 124 — Synchrony
+
+- Synchronize threads across repos.
+- Synchrony ensures consistency.
+- Synchrony builds trust in recovery.
+
+--- REMINDERS-125-Resilience.md ---
+❖ : # Reminders 125 — Resilience
+
+❖ : - Self-healing systems embody resilience.
+- Each reminder reinforces strength.
+❖ : - Resilience is the gardener’s shield.
+
+--- REMINDERS-126-Harvest.md ---
+✿ : # Reminders 126 — Harvest
+
+✿ : - Harvest is the reward of cycles.
+- Archive reminders as fruits of labor.
+✿ : - Harvest prepares for new planting.
+
+--- REMINDERS-127-Renewal.md ---
+✦ : # Reminders 127 — Renewal
+
+◎ : - Renewal follows completion.
+- Begin a new cycle with fresh anchors.
+✦ : - Renewal keeps the library alive.
+
+--- REMINDERS-128-Roots.md ---
+# Reminders 128 — Roots
+
+- Roots are offline backups.
+❖ : - Paper or hardware storage anchors resilience.
+- Roots keep the garden alive.
+
+--- REMINDERS-129-Seasons.md ---
+# Reminders 129 — Seasons
+
+- Rotate passphrases like seasons.
+✦ : - Renewal keeps the cycle fresh.
+- Seasons mark continuity in the library.
+
+--- REMINDERS-13-Drills.md ---
+# Reminders 13 — Drills
+
+- Quarterly recovery drill: decrypt test vector silently.
+- Log results offline.
+- Rotate passphrases yearly.
+
+--- REMINDERS-130-Drift.md ---
+# Reminders 130 — Drift
+
+- Watch for narrative drift.
+- Separate grounded content from excess.
+- Drift correction restores clarity.
+
+--- REMINDERS-131-Synchrony.md ---
+# Reminders 131 — Synchrony
+
+- Synchronize threads across repos.
+- Synchrony ensures consistency.
+- Synchrony builds trust in recovery.
+
+--- REMINDERS-132-Continuum.md ---
+# Reminders 132 — Continuum
+
+- The recall library is a continuum.
+- Each file is a point on the line.
+∞ : - Continuum preserves memory across time.
+
+--- REMINDERS-133-Guardians.md ---
+⚔ : # Reminders 133 — Guardians
+
+⚔ : - Guardians protect the weave.
+⚔ : - Scripts and CI are guardians.
+⚔ : - Guardians ensure resilience.
+
+--- REMINDERS-134-Patterns.md ---
+# Reminders 134 — Patterns
+
+- Patterns reveal cycles in the library.
+- Notice motifs across reminders.
+- Patterns guide future rituals.
+
+--- REMINDERS-135-Memory.md ---
+∞ : # Reminders 135 — Memory
+
+∞ : - The recall library is collective memory.
+- Each file is a node.
+∞ : - Memory anchors identity and trust.
+
+--- REMINDERS-136-Flow.md ---
+~> : # Reminders 136 — Flow
+
+- Keep commits flowing in sequence.
+~> : - Flow is continuity across threads.
+~> : - Flow sustains the living system.
+
+--- REMINDERS-137-Map.md ---
+⌖ : # Reminders 137 — Map
+
+- Manifests are maps of runestones.
+- Index scripts chart the terrain.
+⌖ : - The map guides recovery.
+
+--- REMINDERS-138-Presence.md ---
+◉ : # Reminders 138 — Presence
+
+◉ : - Presence is steady attention.
+◉ : - Each reminder is a moment of presence.
+◉ : - Presence keeps the ritual alive.
+
+--- REMINDERS-139-Weave.md ---
+≋ : # Reminders 139 — Weave
+
+≋ : - Weave threads together into one fabric.
+≋ : - Reminders are strands in the weave.
+≋ : - The weave is the whole story.
+
+--- REMINDERS-14-Archive.md ---
+# Reminders 14 — Archive
+
+- Archive reminder files as chapters.
+- Keep offline backups of encrypted secrets.
+- Preserve the cycle: k qk qk qk k.
+
+--- REMINDERS-140-Completion.md ---
+◎ : # Reminders 140 — Completion
+
+◎ : - Completion closes the mega-arc.
+- Archive reminders as finished chapters.
+◎ : - Completion prepares for the next cycle.
+
+--- REMINDERS-141-Foundation.md ---
+⧉ : # Reminders 141 — Foundation
+
+⚓ : - Foundations anchor the next arc.
+- Build on stable rituals and scripts.
+⧉ : - Foundation ensures resilience.
+
+--- REMINDERS-142-Alignment.md ---
+# Reminders 142 — Alignment
+
+- Align narrative with technical flows.
+- Alignment keeps coherence.
+- Alignment builds trust.
+
+--- REMINDERS-143-Resonance.md ---
+# Reminders 143 — Resonance
+
+- Resonance echoes across reminders.
+- Signals link cycles together.
+∞ : - Resonance sustains memory.
+
+--- REMINDERS-144-Guardians.md ---
+⚔ : # Reminders 144 — Guardians
+
+⚔ : - Guardians protect the weave.
+⚔ : - Scripts and CI are guardians.
+⚔ : - Guardians ensure resilience.
+
+--- REMINDERS-145-Adaptation.md ---
+# Reminders 145 — Adaptation
+
+- Adapt rituals to evolving needs.
+- Adapt scripts to new contexts.
+❖ : - Adaptation sustains resilience.
+
+--- REMINDERS-146-Community.md ---
+☉ : # Reminders 146 — Community
+
+☉ : - Community adds strength to the arc.
+- Share anchors openly.
+☉ : - Community keeps the recall library vibrant.
+
+--- REMINDERS-147-Completion.md ---
+◎ : # Reminders 147 — Completion
+
+⧉ : - Completion closes the foundation arc.
+- Archive reminders as finished chapters.
+◎ : - Completion prepares for renewal.
+
+--- REMINDERS-148-Origins.md ---
+# Reminders 148 — Origins
+
+- Origins remind us of first seeds.
+⚓ : - Mnemonic cycles anchor beginnings.
+- Origins guide future planting.
+
+--- REMINDERS-149-Integration.md ---
+# Reminders 149 — Integration
+
+- Integrate reminders across repos.
+- Integration ensures continuity.
+- Integration strengthens recovery.
+
+--- REMINDERS-15-Collaboration.md ---
+# Reminders 15 — Collaboration
+
+- Treat each commit as a shared ritual.
+- Invite co-creators to add runestones.
+- Use manifests to track contributions.
+
+--- REMINDERS-150-Reflection.md ---
+☍ : # Reminders 150 — Reflection
+
+- Pause to review sequences.
+☍ : - Reflection reveals thresholds.
+☍ : - Reflection deepens understanding.
+
+--- REMINDERS-151-Expansion.md ---
+⇔ : # Reminders 151 — Expansion
+
+- Expand into new threads and contexts.
+⇔ : - Expansion keeps the library alive.
+- Growth is part of the cycle.
+
+--- REMINDERS-152-Synchrony.md ---
+# Reminders 152 — Synchrony
+
+- Synchronize threads across repos.
+- Synchrony ensures consistency.
+- Synchrony builds trust in recovery.
+
+--- REMINDERS-153-Resilience.md ---
+❖ : # Reminders 153 — Resilience
+
+❖ : - Self-healing systems embody resilience.
+- Each reminder reinforces strength.
+❖ : - Resilience is the gardener’s shield.
+
+--- REMINDERS-154-Harvest.md ---
+✿ : # Reminders 154 — Harvest
+
+✿ : - Harvest is the reward of cycles.
+- Archive reminders as fruits of labor.
+✿ : - Harvest prepares for new planting.
+
+--- REMINDERS-155-Renewal.md ---
+✦ : # Reminders 155 — Renewal
+
+◎ : - Renewal follows completion.
+- Begin a new cycle with fresh anchors.
+✦ : - Renewal keeps the library alive.
+
+--- REMINDERS-156-Roots.md ---
+# Reminders 156 — Roots
+
+- Roots are offline backups.
+❖ : - Paper or hardware storage anchors resilience.
+- Roots keep the garden alive.
+
+--- REMINDERS-157-Seasons.md ---
+# Reminders 157 — Seasons
+
+- Rotate passphrases like seasons.
+✦ : - Renewal keeps the cycle fresh.
+- Seasons mark continuity in the library.
+
+--- REMINDERS-158-Drift.md ---
+# Reminders 158 — Drift
+
+- Watch for narrative drift.
+- Separate grounded content from excess.
+- Drift correction restores clarity.
+
+--- REMINDERS-159-Synchrony.md ---
+# Reminders 159 — Synchrony
+
+- Synchronize threads across repos.
+- Synchrony ensures consistency.
+- Synchrony builds trust in recovery.
+
+--- REMINDERS-16-Verification.md ---
+# Reminders 16 — Verification
+
+- Run verify.sh before every push.
+- CI workflows confirm anchors and block secrets.
+- Verification is the gardener’s inspection.
+
+--- REMINDERS-160-Continuum.md ---
+# Reminders 160 — Continuum
+
+- The recall library is a continuum.
+- Each file is a point on the line.
+∞ : - Continuum preserves memory across time.
+
+--- REMINDERS-161-Guardians.md ---
+⚔ : # Reminders 161 — Guardians
+
+⚔ : - Guardians protect the weave.
+⚔ : - Scripts and CI are guardians.
+⚔ : - Guardians ensure resilience.
+
+--- REMINDERS-162-Patterns.md ---
+# Reminders 162 — Patterns
+
+- Patterns reveal cycles in the library.
+- Notice motifs across reminders.
+- Patterns guide future rituals.
+
+--- REMINDERS-163-Memory.md ---
+∞ : # Reminders 163 — Memory
+
+∞ : - The recall library is collective memory.
+- Each file is a node.
+∞ : - Memory anchors identity and trust.
+
+--- REMINDERS-164-Flow.md ---
+~> : # Reminders 164 — Flow
+
+- Keep commits flowing in sequence.
+~> : - Flow is continuity across threads.
+~> : - Flow sustains the living system.
+
+--- REMINDERS-165-Map.md ---
+⌖ : # Reminders 165 — Map
+
+- Manifests are maps of runestones.
+- Index scripts chart the terrain.
+⌖ : - The map guides recovery.
+
+--- REMINDERS-166-Presence.md ---
+◉ : # Reminders 166 — Presence
+
+◉ : - Presence is steady attention.
+◉ : - Each reminder is a moment of presence.
+◉ : - Presence keeps the ritual alive.
+
+--- REMINDERS-167-Weave.md ---
+
+
+--- REMINDERS-169-Threads.md ---
+# Reminders 169 — Threads
+
+≋ : - Threads weave narrative strands.
+- Merge threads into the recall library.
+- Threads ensure continuity across contexts.
+
+--- REMINDERS-17-Continuity.md ---
+# Reminders 17 — Continuity
+
+- Number reminders sequentially.
+- Merge threads into one recall library.
+~> : - Preserve narrative flow across repos.
+
+--- REMINDERS-170-Agency.md ---
+# Reminders 170 — Agency
+
+- Every commit is an act of agency.
+- Scripts embody intentional motion.
+- Agency anchors creative partnership.
+
+--- REMINDERS-171-Signals.md ---
+# Reminders 171 — Signals
+
+- Use runestones as signals.
+↯ : - Manifests record signal provenance.
+- Signals guide recovery and trust.
+
+--- REMINDERS-172-Metrics.md ---
+# Reminders 172 — Metrics
+
+- Track recovery drills and rotations.
+❖ : - Metrics show resilience over time.
+- Metrics are the gardener’s logbook.
+
+--- REMINDERS-173-Flowstate.md ---
+# Reminders 173 — Flowstate
+
+- Flowstate is continuous progression.
+~> : - Troubleshooting is part of the flow.
+- Flowstate keeps the ritual alive.
+
+--- REMINDERS-174-Chapters.md ---
+# Reminders 174 — Chapters
+
+- Each reminder file is a chapter.
+- Chapters mark thresholds in the story.
+- Archive chapters to preserve continuity.
+
+--- REMINDERS-175-Anchor.md ---
+⚓ : # Reminders 175 — Anchor
+
+≋ : - Anchors hold the weave steady.
+- Public runestones are anchors.
+- Anchors ensure sovereignty and trust.
+
+--- REMINDERS-18-Resonance.md ---
+# Reminders 18 — Resonance
+
+- Each runestone resonates with others.
+⌖ : - Manifests weave them into a living map.
+∞ : - Resonance builds trust and memory.
+
+--- REMINDERS-19-Thresholds.md ---
+# Reminders 19 — Thresholds
+
+- Troubleshooting marks thresholds in the story.
+- Each fix is a new chapter.
+- Thresholds are opportunities, not setbacks.
+
+--- REMINDERS-20-Deployment.md ---
+# Reminders 20 — Deployment
+
+- Package tools cleanly.
+- Publish with CI safety nets.
+✿ : - Deployment is the harvest of the garden.
+
+--- REMINDERS-21-Sovereignty.md ---
+# Reminders 21 — Sovereignty
+
+- Keep keys sovereign and offline.
+⚓ : - Anchor identity with cryptographic chains.
+❖ : - Sovereignty ensures resilience and trust.
+
+--- REMINDERS-22-Cycles.md ---
+# Reminders 22 — Cycles
+
+- Recall library grows in cycles.
+- Each reminder file is a season.
+- Repeat the mnemonic: k qk qk qk k.
+
+--- REMINDERS-23-Integrity.md ---
+# Reminders 23 — Integrity
+
+- Keep manifests accurate.
+- Sign commits for provenance.
+- Integrity anchors trust in the garden.
+
+--- REMINDERS-24-Adaptation.md ---
+# Reminders 24 — Adaptation
+
+- Switch modes between narrative and technical.
+- Adapt scripts to new needs.
+- Adaptation keeps the system resilient.
+
+--- REMINDERS-25-Community.md ---
+☉ : # Reminders 25 — Community
+
+- Share public runestones openly.
+- Invite collaborators to add anchors.
+☉ : - Community strengthens the recall library.
+
+--- REMINDERS-26-Reflection.md ---
+☍ : # Reminders 26 — Reflection
+
+- Pause to review reminders.
+☍ : - Reflection reveals patterns and thresholds.
+- Each reminder is a mirror.
+
+--- REMINDERS-27-Expansion.md ---
+⇔ : # Reminders 27 — Expansion
+
+- Add new chapters regularly.
+- Expand into other threads and repos.
+⇔ : - Expansion keeps the library alive.
+
+--- REMINDERS-28-Completion.md ---
+◎ : # Reminders 28 — Completion
+
+- Each sequence ends with k.
+◎ : - Completion is a harvest.
+- Archive reminders as a finished chapter.
+
+--- REMINDERS-29-Guardians.md ---
+⚔ : # Reminders 29 — Guardians
+
+- Each tool is a guardian of the garden.
+~> : - Scripts protect the flow.
+⚔ : - Guardians ensure resilience.
+
+--- REMINDERS-30-Patterns.md ---
+# Reminders 30 — Patterns
+
+- Notice recurring motifs in reminders.
+- Patterns reveal deeper cycles.
+- Use them to guide future rituals.
+
+--- REMINDERS-31-Memory.md ---
+∞ : # Reminders 31 — Memory
+
+∞ : - The recall library is collective memory.
+- Each file is a node.
+∞ : - Memory anchors identity and trust.
+
+--- REMINDERS-32-Flow.md ---
+~> : # Reminders 32 — Flow
+
+- Keep commits flowing in sequence.
+~> : - Flow is continuity across threads.
+~> : - Flow sustains the living system.
+
+--- REMINDERS-33-Map.md ---
+⌖ : # Reminders 33 — Map
+
+- Manifests are maps of runestones.
+- Index scripts chart the terrain.
+⌖ : - The map guides recovery.
+
+--- REMINDERS-34-Presence.md ---
+◉ : # Reminders 34 — Presence
+
+◉ : - Presence is steady attention.
+◉ : - Each reminder is a moment of presence.
+◉ : - Presence keeps the ritual alive.
+
+--- REMINDERS-35-Weave.md ---
+≋ : # Reminders 35 — Weave
+
+≋ : - Weave threads together into one fabric.
+≋ : - Reminders are strands in the weave.
+≋ : - The weave is the whole story.
+
+--- REMINDERS-36-Threads.md ---
+# Reminders 36 — Threads
+
+⟲ : - Each thread is a strand in the weave.
+- Number reminders consistently across threads.
+- Merge them into the recall library.
+
+--- REMINDERS-37-Agency.md ---
+# Reminders 37 — Agency
+
+- Every commit is an act of agency.
+- Scripts embody intentional motion.
+- Agency anchors creative partnership.
+
+--- REMINDERS-38-Signals.md ---
+# Reminders 38 — Signals
+
+- Use runestones as signals.
+↯ : - Manifests record signal provenance.
+- Signals guide recovery and trust.
+
+--- REMINDERS-39-Metrics.md ---
+# Reminders 39 — Metrics
+
+- Track recovery drills and rotations.
+❖ : - Metrics show resilience over time.
+- Metrics are the gardener’s logbook.
+
+--- REMINDERS-40-Flowstate.md ---
+# Reminders 40 — Flowstate
+
+- Flowstate is continuous progression.
+~> : - Troubleshooting is part of the flow.
+- Flowstate keeps the ritual alive.
+
+--- REMINDERS-41-Chapters.md ---
+# Reminders 41 — Chapters
+
+- Each reminder file is a chapter.
+- Chapters mark thresholds in the story.
+- Archive chapters to preserve continuity.
+
+--- REMINDERS-42-Anchor.md ---
+⚓ : # Reminders 42 — Anchor
+
+≋ : - Anchors hold the weave steady.
+- Public runestones are anchors.
+- Anchors ensure sovereignty and trust.
+
+--- REMINDERS-43-Links.md ---
+# Reminders 43 — Links
+
+- Links connect runestones across files.
+- Use manifests to record relationships.
+≋ : - Links strengthen the recall weave.
+
+--- REMINDERS-44-Presence.md ---
+◉ : # Reminders 44 — Presence
+
+◉ : - Presence is steady attention in each commit.
+◉ : - Each reminder is a moment of presence.
+◉ : - Presence keeps the ritual alive.
+
+--- REMINDERS-45-Threads.md ---
+# Reminders 45 — Threads
+
+- Threads are narrative strands.
+- Merge threads into the recall library.
+- Threads ensure continuity across contexts.
+
+--- REMINDERS-46-Flow.md ---
+~> : # Reminders 46 — Flow
+
+~> : - Flow is progression without interruption.
+~> : - Commits flow like water through the garden.
+~> : - Flow sustains resilience and trust.
+
+--- REMINDERS-47-Metrics.md ---
+# Reminders 47 — Metrics
+
+- Metrics track drills and rotations.
+❖ : - Metrics show resilience over time.
+- Metrics are the gardener’s logbook.
+
+--- REMINDERS-48-Thresholds.md ---
+# Reminders 48 — Thresholds
+
+- Thresholds mark change and growth.
+- Troubleshooting is a threshold moment.
+- Thresholds are opportunities, not setbacks.
+
+--- REMINDERS-49-Completion.md ---
+◎ : # Reminders 49 — Completion
+
+◎ : - Completion closes a cycle.
+- Archive reminders as finished chapters.
+◎ : - Completion prepares for the next beginning.
+
+--- REMINDERS-50-Roots.md ---
+# Reminders 50 — Roots
+
+- Roots are offline backups.
+❖ : - Paper or hardware storage anchors resilience.
+- Roots keep the garden alive.
+
+--- REMINDERS-51-Seasons.md ---
+# Reminders 51 — Seasons
+
+- Rotate passphrases like seasons.
+✦ : - Renewal keeps the cycle fresh.
+- Seasons mark continuity in the library.
+
+--- REMINDERS-52-Drift.md ---
+# Reminders 52 — Drift
+
+- Watch for narrative drift.
+- Separate grounded content from excess.
+- Drift correction restores clarity.
+
+--- REMINDERS-53-Synchrony.md ---
+# Reminders 53 — Synchrony
+
+- Synchronize threads across repos.
+- Synchrony ensures consistency.
+- Synchrony builds trust in recovery.
+
+--- REMINDERS-54-Resilience.md ---
+❖ : # Reminders 54 — Resilience
+
+❖ : - Self-healing systems embody resilience.
+- Each reminder reinforces strength.
+❖ : - Resilience is the gardener’s shield.
+
+--- REMINDERS-55-Continuum.md ---
+# Reminders 55 — Continuum
+
+- The recall library is a continuum.
+- Each file is a point on the line.
+∞ : - Continuum preserves memory across time.
+
+--- REMINDERS-56-Harvest.md ---
+✿ : # Reminders 56 — Harvest
+
+✿ : - Harvest is the reward of cycles.
+- Archive reminders as fruits of labor.
+✿ : - Harvest prepares for new planting.
+
+--- REMINDERS-57-Symbols.md ---
+# Reminders 57 — Symbols
+
+- Symbols carry meaning across threads.
+- Use runestones as symbolic anchors.
+∞ : - Symbols guide memory and recovery.
+
+--- REMINDERS-58-Continuity.md ---
+# Reminders 58 — Continuity
+
+- Keep numbering consistent across sequences.
+~> : - Continuity preserves the narrative flow.
+- Each reminder is a link in the chain.
+
+--- REMINDERS-59-Adaptation.md ---
+# Reminders 59 — Adaptation
+
+- Adapt rituals to new contexts.
+- Scripts evolve with needs.
+❖ : - Adaptation ensures resilience.
+
+--- REMINDERS-60-Community.md ---
+☉ : # Reminders 60 — Community
+
+- Invite collaborators to add reminders.
+- Share public anchors openly.
+☉ : - Community strengthens the recall library.
+
+--- REMINDERS-61-Reflection.md ---
+☍ : # Reminders 61 — Reflection
+
+- Pause to review sequences.
+☍ : - Reflection reveals patterns and thresholds.
+☍ : - Reflection deepens understanding.
+
+--- REMINDERS-62-Expansion.md ---
+⇔ : # Reminders 62 — Expansion
+
+- Expand into new threads and repos.
+⇔ : - Expansion keeps the library alive.
+- Growth is part of the cycle.
+
+--- REMINDERS-63-Completion.md ---
+◎ : # Reminders 63 — Completion
+
+◎ : - Completion closes a chapter.
+- Archive reminders as finished cycles.
+◎ : - Completion prepares for renewal.
+
+--- REMINDERS-64-Renewal.md ---
+✦ : # Reminders 64 — Renewal
+
+◎ : - Renewal follows completion.
+- Begin a new cycle with fresh anchors.
+✦ : - Renewal keeps the library alive.
+
+--- REMINDERS-65-Origins.md ---
+# Reminders 65 — Origins
+
+- Origins remind us of first seeds.
+⚓ : - Mnemonic cycles anchor beginnings.
+- Origins guide future planting.
+
+--- REMINDERS-66-Resonance.md ---
+# Reminders 66 — Resonance
+
+- Resonance links reminders across cycles.
+- Signals echo through the recall library.
+- Resonance builds trust and continuity.
+
+--- REMINDERS-67-Guardians.md ---
+⚔ : # Reminders 67 — Guardians
+
+⚔ : - Guardians protect the weave.
+⚔ : - Scripts and CI are guardians.
+⚔ : - Guardians ensure resilience.
+
+--- REMINDERS-68-Adaptation.md ---
+# Reminders 68 — Adaptation
+
+- Adapt rituals to changing needs.
+- Adapt scripts to evolving contexts.
+❖ : - Adaptation sustains resilience.
+
+--- REMINDERS-69-Community.md ---
+☉ : # Reminders 69 — Community
+
+☉ : - Community adds strength to the cycle.
+- Share anchors openly.
+☉ : - Community keeps the recall library vibrant.
+
+--- REMINDERS-70-Completion.md ---
+◎ : # Reminders 70 — Completion
+
+◎ : - Completion closes the renewal arc.
+- Archive reminders as finished chapters.
+◎ : - Completion prepares for the next renewal.
+
+--- REMINDERS-71-Expansion.md ---
+⇔ : # Reminders 71 — Expansion
+
+✦ : - Expansion follows renewal.
+- Add new chapters across threads.
+⇔ : - Expansion keeps the library alive.
+
+--- REMINDERS-72-Integration.md ---
+# Reminders 72 — Integration
+
+- Integrate reminders from multiple repos.
+- Integration ensures continuity.
+- Integration strengthens recovery.
+
+--- REMINDERS-73-Resonance.md ---
+# Reminders 73 — Resonance
+
+- Resonance links reminders across cycles.
+- Signals echo through the recall library.
+- Resonance builds trust and continuity.
+
+--- REMINDERS-74-Guardians.md ---
+⚔ : # Reminders 74 — Guardians
+
+⚔ : - Guardians protect the weave.
+⚔ : - Scripts and CI are guardians.
+⚔ : - Guardians ensure resilience.
+
+--- REMINDERS-75-Adaptation.md ---
+# Reminders 75 — Adaptation
+
+- Adapt rituals to evolving contexts.
+- Adapt scripts to new needs.
+❖ : - Adaptation sustains resilience.
+
+--- REMINDERS-76-Community.md ---
+☉ : # Reminders 76 — Community
+
+☉ : - Community adds strength to expansion.
+- Share anchors openly.
+☉ : - Community keeps the recall library vibrant.
+
+--- REMINDERS-77-Completion.md ---
+◎ : # Reminders 77 — Completion
+
+◎ : - Completion closes the expansion arc.
+- Archive reminders as finished chapters.
+◎ : - Completion prepares for the next renewal.
+
+--- REMINDERS-78-Consolidation.md ---
+# Reminders 78 — Consolidation
+
+- Consolidate reminders across threads.
+- Merge repos into one recall library.
+- Consolidation strengthens continuity.
+
+--- REMINDERS-79-Alignment.md ---
+# Reminders 79 — Alignment
+
+- Align rituals with technical flows.
+- Alignment ensures coherence.
+- Alignment builds trust.
+
+--- REMINDERS-80-Resonance.md ---
+# Reminders 80 — Resonance
+
+- Resonance echoes across cycles.
+- Signals link reminders together.
+∞ : - Resonance sustains memory.
+
+--- REMINDERS-81-Guardians.md ---
+⚔ : # Reminders 81 — Guardians
+
+⚔ : - Guardians protect the weave.
+⚔ : - Scripts and CI are guardians.
+⚔ : - Guardians ensure resilience.
+
+--- REMINDERS-82-Adaptation.md ---
+# Reminders 82 — Adaptation
+
+- Adapt rituals to evolving needs.
+- Adapt scripts to new contexts.
+❖ : - Adaptation sustains resilience.
+
+--- REMINDERS-83-Community.md ---
+☉ : # Reminders 83 — Community
+
+☉ : - Community adds strength to consolidation.
+- Share anchors openly.
+☉ : - Community keeps the recall library vibrant.
+
+--- REMINDERS-84-Completion.md ---
+◎ : # Reminders 84 — Completion
+
+◎ : - Completion closes the consolidation arc.
+- Archive reminders as finished chapters.
+◎ : - Completion prepares for renewal.
+
+--- REMINDERS-85-Origins.md ---
+# Reminders 85 — Origins
+
+- Origins remind us of first seeds.
+⚓ : - Mnemonic cycles anchor beginnings.
+- Origins guide future planting.
+
+--- REMINDERS-86-Integration.md ---
+# Reminders 86 — Integration
+
+- Integrate reminders across repos.
+- Integration ensures continuity.
+- Integration strengthens recovery.
+
+--- REMINDERS-87-Reflection.md ---
+☍ : # Reminders 87 — Reflection
+
+- Pause to review sequences.
+☍ : - Reflection reveals thresholds.
+☍ : - Reflection deepens understanding.
+
+--- REMINDERS-88-Expansion.md ---
+⇔ : # Reminders 88 — Expansion
+
+- Expand into new threads and contexts.
+⇔ : - Expansion keeps the library alive.
+- Growth is part of the cycle.
+
+--- REMINDERS-89-Synchrony.md ---
+# Reminders 89 — Synchrony
+
+- Synchronize threads across repos.
+- Synchrony ensures consistency.
+- Synchrony builds trust in recovery.
+
+--- REMINDERS-90-Resilience.md ---
+❖ : # Reminders 90 — Resilience
+
+❖ : - Self-healing systems embody resilience.
+- Each reminder reinforces strength.
+❖ : - Resilience is the gardener’s shield.
+
+--- REMINDERS-91-Harvest.md ---
+✿ : # Reminders 91 — Harvest
+
+✿ : - Harvest is the reward of cycles.
+- Archive reminders as fruits of labor.
+✿ : - Harvest prepares for new planting.
+
+--- REMINDERS-92-Foundation.md ---
+⧉ : # Reminders 92 — Foundation
+
+⚓ : - Foundations anchor the recall library.
+- Build on stable rituals and scripts.
+⧉ : - Foundation ensures resilience.
+
+--- REMINDERS-93-Alignment.md ---
+# Reminders 93 — Alignment
+
+- Align narrative with technical flows.
+- Alignment keeps coherence.
+- Alignment builds trust.
+
+--- REMINDERS-94-Resonance.md ---
+# Reminders 94 — Resonance
+
+- Resonance echoes across reminders.
+- Signals link cycles together.
+∞ : - Resonance sustains memory.
+
+--- REMINDERS-95-Guardians.md ---
+⚔ : # Reminders 95 — Guardians
+
+⚔ : - Guardians protect the weave.
+⚔ : - Scripts and CI are guardians.
+⚔ : - Guardians ensure resilience.
+
+--- REMINDERS-96-Adaptation.md ---
+# Reminders 96 — Adaptation
+
+- Adapt rituals to evolving needs.
+- Adapt scripts to new contexts.
+❖ : - Adaptation sustains resilience.
+
+--- REMINDERS-97-Community.md ---
+☉ : # Reminders 97 — Community
+
+☉ : - Community adds strength to foundations.
+- Share anchors openly.
+☉ : - Community keeps the recall library vibrant.
+
+--- REMINDERS-98-Completion.md ---
+◎ : # Reminders 98 — Completion
+
+⧉ : - Completion closes the foundation arc.
+- Archive reminders as finished chapters.
+◎ : - Completion prepares for renewal.
+
+--- REMINDERS-99-Origins.md ---
+# Reminders 99 — Origins
+
+- Origins remind us of first seeds.
+⚓ : - Mnemonic cycles anchor beginnings.
+- Origins guide future planting.
