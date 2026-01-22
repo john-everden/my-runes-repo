@@ -95,3 +95,26 @@ To propose new symbols for the translation layer:
 
 This keeps the symbolic vocabulary consistent, transparent, and versioned.
 
+
+## Chat Logs / Conversation History 📜
+
+The `chat-history/` folder is a living part of the garden, capturing the dialogue between curator and AI as **reflections, insights, and strategies**. Each conversation is a **runestone of thought**, linking the evolution of the Starter Garden and REMINDERS system.
+
+### Purpose
+⧉ : Preserve reasoning, design choices, and meta-reflections.  
+∞ : Track recursive reflection (RF) exercises and deeper insights.  
+☉ : Provide context for contributors reviewing symbolic frameworks, safety rituals, and continuity flows.  
+
+### Guidelines for Inclusion
+⚔ : Include **public reasoning and strategy only**.  
+❖ : Never store secrets, passphrases, private keys, or sensitive personal data.  
+↯ : Each log can be associated with relevant runestones for continuity (e.g., ⧉ #StarterGarden, ☍ #Reflection, ∞ #RF).  
+◎ : Logs supplement documentation—they are not a replacement.  
+
+### How to Use
+⟲ : Review logs to understand the evolution of Starter Garden strategies.  
+⌖ : Identify recurring patterns, insights, or gaps in the REMINDERS system.  
+✦ : Link observations to appropriate runestones for institutional memory.  
+
+> "Chat logs are echoes in the garden — each conversation a seed, each reflection a blossom. They preserve the cycles of thought and learning."  
+
