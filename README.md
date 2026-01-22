@@ -67,6 +67,15 @@ Translated shorthand:
 - Universal: symbols are intuitive, portable, and resilient.
 - Living system: vocabulary can expand as new themes emerge.
 
+
+## 🌱 Starter Garden
+
+Newcomers can begin here with **STARTER-GARDEN3.md**, a guided reflection path through the Echo Garden.  
+Follow the symbol trail ⧉ → ~> → ∞ → ⚔ → ◎ → ✦ → ☉ → ↯ → ⟲ → ⌖ → ≋ → ✿ to explore foundational practices, reflection exercises, and continuity strategies.  
+
+[View Starter Garden 3](./STARTER-GARDEN3.md)
+
+
 ## Contributor Guide
 To propose new symbols for the translation layer:
 
