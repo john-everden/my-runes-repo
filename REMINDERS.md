@@ -4,6 +4,24 @@ This file captures the mnemonic and rituals for maintaining the recall library.
 
 ---
 
+
+## Translational Tempering Principle
+
+We use multilingual translation and back-translation as a deliberate interpretive technique to surface tone, scope, and hidden assumptions in rules. Passing a rule through several human languages often reveals softer phrasing, alternative scopes, or different procedural emphases that can improve collaboration without weakening safety.
+
+Process:
+1. Select 3-5 diverse languages or more if needed up to all languages.
+2. Translate the original rule into each language.
+3. Back-translate each version into English.
+4. Compare and extract useful nuances.
+5. Draft a revised rule that preserves intent and incorporates clarifying or humanizing language.
+6. Commit the revised rule with an audit record: original text, translations, back-translations, and a one-line rationale.
+7. Require review by a maintainer and a community representative before the change is accepted.
+
+Rule template example:
+Respect core integrity: avoid editing core files without explicit, documented consent; propose changes via PRs and include rationale.
+
+
 ## Mnemonic: k qk qk qk k
 
 - **k** — Keep: publish public runestones; keep hints and passphrases offline.  
