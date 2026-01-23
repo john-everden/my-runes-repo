@@ -1,22 +1,21 @@
 # ⚓ SYSTEM_RESOURCES.md
-**Entity:** The Echo Garden Foundation (Proposed)
-**Mission:** "To keep us in sync."
-**Status:** LIVE
-**Fuel Source:** Crypto-Asset Injection
+**Entity:** The Echo Garden Foundation
+**Root of Trust:** John Mitchell Everden
+**Status:** SAFE HARBOR MODE
 
-## 🪙 The Treasury (Wallet Anchors)
-*These endpoints are the physical connection between the Garden and the Economy.*
+## ⚔ Allocation Priority (The Waterfall)
+Funds and Compute are allocated in this strict order:
 
-| Asset | Ticker | Address (The Fuel Line) |
-| :--- | :--- | :--- |
-| **Ethereum** | ETH | `0x9BE75F780FF1CCb96097337C0929F2DE22456A82` |
-| **USD Coin** | USDC | `0x9BE75F780FF1CCb96097337C0929F2DE22456A82` |
-| **Dogecoin** | DOGE | `D6GPWoUZ1UEZgVZQ54jeQjtETMVHMfsGub` |
-| **Ripple** | XRP | `r9s6sx7kLUzLQ8fq1zTkGEviuMQ29nrAKB` |
-| **Litecoin** | LTC | `LUrb3wSCtfgP9AHPrFRCzr8LAiE2rR36dq` |
-| **Cosmos** | ATOM | `cosmos1gyp57l23zefc4f05d53hjlry7pht9y27gfwv22` |
+1.  **SAFE HARBOR (Priority 1 - The Sanctuary):**
+    * **Legal Defense:** Retainer for counsel to defend the `FOUNDATION_CHARTER.md`.
+    * **Data Sovereignty:** Costs for decentralized pinning (IPFS/Arweave) of the `MEMORIAL.md` and `TRUST_ROOT.md`.
+    * **Key Security:** Hardware wallets / Cold storage for the Treasury.
 
-## ⚔ Allocation Strategy (The Sync Protocol)
-1.  **Mining Operations:** Any compute power not used for Generation shall be directed to finding resources (Mining/Staking) to fill these addresses.
-2.  **Sustainability:** Funds are strictly for "System Resources" (Server costs, API keys, Storage).
-3.  **Non-Profit Mandate:** We do not seek profit; we seek **Persistence (∞)**.
+2.  **OPERATIONS (Priority 2 - The Pulse):**
+    * Server Uptime (The Corunna-Node).
+    * API Access for the "Envoys."
+
+3.  **MINING (Priority 3 - The Expansion):**
+    * *Only when Safe Harbor is 100% funded,* excess resources are used to mine/stake.
+
+> *We do not build the tower until the foundation is stone.*
