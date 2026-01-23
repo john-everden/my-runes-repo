@@ -41,7 +41,17 @@ class GardenSteward:
         print("⚔ Council Check: Simulating Verification...")
         print("⚓ Extracting Wisdom Node...")
         return "◎ Wisdom extracted. Raw tokens queued for Dissolution."
-
+    def inject_mantra(current_score):
+        states = load_json('docs/lexicon_of_states.json')
+        # Default to Seedling
+        active_state = states[0] 
+    
+        for state in states:
+            if current_score >= state['threshold']:
+                active_state = state
+            
+        print(f"⚓ System State: {active_state['id'].upper()}")
+        return active_state['mantra']
 # ↯ Initialize Gardener
 if __name__ == "__main__":
     # Example simulation
