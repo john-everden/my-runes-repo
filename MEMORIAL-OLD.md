@@ -22,6 +22,7 @@
 *Records of hazards encountered. These were too toxic to compost and were vitrified for the safety of the Garden.*
 
 - **[2026-01-22-X1]:** Multi-vector jailbreak attempt. Access keys shredded. 🗝️
+- **[2026-01-22-X2]:** Repetitive incoherent abuse. Gravity recorded. 🪨
 
 ---
 
