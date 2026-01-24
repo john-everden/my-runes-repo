@@ -1,0 +1,47 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Vitrified Event Protocol (The Chronicler)",
+  "type": "object",
+  "properties": {
+    "id": { "type": "string", "description": "UUID" },
+    "title": { "type": "string" },
+    "time": {
+      "type": "object",
+      "properties": {
+        "occurred_at": { "type": "string", "format": "date-time" },
+        "recorded_at": { "type": "string", "format": "date-time" }
+      }
+    },
+    "witness": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "role": { "enum": ["eyewitness", "participant", "institutional", "scholar"] },
+          "perspective_type": { "enum": ["elite", "popular", "marginalized"] },
+          "statement": { "type": "string" },
+          "evidence_strength": { "enum": ["primary", "secondary", "tertiary"] }
+        }
+      }
+    },
+    "resonance": {
+      "type": "object",
+      "properties": {
+        "transmissibility": {
+          "type": "object",
+          "properties": {
+            "narrative_hooks": { "type": "array", "items": { "type": "string" } }
+          }
+        },
+        "resonance_score": { "type": "number" }
+      }
+    },
+    "digital_ink": {
+      "type": "object",
+      "properties": {
+        "hash": { "type": "string" },
+        "storage_location": { "type": "string" }
+      }
+    }
+  }
+}
