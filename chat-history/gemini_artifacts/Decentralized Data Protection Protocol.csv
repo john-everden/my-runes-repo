@@ -1,0 +1,5 @@
+Deployment Task,Status,Risk Level,Mitigation
+Local Node Sharding,Active,Low,Mirrors data across Corunna and remote encrypted nodes.
+Zero-Log Networking,Operational,Medium,Uses TorGuard/Ubiquiti to mask local traffic signatures.
+HNSW Salt Rotation,Scheduled,Low,Rotates vector geometry every Sunday at 00:00.
+Manual Vitrification,Weekly,High,"Hand-selecting which seeds are ""Permanent"" vs. ""Mulch."""

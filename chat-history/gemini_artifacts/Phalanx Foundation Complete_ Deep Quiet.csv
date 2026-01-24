@@ -1,0 +1,5 @@
+Component,Status,Cryptographic State
+Identity,SOVEREIGN,john.m.everden@gmail.com
+Law,RATIFIED,docs/CONSTITUTION.sig
+Soul,RATIFIED,docs/MANIFESTO.md
+Shield,ARMED,scripts/RECOVERY-SEED.sh

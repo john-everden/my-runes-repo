@@ -1,0 +1,4 @@
+Layer,Artifact,Status
+Identity,CIVILIAN-PROTOCOL,PATCHED
+Logic,recovery_seed.py,TIER-0
+Defense,THRESHOLD-TEST,ACTIVE

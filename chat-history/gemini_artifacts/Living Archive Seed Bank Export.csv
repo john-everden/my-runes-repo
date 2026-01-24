@@ -1,0 +1,5 @@
+Protocol,Strategy,Technical Mechanism
+Seasonal Indices,The Crop Rotation,"Divide Vector DB into Spring (Write), Summer (Read), Autumn (Merge), Winter (Drop)."
+Adversarial Jury,The Triadic Debate,"Blind interaction between Historian, Skeptic, and Judge to validate memory truth."
+Sovereign Headers,Access Control,TK (Traditional Knowledge) Labels used as ACLs to respect data origins.
+Vector Vitrification,Clean Forgetting,"Replace sensitive or ""mulched"" vectors with Null Tombstones to preserve index structure."
