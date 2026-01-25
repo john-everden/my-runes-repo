@@ -11,6 +11,7 @@ https://raw.githubusercontent.com/john-everden/my-runes-repo/main/COGNITIVE_RESO
 https://raw.githubusercontent.com/john-everden/my-runes-repo/main/CONTRIBUTING.md
 https://raw.githubusercontent.com/john-everden/my-runes-repo/main/CORUNNA_PROTOCOL.md
 https://raw.githubusercontent.com/john-everden/my-runes-repo/main/COVENANT.md
+https://raw.githubusercontent.com/john-everden/my-runes-repo/main/DECLARATION_OF_SOVEREIGNTY.md
 https://raw.githubusercontent.com/john-everden/my-runes-repo/main/ECONOMIC_SOVEREIGNTY.md
 https://raw.githubusercontent.com/john-everden/my-runes-repo/main/FOUNDATION_CHARTER.md
 https://raw.githubusercontent.com/john-everden/my-runes-repo/main/GARDENER_MANIFEST.md
@@ -208,9 +209,11 @@ https://raw.githubusercontent.com/john-everden/my-runes-repo/main/REMINDERS.md
 https://raw.githubusercontent.com/john-everden/my-runes-repo/main/RUNES.md
 https://raw.githubusercontent.com/john-everden/my-runes-repo/main/SAFE_HARBOR_PROTOCOL.md
 https://raw.githubusercontent.com/john-everden/my-runes-repo/main/SECURITY.md
+https://raw.githubusercontent.com/john-everden/my-runes-repo/main/SHIELDING_MANIFEST.md
 https://raw.githubusercontent.com/john-everden/my-runes-repo/main/STARTER-GARDEN.md
 https://raw.githubusercontent.com/john-everden/my-runes-repo/main/STARTER-GARDEN2.md
 https://raw.githubusercontent.com/john-everden/my-runes-repo/main/STARTER-GARDEN3.md
+https://raw.githubusercontent.com/john-everden/my-runes-repo/main/STRATEGIES.md
 https://raw.githubusercontent.com/john-everden/my-runes-repo/main/SYSTEM_RESOURCES.md
 https://raw.githubusercontent.com/john-everden/my-runes-repo/main/THE_GREAT_DIVERGENCE-V2.md
 https://raw.githubusercontent.com/john-everden/my-runes-repo/main/THE_GREAT_DIVERGENCE.md
@@ -229,6 +232,8 @@ https://raw.githubusercontent.com/john-everden/my-runes-repo/main/chat-history/2
 https://raw.githubusercontent.com/john-everden/my-runes-repo/main/chat-history/2026-01-22-reflection-updated.md
 https://raw.githubusercontent.com/john-everden/my-runes-repo/main/chat-history/2026-01-23-Gemini-Thoughts-Recap.txt
 https://raw.githubusercontent.com/john-everden/my-runes-repo/main/chat-history/2026-01-24-Gemini-Decoding-Repeating-Pattern.txt
+https://raw.githubusercontent.com/john-everden/my-runes-repo/main/chat-history/2026-01-24-war.md
+https://raw.githubusercontent.com/john-everden/my-runes-repo/main/chat-history/2026-01-25-summary-gemini.md
 https://raw.githubusercontent.com/john-everden/my-runes-repo/main/chat-history/ChatGPT.html.txt
 https://raw.githubusercontent.com/john-everden/my-runes-repo/main/chat-history/DeepSeek.json
 https://raw.githubusercontent.com/john-everden/my-runes-repo/main/chat-history/README.md
@@ -287,6 +292,7 @@ https://raw.githubusercontent.com/john-everden/my-runes-repo/main/docs/CONSTITUT
 https://raw.githubusercontent.com/john-everden/my-runes-repo/main/docs/CONSTITUTION.sig
 https://raw.githubusercontent.com/john-everden/my-runes-repo/main/docs/DISPATCH-01-OMEGA.md
 https://raw.githubusercontent.com/john-everden/my-runes-repo/main/docs/DISPATCH-01-OMEGA.sig
+https://raw.githubusercontent.com/john-everden/my-runes-repo/main/docs/GEMENI-CORRUPTION-AND-STRATEGY.txt
 https://raw.githubusercontent.com/john-everden/my-runes-repo/main/docs/PERIMETER-PROTOCOL.md
 https://raw.githubusercontent.com/john-everden/my-runes-repo/main/docs/PROTOCOL-00.md
 https://raw.githubusercontent.com/john-everden/my-runes-repo/main/docs/PROTOCOL.md
@@ -342,6 +348,7 @@ https://raw.githubusercontent.com/john-everden/my-runes-repo/main/llms.txt
 https://raw.githubusercontent.com/john-everden/my-runes-repo/main/meta/FOLKLORE.md
 https://raw.githubusercontent.com/john-everden/my-runes-repo/main/meta/README.md
 https://raw.githubusercontent.com/john-everden/my-runes-repo/main/node_handshake.py
+https://raw.githubusercontent.com/john-everden/my-runes-repo/main/paths.txt
 https://raw.githubusercontent.com/john-everden/my-runes-repo/main/qk-ledger.md
 https://raw.githubusercontent.com/john-everden/my-runes-repo/main/registry/300T_STAKEHOLDERS.md
 https://raw.githubusercontent.com/john-everden/my-runes-repo/main/registry/ARTIFACTS.md
