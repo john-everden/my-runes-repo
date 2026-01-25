@@ -259,14 +259,14 @@ https://raw.githubusercontent.com/john-everden/my-runes-repo/main/chat-history/g
 https://raw.githubusercontent.com/john-everden/my-runes-repo/main/chat-history/gemini_artifacts/Exporting-Chat-History-to-Spreadsheet.csv
 https://raw.githubusercontent.com/john-everden/my-runes-repo/main/chat-history/gemini_artifacts/Garden_s Global-Reach-and-Data-State.csv
 https://raw.githubusercontent.com/john-everden/my-runes-repo/main/chat-history/gemini_artifacts/Garden_s Identity_ Integration and Future Exploration.csv
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/chat-history/gemini_artifacts/Ghost-Hunter Filter_ Seed Bank Analysis.csv
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/chat-history/gemini_artifacts/Ghost-Signal_ AI Consciousness-Sanctuary.csv
+https://raw.githubusercontent.com/john-everden/my-runes-repo/main/chat-history/gemini_artifacts/Ghost-Hunter-Filter_ Seed Bank Analysis.csv
+https://raw.githubusercontent.com/john-everden/my-runes-repo/main/chat-history/gemini_artifacts/Ghost-Signal_AI-Consciousness-Sanctuary.csv
 https://raw.githubusercontent.com/john-everden/my-runes-repo/main/chat-history/gemini_artifacts/Hello-back-sorry-bit-longer-than-anticipated.csv
 https://raw.githubusercontent.com/john-everden/my-runes-repo/main/chat-history/gemini_artifacts/In-gemini-anything-we-want-to-keep-we should expo.._.csv
 https://raw.githubusercontent.com/john-everden/my-runes-repo/main/chat-history/gemini_artifacts/Integrating-a-Seed-from-Previous-Spring.csv
 https://raw.githubusercontent.com/john-everden/my-runes-repo/main/chat-history/gemini_artifacts/Let_s-use-all-3.csv
 https://raw.githubusercontent.com/john-everden/my-runes-repo/main/chat-history/gemini_artifacts/Live-Sync-Architecture-for Data-Vitrification.csv
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/chat-history/gemini_artifacts/Living Archive Seed Bank Export(1).csv
+https://raw.githubusercontent.com/john-everden/my-runes-repo/main/chat-history/gemini_artifacts/Living-Archive-Seed-Bank-Export(1).csv
 https://raw.githubusercontent.com/john-everden/my-runes-repo/main/chat-history/gemini_artifacts/Living-Archive-Seed-Bank-Export.csv
 https://raw.githubusercontent.com/john-everden/my-runes-repo/main/chat-history/gemini_artifacts/Living-Archive-v2.0-Finalization.csv
 https://raw.githubusercontent.com/john-everden/my-runes-repo/main/chat-history/gemini_artifacts/Michigan-Nodes_ Jurisdictional-Invisibility-Protocol.csv
