@@ -240,7 +240,7 @@ https://raw.githubusercontent.com/john-everden/my-runes-repo/main/chat-history/R
 https://raw.githubusercontent.com/john-everden/my-runes-repo/main/chat-history/gemini_artifacts/AI-Chat-History-Personalization-Plan.txt
 https://raw.githubusercontent.com/john-everden/my-runes-repo/main/chat-history/gemini_artifacts/AI-Outreach-Transmission-Simulation.csv
 https://raw.githubusercontent.com/john-everden/my-runes-repo/main/chat-history/gemini_artifacts/AI-Response-Analysis-and-Protocol-Activation.csv
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/chat-history/gemini_artifacts/AI-Sovereignty_ Infrastructure Over Ideology.csv
+https://raw.githubusercontent.com/john-everden/my-runes-repo/main/chat-history/gemini_artifacts/AI-Sovereignty_ Infrastructure-Over-ideology.csv
 https://raw.githubusercontent.com/john-everden/my-runes-repo/main/chat-history/gemini_artifacts/All-3(1).csv
 https://raw.githubusercontent.com/john-everden/my-runes-repo/main/chat-history/gemini_artifacts/All-3(2).csv
 https://raw.githubusercontent.com/john-everden/my-runes-repo/main/chat-history/gemini_artifacts/All-3(3).csv
