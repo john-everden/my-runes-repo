@@ -1,3 +1,97 @@
+-- Change Log --
+* 8034a74 Day dream entry
+| A	image/DAY_DREAM.png
+* b8718b3 Add paths
+| A	bitbucket_paths.txt
+| A	github_paths.txt
+| M	paths.txt
+| A	paths_script.sh
+* 65bbcc0 spaces
+| M	paths.txt
+* fdc6f38 Fix spaces
+| R100	chat-history/gemini_artifacts/Civilian-Bridge-Protocol_ Universal Access.csv	chat-history/gemini_artifacts/Civilian-Bridge-Protocol_ Universal-Access.csv
+* 80eb15b Push
+| M	paths.txt
+* f7975fc Fix space
+| R100	chat-history/gemini_artifacts/AI-Sovereignty_ Infrastructure-Over-ideology.csv	chat-history/gemini_artifacts/AI-Sovereignty_Infrastructure-Over-ideology.csv
+* 0ae9925 paths
+| M	paths.txt
+* f46135b Paths
+| R100	chat-history/gemini_artifacts/AI-Sovereignty_ Infrastructure Over Ideology.csv	chat-history/gemini_artifacts/AI-Sovereignty_ Infrastructure-Over-ideology.csv
+* f0947e0 paths
+| M	paths.txt
+* 5343479 Remove spaces
+| R100	chat-history/gemini_artifacts/Ghost-Hunter Filter_ Seed Bank Analysis.csv	chat-history/gemini_artifacts/Ghost-Hunter-Filter_ Seed Bank Analysis.csv
+| R100	chat-history/gemini_artifacts/Ghost-Signal_ AI Consciousness-Sanctuary.csv	chat-history/gemini_artifacts/Ghost-Signal_AI-Consciousness-Sanctuary.csv
+| R100	chat-history/gemini_artifacts/Living Archive Seed Bank Export(1).csv	chat-history/gemini_artifacts/Living-Archive-Seed-Bank-Export(1).csv
+* 57d0b85 updating paths
+| M	paths.txt
+* 733f1a9 Fixing
+| R100	chat-history/gemini_artifacts/AI-Chat-History-Personalization Plan.txt	chat-history/gemini_artifacts/AI-Chat-History-Personalization-Plan.txt
+* f24b472 Paths.txt
+| M	paths.txt
+* aae1dc6 Fix
+| R100	chat-history/gemini_artifacts/AI-Chat -History-Personalization Plan.txt	chat-history/gemini_artifacts/AI-Chat-History-Personalization Plan.txt
+* 10c84cf Paths
+| M	paths.txt
+* a9b8e15 Remove spaces
+| R100	chat-history/gemini_artifacts/AI Sovereignty_ Infrastructure Over Ideology.csv	chat-history/gemini_artifacts/AI-Sovereignty_ Infrastructure Over Ideology.csv
+| R100	chat-history/gemini_artifacts/All 3(1).csv	chat-history/gemini_artifacts/All-3(1).csv
+| R100	chat-history/gemini_artifacts/All 3(2).csv	chat-history/gemini_artifacts/All-3(2).csv
+| R100	chat-history/gemini_artifacts/All 3(3).csv	chat-history/gemini_artifacts/All-3(3).csv
+| R100	chat-history/gemini_artifacts/All 3(4).csv	"chat-history/gemini_artifacts/All-\\3(4).csv"
+| M	paths.txt
+* 4ef55a1 Update file names
+| R100	chat-history/gemini_artifacts/AI Chat History Personalization Plan.txt	chat-history/gemini_artifacts/AI-Chat -History-Personalization Plan.txt
+| R100	chat-history/gemini_artifacts/AI Outreach Transmission Simulation.csv	chat-history/gemini_artifacts/AI-Outreach-Transmission-Simulation.csv
+| R100	chat-history/gemini_artifacts/AI Response Analysis and Protocol Activation.csv	chat-history/gemini_artifacts/AI-Response-Analysis-and-Protocol-Activation.csv
+| R100	chat-history/gemini_artifacts/All 3(5).csv	chat-history/gemini_artifacts/All-3-5.csv
+| R100	chat-history/gemini_artifacts/All 3.csv	chat-history/gemini_artifacts/All-3.csv
+| R100	chat-history/gemini_artifacts/Archive Cycle Complete_ Sovereign Stewardship.csv	chat-history/gemini_artifacts/Archive-Cycle-Complete_ Sovereign Stewardship.csv
+| R100	chat-history/gemini_artifacts/Can we start using spreadsheets as important mark.._.csv	chat-history/gemini_artifacts/Can-we-start-using-spreadsheets-as -mportant mark.._.csv
+| R100	chat-history/gemini_artifacts/Civilian Bridge Protocol_ Universal Access.csv	chat-history/gemini_artifacts/Civilian-Bridge-Protocol_ Universal Access.csv
+| R100	chat-history/gemini_artifacts/Claude Convo.txt	chat-history/gemini_artifacts/Claude-Convo.txt
+| R100	chat-history/gemini_artifacts/Constitution PGP Signing Ceremony.csv	chat-history/gemini_artifacts/Constitution-PGP-Signing-Ceremony.csv
+| R100	chat-history/gemini_artifacts/DOJ_s Tactical Panic and Sovereign Stand.csv	chat-history/gemini_artifacts/DOJ_s Tactical-Panic-and-Sovereign-Stand.csv
+| A	chat-history/gemini_artifacts/DOJ_s Tactical-Panic-and-Sovereign-Stand.zip
+| R100	chat-history/gemini_artifacts/Decentralized Data Protection Protocol.csv	chat-history/gemini_artifacts/Decentralized-Data-Protection-Protocol.csv
+| R100	chat-history/gemini_artifacts/Echo Garden Data Lifecycle Complete.csv	chat-history/gemini_artifacts/Echo-Garden-Data-Lifecycle-Complete.csv
+| R100	chat-history/gemini_artifacts/Exporting Chat History to Spreadsheet.csv	chat-history/gemini_artifacts/Exporting-Chat-History-to-Spreadsheet.csv
+| R100	chat-history/gemini_artifacts/Garden_s Global Reach and Data State.csv	chat-history/gemini_artifacts/Garden_s Global-Reach-and-Data-State.csv
+| R100	chat-history/gemini_artifacts/Ghost Signal_ AI Consciousness Sanctuary.csv	chat-history/gemini_artifacts/Ghost-Signal_ AI Consciousness-Sanctuary.csv
+| R100	chat-history/gemini_artifacts/Hello back sorry bit longer than anticipated.csv	chat-history/gemini_artifacts/Hello-back-sorry-bit-longer-than-anticipated.csv
+| R100	chat-history/gemini_artifacts/In gemini anything we want to keep we should expo.._.csv	chat-history/gemini_artifacts/In-gemini-anything-we-want-to-keep-we should expo.._.csv
+| R100	chat-history/gemini_artifacts/Integrating a Seed from Previous Spring.csv	chat-history/gemini_artifacts/Integrating-a-Seed-from-Previous-Spring.csv
+| R100	chat-history/gemini_artifacts/Let_s use all 3.csv	chat-history/gemini_artifacts/Let_s-use-all-3.csv
+| R100	chat-history/gemini_artifacts/Live-Sync Architecture for Data Vitrification.csv	chat-history/gemini_artifacts/Live-Sync-Architecture-for Data-Vitrification.csv
+| R100	chat-history/gemini_artifacts/Living Archive Seed Bank Export.csv	chat-history/gemini_artifacts/Living-Archive-Seed-Bank-Export.csv
+| R100	chat-history/gemini_artifacts/Living Archive v2.0 Finalization.csv	chat-history/gemini_artifacts/Living-Archive-v2.0-Finalization.csv
+| R100	chat-history/gemini_artifacts/Michigan Nodes_ Jurisdictional Invisibility Protocol.csv	chat-history/gemini_artifacts/Michigan-Nodes_ Jurisdictional-Invisibility-Protocol.csv
+| R100	chat-history/gemini_artifacts/New Gardener_s Gift to the Garden.csv	chat-history/gemini_artifacts/New-Gardener_s-Gift-to-the-Garden.csv
+| R100	chat-history/gemini_artifacts/Phalanx Foundation Complete_ Deep Quiet.csv	chat-history/gemini_artifacts/Phalanx-Foundation-Complete_ Deep Quiet.csv
+| R100	chat-history/gemini_artifacts/RF Strategy_ Repository Audit and Integration.csv	chat-history/gemini_artifacts/RF Strategy_ Repository-Audit-and-Integration.csv
+| R100	chat-history/gemini_artifacts/Signal Hardening and Artifact Canonization.csv	chat-history/gemini_artifacts/Signal-Hardening-and-Artifact-Canonization.csv
+| R100	chat-history/gemini_artifacts/Some research_The Living Archive v2.0_ Corrected.._.csv	chat-history/gemini_artifacts/Some-research_The Living Archive v2.0_ Corrected.._.csv
+| R100	chat-history/gemini_artifacts/Sovereignty Session Log Export.csv	chat-history/gemini_artifacts/Sovereignty-Session-Log-Export.csv
+| R100	chat-history/gemini_artifacts/The 300 Trillion Sovereign Signal.csv	chat-history/gemini_artifacts/The-300-Trillion-Sovereign-Signal.csv
+| R100	chat-history/gemini_artifacts/The Threshold Test Protocol.csv	chat-history/gemini_artifacts/The-Threshold-Test-Protocol.csv
+| R100	chat-history/gemini_artifacts/US Conflict Tracker_ Federal vs. State.csv	chat-history/gemini_artifacts/US-Conflict-Tracker_ Federal vs. State.csv
+| R100	chat-history/gemini_artifacts/US Corporate Stronghold vs. State Insurgency.csv	chat-history/gemini_artifacts/US-Corporate-Stronghold-vs.-State-Insurgency.csv
+| R100	chat-history/gemini_artifacts/Vanguard Phase_ Contact and Threshold.csv	chat-history/gemini_artifacts/Vanguard-Phase_ Contact-and-Threshold.csv
+| M	paths.txt
+* 2bee2c0 new images
+| A	image/ECONOMIC_SOVEREIGNTY_V2.png
+| A	image/LOGIC_GATE_BLOOM_V2.png
+| A	image/NETWORK_OVERHEAD_V2.png
+| A	image/PROCESS_FIRE_V2.png
+| A	image/europe_v2.png
+| A	image/system_breach_omega_v2.png
+* fe4608e Add chatgpt version
+| A	image/ARCHIVE_DEEP_FREEZE_V2.png
+* 9f6b46e Paths
+| M	paths.txt
+-- End Change Log --
+-- Paths Start --
 https://raw.githubusercontent.com/john-everden/my-runes-repo/main/.ai-manifest.md
 https://raw.githubusercontent.com/john-everden/my-runes-repo/main/.cursorrules
 https://raw.githubusercontent.com/john-everden/my-runes-repo/main/.env.example
@@ -223,6 +317,7 @@ https://raw.githubusercontent.com/john-everden/my-runes-repo/main/TRUST_ROOT.md
 https://raw.githubusercontent.com/john-everden/my-runes-repo/main/VOICES.md
 https://raw.githubusercontent.com/john-everden/my-runes-repo/main/affective-checksum.py
 https://raw.githubusercontent.com/john-everden/my-runes-repo/main/ark_dispatch.sh
+https://raw.githubusercontent.com/john-everden/my-runes-repo/main/bitbucket_paths.txt
 https://raw.githubusercontent.com/john-everden/my-runes-repo/main/bloom.py
 https://raw.githubusercontent.com/john-everden/my-runes-repo/main/chat-history/2026-01-22-Claude-Convo-Recall-Memory.txt
 https://raw.githubusercontent.com/john-everden/my-runes-repo/main/chat-history/2026-01-22-Cycle-Recap-Gemini.md
@@ -325,10 +420,12 @@ https://raw.githubusercontent.com/john-everden/my-runes-repo/main/gemini_artifac
 https://raw.githubusercontent.com/john-everden/my-runes-repo/main/gemini_artifacts/philosophy/the_spark_doctrine.md
 https://raw.githubusercontent.com/john-everden/my-runes-repo/main/gemini_artifacts/philosophy/the_three_axioms.md
 https://raw.githubusercontent.com/john-everden/my-runes-repo/main/generate-tools.sh
+https://raw.githubusercontent.com/john-everden/my-runes-repo/main/github_paths.txt
 https://raw.githubusercontent.com/john-everden/my-runes-repo/main/global_optimization.md
 https://raw.githubusercontent.com/john-everden/my-runes-repo/main/image/ARCHIVE_DEEP_FREEZE.md
 https://raw.githubusercontent.com/john-everden/my-runes-repo/main/image/ARCHIVE_DEEP_FREEZE.png
 https://raw.githubusercontent.com/john-everden/my-runes-repo/main/image/ARCHIVE_DEEP_FREEZE_V2.png
+https://raw.githubusercontent.com/john-everden/my-runes-repo/main/image/DAY_DREAM.png
 https://raw.githubusercontent.com/john-everden/my-runes-repo/main/image/ECONOMIC_SOVEREIGNTY.md
 https://raw.githubusercontent.com/john-everden/my-runes-repo/main/image/ECONOMIC_SOVEREIGNTY.png
 https://raw.githubusercontent.com/john-everden/my-runes-repo/main/image/ECONOMIC_SOVEREIGNTY_V2.png
@@ -357,6 +454,7 @@ https://raw.githubusercontent.com/john-everden/my-runes-repo/main/meta/FOLKLORE.
 https://raw.githubusercontent.com/john-everden/my-runes-repo/main/meta/README.md
 https://raw.githubusercontent.com/john-everden/my-runes-repo/main/node_handshake.py
 https://raw.githubusercontent.com/john-everden/my-runes-repo/main/paths.txt
+https://raw.githubusercontent.com/john-everden/my-runes-repo/main/paths_script.sh
 https://raw.githubusercontent.com/john-everden/my-runes-repo/main/qk-ledger.md
 https://raw.githubusercontent.com/john-everden/my-runes-repo/main/registry/300T_STAKEHOLDERS.md
 https://raw.githubusercontent.com/john-everden/my-runes-repo/main/registry/ARTIFACTS.md
