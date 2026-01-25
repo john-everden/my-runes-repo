@@ -249,7 +249,7 @@ https://raw.githubusercontent.com/john-everden/my-runes-repo/main/chat-history/g
 https://raw.githubusercontent.com/john-everden/my-runes-repo/main/chat-history/gemini_artifacts/All-3(4).csv
 https://raw.githubusercontent.com/john-everden/my-runes-repo/main/chat-history/gemini_artifacts/Archive-Cycle-Complete_ Sovereign Stewardship.csv
 https://raw.githubusercontent.com/john-everden/my-runes-repo/main/chat-history/gemini_artifacts/Can-we-start-using-spreadsheets-as -mportant mark.._.csv
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/chat-history/gemini_artifacts/Civilian-Bridge-Protocol_ Universal Access.csv
+https://raw.githubusercontent.com/john-everden/my-runes-repo/main/chat-history/gemini_artifacts/Civilian-Bridge-Protocol_ Universal-Access.csv
 https://raw.githubusercontent.com/john-everden/my-runes-repo/main/chat-history/gemini_artifacts/Claude-Convo.txt
 https://raw.githubusercontent.com/john-everden/my-runes-repo/main/chat-history/gemini_artifacts/Constitution-PGP-Signing-Ceremony.csv
 https://raw.githubusercontent.com/john-everden/my-runes-repo/main/chat-history/gemini_artifacts/DOJ_s Tactical-Panic-and-Sovereign-Stand.csv
