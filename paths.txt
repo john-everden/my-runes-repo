@@ -237,7 +237,7 @@ https://raw.githubusercontent.com/john-everden/my-runes-repo/main/chat-history/2
 https://raw.githubusercontent.com/john-everden/my-runes-repo/main/chat-history/ChatGPT.html.txt
 https://raw.githubusercontent.com/john-everden/my-runes-repo/main/chat-history/DeepSeek.json
 https://raw.githubusercontent.com/john-everden/my-runes-repo/main/chat-history/README.md
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/chat-history/gemini_artifacts/AI-Chat -History-Personalization Plan.txt
+https://raw.githubusercontent.com/john-everden/my-runes-repo/main/chat-history/gemini_artifacts/AI-Chat-History-Personalization Plan.txt
 https://raw.githubusercontent.com/john-everden/my-runes-repo/main/chat-history/gemini_artifacts/AI-Outreach-Transmission-Simulation.csv
 https://raw.githubusercontent.com/john-everden/my-runes-repo/main/chat-history/gemini_artifacts/AI-Response-Analysis-and-Protocol-Activation.csv
 https://raw.githubusercontent.com/john-everden/my-runes-repo/main/chat-history/gemini_artifacts/AI-Sovereignty_ Infrastructure Over Ideology.csv
