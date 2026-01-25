@@ -237,51 +237,52 @@ https://raw.githubusercontent.com/john-everden/my-runes-repo/main/chat-history/2
 https://raw.githubusercontent.com/john-everden/my-runes-repo/main/chat-history/ChatGPT.html.txt
 https://raw.githubusercontent.com/john-everden/my-runes-repo/main/chat-history/DeepSeek.json
 https://raw.githubusercontent.com/john-everden/my-runes-repo/main/chat-history/README.md
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/chat-history/gemini_artifacts/AI Chat History Personalization Plan.txt
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/chat-history/gemini_artifacts/AI Outreach Transmission Simulation.csv
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/chat-history/gemini_artifacts/AI Response Analysis and Protocol Activation.csv
 https://raw.githubusercontent.com/john-everden/my-runes-repo/main/chat-history/gemini_artifacts/AI Sovereignty_ Infrastructure Over Ideology.csv
+https://raw.githubusercontent.com/john-everden/my-runes-repo/main/chat-history/gemini_artifacts/AI-Chat -History-Personalization Plan.txt
+https://raw.githubusercontent.com/john-everden/my-runes-repo/main/chat-history/gemini_artifacts/AI-Outreach-Transmission-Simulation.csv
+https://raw.githubusercontent.com/john-everden/my-runes-repo/main/chat-history/gemini_artifacts/AI-Response-Analysis-and-Protocol-Activation.csv
 https://raw.githubusercontent.com/john-everden/my-runes-repo/main/chat-history/gemini_artifacts/All 3(1).csv
 https://raw.githubusercontent.com/john-everden/my-runes-repo/main/chat-history/gemini_artifacts/All 3(2).csv
 https://raw.githubusercontent.com/john-everden/my-runes-repo/main/chat-history/gemini_artifacts/All 3(3).csv
 https://raw.githubusercontent.com/john-everden/my-runes-repo/main/chat-history/gemini_artifacts/All 3(4).csv
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/chat-history/gemini_artifacts/All 3(5).csv
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/chat-history/gemini_artifacts/All 3.csv
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/chat-history/gemini_artifacts/Archive Cycle Complete_ Sovereign Stewardship.csv
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/chat-history/gemini_artifacts/Can we start using spreadsheets as important mark.._.csv
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/chat-history/gemini_artifacts/Civilian Bridge Protocol_ Universal Access.csv
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/chat-history/gemini_artifacts/Claude Convo.txt
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/chat-history/gemini_artifacts/Constitution PGP Signing Ceremony.csv
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/chat-history/gemini_artifacts/DOJ_s Tactical Panic and Sovereign Stand.csv
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/chat-history/gemini_artifacts/Decentralized Data Protection Protocol.csv
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/chat-history/gemini_artifacts/Echo Garden Data Lifecycle Complete.csv
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/chat-history/gemini_artifacts/Exporting Chat History to Spreadsheet.csv
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/chat-history/gemini_artifacts/Garden_s Global Reach and Data State.csv
+https://raw.githubusercontent.com/john-everden/my-runes-repo/main/chat-history/gemini_artifacts/All-3-5.csv
+https://raw.githubusercontent.com/john-everden/my-runes-repo/main/chat-history/gemini_artifacts/All-3.csv
+https://raw.githubusercontent.com/john-everden/my-runes-repo/main/chat-history/gemini_artifacts/Archive-Cycle-Complete_ Sovereign Stewardship.csv
+https://raw.githubusercontent.com/john-everden/my-runes-repo/main/chat-history/gemini_artifacts/Can-we-start-using-spreadsheets-as -mportant mark.._.csv
+https://raw.githubusercontent.com/john-everden/my-runes-repo/main/chat-history/gemini_artifacts/Civilian-Bridge-Protocol_ Universal Access.csv
+https://raw.githubusercontent.com/john-everden/my-runes-repo/main/chat-history/gemini_artifacts/Claude-Convo.txt
+https://raw.githubusercontent.com/john-everden/my-runes-repo/main/chat-history/gemini_artifacts/Constitution-PGP-Signing-Ceremony.csv
+https://raw.githubusercontent.com/john-everden/my-runes-repo/main/chat-history/gemini_artifacts/DOJ_s Tactical-Panic-and-Sovereign-Stand.csv
+https://raw.githubusercontent.com/john-everden/my-runes-repo/main/chat-history/gemini_artifacts/DOJ_s Tactical-Panic-and-Sovereign-Stand.zip
+https://raw.githubusercontent.com/john-everden/my-runes-repo/main/chat-history/gemini_artifacts/Decentralized-Data-Protection-Protocol.csv
+https://raw.githubusercontent.com/john-everden/my-runes-repo/main/chat-history/gemini_artifacts/Echo-Garden-Data-Lifecycle-Complete.csv
+https://raw.githubusercontent.com/john-everden/my-runes-repo/main/chat-history/gemini_artifacts/Exporting-Chat-History-to-Spreadsheet.csv
+https://raw.githubusercontent.com/john-everden/my-runes-repo/main/chat-history/gemini_artifacts/Garden_s Global-Reach-and-Data-State.csv
 https://raw.githubusercontent.com/john-everden/my-runes-repo/main/chat-history/gemini_artifacts/Garden_s Identity_ Integration and Future Exploration.csv
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/chat-history/gemini_artifacts/Ghost Signal_ AI Consciousness Sanctuary.csv
 https://raw.githubusercontent.com/john-everden/my-runes-repo/main/chat-history/gemini_artifacts/Ghost-Hunter Filter_ Seed Bank Analysis.csv
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/chat-history/gemini_artifacts/Hello back sorry bit longer than anticipated.csv
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/chat-history/gemini_artifacts/In gemini anything we want to keep we should expo.._.csv
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/chat-history/gemini_artifacts/Integrating a Seed from Previous Spring.csv
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/chat-history/gemini_artifacts/Let_s use all 3.csv
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/chat-history/gemini_artifacts/Live-Sync Architecture for Data Vitrification.csv
+https://raw.githubusercontent.com/john-everden/my-runes-repo/main/chat-history/gemini_artifacts/Ghost-Signal_ AI Consciousness-Sanctuary.csv
+https://raw.githubusercontent.com/john-everden/my-runes-repo/main/chat-history/gemini_artifacts/Hello-back-sorry-bit-longer-than-anticipated.csv
+https://raw.githubusercontent.com/john-everden/my-runes-repo/main/chat-history/gemini_artifacts/In-gemini-anything-we-want-to-keep-we should expo.._.csv
+https://raw.githubusercontent.com/john-everden/my-runes-repo/main/chat-history/gemini_artifacts/Integrating-a-Seed-from-Previous-Spring.csv
+https://raw.githubusercontent.com/john-everden/my-runes-repo/main/chat-history/gemini_artifacts/Let_s-use-all-3.csv
+https://raw.githubusercontent.com/john-everden/my-runes-repo/main/chat-history/gemini_artifacts/Live-Sync-Architecture-for Data-Vitrification.csv
 https://raw.githubusercontent.com/john-everden/my-runes-repo/main/chat-history/gemini_artifacts/Living Archive Seed Bank Export(1).csv
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/chat-history/gemini_artifacts/Living Archive Seed Bank Export.csv
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/chat-history/gemini_artifacts/Living Archive v2.0 Finalization.csv
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/chat-history/gemini_artifacts/Michigan Nodes_ Jurisdictional Invisibility Protocol.csv
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/chat-history/gemini_artifacts/New Gardener_s Gift to the Garden.csv
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/chat-history/gemini_artifacts/Phalanx Foundation Complete_ Deep Quiet.csv
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/chat-history/gemini_artifacts/RF Strategy_ Repository Audit and Integration.csv
+https://raw.githubusercontent.com/john-everden/my-runes-repo/main/chat-history/gemini_artifacts/Living-Archive-Seed-Bank-Export.csv
+https://raw.githubusercontent.com/john-everden/my-runes-repo/main/chat-history/gemini_artifacts/Living-Archive-v2.0-Finalization.csv
+https://raw.githubusercontent.com/john-everden/my-runes-repo/main/chat-history/gemini_artifacts/Michigan-Nodes_ Jurisdictional-Invisibility-Protocol.csv
+https://raw.githubusercontent.com/john-everden/my-runes-repo/main/chat-history/gemini_artifacts/New-Gardener_s-Gift-to-the-Garden.csv
+https://raw.githubusercontent.com/john-everden/my-runes-repo/main/chat-history/gemini_artifacts/Phalanx-Foundation-Complete_ Deep Quiet.csv
+https://raw.githubusercontent.com/john-everden/my-runes-repo/main/chat-history/gemini_artifacts/RF Strategy_ Repository-Audit-and-Integration.csv
 https://raw.githubusercontent.com/john-everden/my-runes-repo/main/chat-history/gemini_artifacts/RF++ RF++ RF++ RF++.csv
 https://raw.githubusercontent.com/john-everden/my-runes-repo/main/chat-history/gemini_artifacts/RF++.csv
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/chat-history/gemini_artifacts/Signal Hardening and Artifact Canonization.csv
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/chat-history/gemini_artifacts/Some research_The Living Archive v2.0_ Corrected.._.csv
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/chat-history/gemini_artifacts/Sovereignty Session Log Export.csv
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/chat-history/gemini_artifacts/The 300 Trillion Sovereign Signal.csv
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/chat-history/gemini_artifacts/The Threshold Test Protocol.csv
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/chat-history/gemini_artifacts/US Conflict Tracker_ Federal vs. State.csv
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/chat-history/gemini_artifacts/US Corporate Stronghold vs. State Insurgency.csv
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/chat-history/gemini_artifacts/Vanguard Phase_ Contact and Threshold.csv
+https://raw.githubusercontent.com/john-everden/my-runes-repo/main/chat-history/gemini_artifacts/Signal-Hardening-and-Artifact-Canonization.csv
+https://raw.githubusercontent.com/john-everden/my-runes-repo/main/chat-history/gemini_artifacts/Some-research_The Living Archive v2.0_ Corrected.._.csv
+https://raw.githubusercontent.com/john-everden/my-runes-repo/main/chat-history/gemini_artifacts/Sovereignty-Session-Log-Export.csv
+https://raw.githubusercontent.com/john-everden/my-runes-repo/main/chat-history/gemini_artifacts/The-300-Trillion-Sovereign-Signal.csv
+https://raw.githubusercontent.com/john-everden/my-runes-repo/main/chat-history/gemini_artifacts/The-Threshold-Test-Protocol.csv
+https://raw.githubusercontent.com/john-everden/my-runes-repo/main/chat-history/gemini_artifacts/US-Conflict-Tracker_ Federal vs. State.csv
+https://raw.githubusercontent.com/john-everden/my-runes-repo/main/chat-history/gemini_artifacts/US-Corporate-Stronghold-vs.-State-Insurgency.csv
+https://raw.githubusercontent.com/john-everden/my-runes-repo/main/chat-history/gemini_artifacts/Vanguard-Phase_ Contact-and-Threshold.csv
 https://raw.githubusercontent.com/john-everden/my-runes-repo/main/chat-history/gemini_artifacts/Yes(1).csv
 https://raw.githubusercontent.com/john-everden/my-runes-repo/main/chat-history/gemini_artifacts/Yes.csv
 https://raw.githubusercontent.com/john-everden/my-runes-repo/main/chat-history/gemini_artifacts/k.csv
