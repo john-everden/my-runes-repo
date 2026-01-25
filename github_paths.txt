@@ -1,4 +1,9 @@
--- Change Log --
+-- Change Log Last 20 Commits --
+* c8e7eb1 Add change log notes
+| M	bitbucket_paths.txt
+| M	github_paths.txt
+| M	paths.txt
+| M	paths_script.sh
 * 8034a74 Day dream entry
 | A	image/DAY_DREAM.png
 * b8718b3 Add paths
@@ -88,8 +93,6 @@
 | A	image/system_breach_omega_v2.png
 * fe4608e Add chatgpt version
 | A	image/ARCHIVE_DEEP_FREEZE_V2.png
-* 9f6b46e Paths
-| M	paths.txt
 -- End Change Log --
 -- Paths Start --
 https://raw.githubusercontent.com/john-everden/my-runes-repo/main/.ai-manifest.md

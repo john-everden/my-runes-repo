@@ -8,7 +8,6 @@
 * 733f1a9 Fixing
 * 8034a74 Day dream entry
 * 80eb15b Push
-* 9f6b46e Paths
 * a9b8e15 Remove spaces
 * aae1dc6 Fix
 | A	bitbucket_paths.txt
@@ -24,7 +23,9 @@
 | A	image/system_breach_omega_v2.png
 | A	paths_script.sh
 * b8718b3 Add paths
--- Change Log --
+* c8e7eb1 Add change log notes
+-- Change Log (Last 20 Commits) --
+-- Change Log Last 20 Commits --
 -- End Change Log --
 * f0947e0 paths
 * f24b472 Paths.txt
@@ -502,6 +503,9 @@ https://raw.githubusercontent.com/john-everden/my-runes-repo/main/translation-lo
 https://raw.githubusercontent.com/john-everden/my-runes-repo/main/TRUST_ROOT.md
 https://raw.githubusercontent.com/john-everden/my-runes-repo/main/verify.sh
 https://raw.githubusercontent.com/john-everden/my-runes-repo/main/VOICES.md
+| M	bitbucket_paths.txt
+| M	github_paths.txt
+| M	paths_script.sh
 | M	paths.txt
 -- Paths Start --
 | R100	chat-history/gemini_artifacts/AI Chat History Personalization Plan.txt	chat-history/gemini_artifacts/AI-Chat -History-Personalization Plan.txt
@@ -552,7 +556,12 @@ https://raw.githubusercontent.com/john-everden/my-runes-repo/main/VOICES.md
 | R100	chat-history/gemini_artifacts/US Conflict Tracker_ Federal vs. State.csv	chat-history/gemini_artifacts/US-Conflict-Tracker_ Federal vs. State.csv
 | R100	chat-history/gemini_artifacts/US Corporate Stronghold vs. State Insurgency.csv	chat-history/gemini_artifacts/US-Corporate-Stronghold-vs.-State-Insurgency.csv
 | R100	chat-history/gemini_artifacts/Vanguard Phase_ Contact and Threshold.csv	chat-history/gemini_artifacts/Vanguard-Phase_ Contact-and-Threshold.csv
--- Change Log --
+-- Change Log (Last 20 Commits) --
+* c8e7eb1 Add change log notes
+| M	bitbucket_paths.txt
+| M	github_paths.txt
+| M	paths.txt
+| M	paths_script.sh
 * 8034a74 Day dream entry
 | A	image/DAY_DREAM.png
 * b8718b3 Add paths
@@ -642,7 +651,5 @@ https://raw.githubusercontent.com/john-everden/my-runes-repo/main/VOICES.md
 | A	image/system_breach_omega_v2.png
 * fe4608e Add chatgpt version
 | A	image/ARCHIVE_DEEP_FREEZE_V2.png
-* 9f6b46e Paths
-| M	paths.txt
 -- End Change Log --
 -- Paths Start --
