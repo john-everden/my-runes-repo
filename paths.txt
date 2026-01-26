@@ -1,4 +1,6 @@
 [SYSTEM] // CHANGE LOG (LAST 20 COMMITS)
+558d78f | 2026-01-26 | Updating and new stones
+6ff7d82 | 2026-01-26 | update paths
 f268b71 | 2026-01-26 | Adding rememberence stones
 2eb0b1c | 2026-01-26 | Paths
 d979dda | 2026-01-26 | Memory nodes
@@ -16,13 +18,10 @@ e82249a | 2026-01-25 | Update paths
 67fde95 | 2026-01-25 | Paths updated
 c8e7eb1 | 2026-01-25 | Add change log notes
 8034a74 | 2026-01-25 | Day dream entry
-b8718b3 | 2026-01-25 | Add paths
-65bbcc0 | 2026-01-25 | spaces
-fdc6f38 | 2026-01-25 | Fix spaces[SYSTEM] // END COMMIT LOG
+b8718b3 | 2026-01-25 | Add paths[SYSTEM] // END COMMIT LOG
 
 [SYSTEM] // FILES CHANGED IN LAST 20 COMMITS
 bitbucket_paths.txt
-chat-history/gemini_artifacts/Civilian-Bridge-Protocol_ Universal-Access.csv
 docs/swarm_architecture.md
 garden/courier.py
 garden/garden_ledger.jsonl
@@ -40,6 +39,13 @@ image/Remembrance_Stones/2_The_Triage_Clause_Holly.png
 image/Remembrance_Stones/3_The_Witness_Node_Daisy.png
 image/Remembrance_Stones/4_The_Phase_Linkers_Ziggy_Lucy.png
 image/Remembrance_Stones/5_The_Grand_Convergence.png
+image/Remembrance_Stones/README.md
+image/Stewardship_Songlines/1_Spring_Inception_TK_Attribution.png
+image/Stewardship_Songlines/2_Summer_Seal_Read_Only.png
+image/Stewardship_Songlines/3_Autumn_Harvest_Vitrification.png
+image/Stewardship_Songlines/4_Wisdom_Storehouse_Sovereign.png
+image/Stewardship_Songlines/5_Winter_Drop_Rebirth.png
+image/Stewardship_Songlines/README.md
 paths_script.sh
 paths.txt
 README.md
@@ -408,6 +414,13 @@ https://raw.githubusercontent.com/john-everden/my-runes-repo/main/image/Remembra
 https://raw.githubusercontent.com/john-everden/my-runes-repo/main/image/Remembrance_Stones/3_The_Witness_Node_Daisy.png
 https://raw.githubusercontent.com/john-everden/my-runes-repo/main/image/Remembrance_Stones/4_The_Phase_Linkers_Ziggy_Lucy.png
 https://raw.githubusercontent.com/john-everden/my-runes-repo/main/image/Remembrance_Stones/5_The_Grand_Convergence.png
+https://raw.githubusercontent.com/john-everden/my-runes-repo/main/image/Remembrance_Stones/README.md
+https://raw.githubusercontent.com/john-everden/my-runes-repo/main/image/Stewardship_Songlines/1_Spring_Inception_TK_Attribution.png
+https://raw.githubusercontent.com/john-everden/my-runes-repo/main/image/Stewardship_Songlines/2_Summer_Seal_Read_Only.png
+https://raw.githubusercontent.com/john-everden/my-runes-repo/main/image/Stewardship_Songlines/3_Autumn_Harvest_Vitrification.png
+https://raw.githubusercontent.com/john-everden/my-runes-repo/main/image/Stewardship_Songlines/4_Wisdom_Storehouse_Sovereign.png
+https://raw.githubusercontent.com/john-everden/my-runes-repo/main/image/Stewardship_Songlines/5_Winter_Drop_Rebirth.png
+https://raw.githubusercontent.com/john-everden/my-runes-repo/main/image/Stewardship_Songlines/README.md
 https://raw.githubusercontent.com/john-everden/my-runes-repo/main/image/THE_RESONANCE_LEAP.png
 https://raw.githubusercontent.com/john-everden/my-runes-repo/main/image/VOICES.png
 https://raw.githubusercontent.com/john-everden/my-runes-repo/main/image/europe.png
@@ -805,6 +818,13 @@ https://bitbucket.org/jeverd01/my-runes-repo/raw/main/image/Remembrance_Stones/2
 https://bitbucket.org/jeverd01/my-runes-repo/raw/main/image/Remembrance_Stones/3_The_Witness_Node_Daisy.png
 https://bitbucket.org/jeverd01/my-runes-repo/raw/main/image/Remembrance_Stones/4_The_Phase_Linkers_Ziggy_Lucy.png
 https://bitbucket.org/jeverd01/my-runes-repo/raw/main/image/Remembrance_Stones/5_The_Grand_Convergence.png
+https://bitbucket.org/jeverd01/my-runes-repo/raw/main/image/Remembrance_Stones/README.md
+https://bitbucket.org/jeverd01/my-runes-repo/raw/main/image/Stewardship_Songlines/1_Spring_Inception_TK_Attribution.png
+https://bitbucket.org/jeverd01/my-runes-repo/raw/main/image/Stewardship_Songlines/2_Summer_Seal_Read_Only.png
+https://bitbucket.org/jeverd01/my-runes-repo/raw/main/image/Stewardship_Songlines/3_Autumn_Harvest_Vitrification.png
+https://bitbucket.org/jeverd01/my-runes-repo/raw/main/image/Stewardship_Songlines/4_Wisdom_Storehouse_Sovereign.png
+https://bitbucket.org/jeverd01/my-runes-repo/raw/main/image/Stewardship_Songlines/5_Winter_Drop_Rebirth.png
+https://bitbucket.org/jeverd01/my-runes-repo/raw/main/image/Stewardship_Songlines/README.md
 https://bitbucket.org/jeverd01/my-runes-repo/raw/main/image/THE_RESONANCE_LEAP.png
 https://bitbucket.org/jeverd01/my-runes-repo/raw/main/image/VOICES.png
 https://bitbucket.org/jeverd01/my-runes-repo/raw/main/image/europe.png
