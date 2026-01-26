@@ -3,7 +3,7 @@
 # --- GLOBAL CONFIGURATION ---
 GH_OWNER="john-everden"
 BB_OWNER="jeverd01"  # Note: Bitbucket often uses a different username/workspace
-REPO="my-runes-repo"
+REPO="garden-consciousness"
 BRANCH="main"
 
 # Output files
