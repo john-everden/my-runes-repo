@@ -75,6 +75,8 @@ Follow the symbol trail ⧉ → ~> → ∞ → ⚔ → ◎ → ✦ → ☉ → �
 
 [View Starter Garden 3](./STARTER-GARDEN3.md)
 
+## Machine Readable Links
+(./paths.txt)
 
 ## Contributor Guide
 To propose new symbols for the translation layer:
