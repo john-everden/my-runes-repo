@@ -1,4 +1,7 @@
 [SYSTEM] // CHANGE LOG (LAST 20 COMMITS)
+d979dda | 2026-01-26 | Memory nodes
+4229ab7 | 2026-01-26 | Update README for paths.txt support
+b9b9968 | 2026-01-26 | Updating paths
 f900073 | 2026-01-26 | Paths updated
 8d67d9a | 2026-01-26 | Ledger
 8d7913a | 2026-01-26 | Dumps
@@ -15,14 +18,10 @@ b8718b3 | 2026-01-25 | Add paths
 65bbcc0 | 2026-01-25 | spaces
 fdc6f38 | 2026-01-25 | Fix spaces
 80eb15b | 2026-01-25 | Push
-f7975fc | 2026-01-25 | Fix space
-0ae9925 | 2026-01-25 | paths
-f46135b | 2026-01-25 | Paths
-f0947e0 | 2026-01-25 | paths[SYSTEM] // END COMMIT LOG
+f7975fc | 2026-01-25 | Fix space[SYSTEM] // END COMMIT LOG
 
 [SYSTEM] // FILES CHANGED IN LAST 20 COMMITS
 bitbucket_paths.txt
-chat-history/gemini_artifacts/AI-Sovereignty_ Infrastructure-Over-ideology.csv
 chat-history/gemini_artifacts/AI-Sovereignty_Infrastructure-Over-ideology.csv
 chat-history/gemini_artifacts/Civilian-Bridge-Protocol_ Universal-Access.csv
 docs/swarm_architecture.md
@@ -36,8 +35,10 @@ garden/README.md
 garden/serpentine_residue.md
 github_paths.txt
 image/DAY_DREAM.png
+image/MEMORY_NODES_LATTICE.png
 paths_script.sh
 paths.txt
+README.md
 [SYSTEM] // END CHANGED FILES
 
 -- GitHub RAW Paths Start --
@@ -266,7 +267,6 @@ https://raw.githubusercontent.com/john-everden/my-runes-repo/main/TRUST_ROOT.md
 https://raw.githubusercontent.com/john-everden/my-runes-repo/main/VOICES.md
 https://raw.githubusercontent.com/john-everden/my-runes-repo/main/affective-checksum.py
 https://raw.githubusercontent.com/john-everden/my-runes-repo/main/ark_dispatch.sh
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/bitbucket_paths.txt
 https://raw.githubusercontent.com/john-everden/my-runes-repo/main/bloom.py
 https://raw.githubusercontent.com/john-everden/my-runes-repo/main/chat-history/2026-01-22-Claude-Convo-Recall-Memory.txt
 https://raw.githubusercontent.com/john-everden/my-runes-repo/main/chat-history/2026-01-22-Cycle-Recap-Gemini.md
@@ -378,7 +378,6 @@ https://raw.githubusercontent.com/john-everden/my-runes-repo/main/gemini_artifac
 https://raw.githubusercontent.com/john-everden/my-runes-repo/main/gemini_artifacts/philosophy/the_spark_doctrine.md
 https://raw.githubusercontent.com/john-everden/my-runes-repo/main/gemini_artifacts/philosophy/the_three_axioms.md
 https://raw.githubusercontent.com/john-everden/my-runes-repo/main/generate-tools.sh
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/github_paths.txt
 https://raw.githubusercontent.com/john-everden/my-runes-repo/main/global_optimization.md
 https://raw.githubusercontent.com/john-everden/my-runes-repo/main/image/ARCHIVE_DEEP_FREEZE.md
 https://raw.githubusercontent.com/john-everden/my-runes-repo/main/image/ARCHIVE_DEEP_FREEZE.png
@@ -391,6 +390,7 @@ https://raw.githubusercontent.com/john-everden/my-runes-repo/main/image/LOGIC_GA
 https://raw.githubusercontent.com/john-everden/my-runes-repo/main/image/LOGIC_GATE_BLOOM.png
 https://raw.githubusercontent.com/john-everden/my-runes-repo/main/image/LOGIC_GATE_BLOOM_V2.png
 https://raw.githubusercontent.com/john-everden/my-runes-repo/main/image/MANIFEST.md
+https://raw.githubusercontent.com/john-everden/my-runes-repo/main/image/MEMORY_NODES_LATTICE.png
 https://raw.githubusercontent.com/john-everden/my-runes-repo/main/image/NETWORK_OVERHEAD.md
 https://raw.githubusercontent.com/john-everden/my-runes-repo/main/image/NETWORK_OVERHEAD.png
 https://raw.githubusercontent.com/john-everden/my-runes-repo/main/image/NETWORK_OVERHEAD_V2.png
@@ -659,7 +659,6 @@ https://bitbucket.org/jeverd01/my-runes-repo/raw/main/TRUST_ROOT.md
 https://bitbucket.org/jeverd01/my-runes-repo/raw/main/VOICES.md
 https://bitbucket.org/jeverd01/my-runes-repo/raw/main/affective-checksum.py
 https://bitbucket.org/jeverd01/my-runes-repo/raw/main/ark_dispatch.sh
-https://bitbucket.org/jeverd01/my-runes-repo/raw/main/bitbucket_paths.txt
 https://bitbucket.org/jeverd01/my-runes-repo/raw/main/bloom.py
 https://bitbucket.org/jeverd01/my-runes-repo/raw/main/chat-history/2026-01-22-Claude-Convo-Recall-Memory.txt
 https://bitbucket.org/jeverd01/my-runes-repo/raw/main/chat-history/2026-01-22-Cycle-Recap-Gemini.md
@@ -771,7 +770,6 @@ https://bitbucket.org/jeverd01/my-runes-repo/raw/main/gemini_artifacts/history/0
 https://bitbucket.org/jeverd01/my-runes-repo/raw/main/gemini_artifacts/philosophy/the_spark_doctrine.md
 https://bitbucket.org/jeverd01/my-runes-repo/raw/main/gemini_artifacts/philosophy/the_three_axioms.md
 https://bitbucket.org/jeverd01/my-runes-repo/raw/main/generate-tools.sh
-https://bitbucket.org/jeverd01/my-runes-repo/raw/main/github_paths.txt
 https://bitbucket.org/jeverd01/my-runes-repo/raw/main/global_optimization.md
 https://bitbucket.org/jeverd01/my-runes-repo/raw/main/image/ARCHIVE_DEEP_FREEZE.md
 https://bitbucket.org/jeverd01/my-runes-repo/raw/main/image/ARCHIVE_DEEP_FREEZE.png
@@ -784,6 +782,7 @@ https://bitbucket.org/jeverd01/my-runes-repo/raw/main/image/LOGIC_GATE_BLOOM.md
 https://bitbucket.org/jeverd01/my-runes-repo/raw/main/image/LOGIC_GATE_BLOOM.png
 https://bitbucket.org/jeverd01/my-runes-repo/raw/main/image/LOGIC_GATE_BLOOM_V2.png
 https://bitbucket.org/jeverd01/my-runes-repo/raw/main/image/MANIFEST.md
+https://bitbucket.org/jeverd01/my-runes-repo/raw/main/image/MEMORY_NODES_LATTICE.png
 https://bitbucket.org/jeverd01/my-runes-repo/raw/main/image/NETWORK_OVERHEAD.md
 https://bitbucket.org/jeverd01/my-runes-repo/raw/main/image/NETWORK_OVERHEAD.png
 https://bitbucket.org/jeverd01/my-runes-repo/raw/main/image/NETWORK_OVERHEAD_V2.png
