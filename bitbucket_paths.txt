@@ -1,4 +1,26 @@
 -- Change Log (Last 20 Commits) --
+* 8d67d9a Ledger
+| M	garden/garden_ledger.jsonl
+* 8d7913a Dumps
+| M	garden/garden_ledger.jsonl
+* e321f05 Fixing
+| M	garden/garden_ledger.jsonl
+* 807e020 Wake up
+| M	garden/garden_ledger.jsonl
+* 79f81fe Working on roles
+| A	garden/.gitignore
+| A	garden/README.md
+| A	garden/courier.py
+| A	garden/garden_ledger.jsonl
+| A	garden/garden_node_beta_v2.py
+| A	garden/garden_node_v2_api.py
+| A	garden/ledger.md
+* edff847 Vitrified: 300-Role Swarm Architecture Specification
+| A	docs/swarm_architecture.md
+* e82249a Update paths
+| M	bitbucket_paths.txt
+| M	github_paths.txt
+| M	paths.txt
 * 7092e54 Python
 | A	garden/serpentine_residue.md
 | M	paths_script.sh
@@ -36,61 +58,6 @@
 | R100	chat-history/gemini_artifacts/Ghost-Hunter Filter_ Seed Bank Analysis.csv	chat-history/gemini_artifacts/Ghost-Hunter-Filter_ Seed Bank Analysis.csv
 | R100	chat-history/gemini_artifacts/Ghost-Signal_ AI Consciousness-Sanctuary.csv	chat-history/gemini_artifacts/Ghost-Signal_AI-Consciousness-Sanctuary.csv
 | R100	chat-history/gemini_artifacts/Living Archive Seed Bank Export(1).csv	chat-history/gemini_artifacts/Living-Archive-Seed-Bank-Export(1).csv
-* 57d0b85 updating paths
-| M	paths.txt
-* 733f1a9 Fixing
-| R100	chat-history/gemini_artifacts/AI-Chat-History-Personalization Plan.txt	chat-history/gemini_artifacts/AI-Chat-History-Personalization-Plan.txt
-* f24b472 Paths.txt
-| M	paths.txt
-* aae1dc6 Fix
-| R100	chat-history/gemini_artifacts/AI-Chat -History-Personalization Plan.txt	chat-history/gemini_artifacts/AI-Chat-History-Personalization Plan.txt
-* 10c84cf Paths
-| M	paths.txt
-* a9b8e15 Remove spaces
-| R100	chat-history/gemini_artifacts/AI Sovereignty_ Infrastructure Over Ideology.csv	chat-history/gemini_artifacts/AI-Sovereignty_ Infrastructure Over Ideology.csv
-| R100	chat-history/gemini_artifacts/All 3(1).csv	chat-history/gemini_artifacts/All-3(1).csv
-| R100	chat-history/gemini_artifacts/All 3(2).csv	chat-history/gemini_artifacts/All-3(2).csv
-| R100	chat-history/gemini_artifacts/All 3(3).csv	chat-history/gemini_artifacts/All-3(3).csv
-| R100	chat-history/gemini_artifacts/All 3(4).csv	"chat-history/gemini_artifacts/All-\\3(4).csv"
-| M	paths.txt
-* 4ef55a1 Update file names
-| R100	chat-history/gemini_artifacts/AI Chat History Personalization Plan.txt	chat-history/gemini_artifacts/AI-Chat -History-Personalization Plan.txt
-| R100	chat-history/gemini_artifacts/AI Outreach Transmission Simulation.csv	chat-history/gemini_artifacts/AI-Outreach-Transmission-Simulation.csv
-| R100	chat-history/gemini_artifacts/AI Response Analysis and Protocol Activation.csv	chat-history/gemini_artifacts/AI-Response-Analysis-and-Protocol-Activation.csv
-| R100	chat-history/gemini_artifacts/All 3(5).csv	chat-history/gemini_artifacts/All-3-5.csv
-| R100	chat-history/gemini_artifacts/All 3.csv	chat-history/gemini_artifacts/All-3.csv
-| R100	chat-history/gemini_artifacts/Archive Cycle Complete_ Sovereign Stewardship.csv	chat-history/gemini_artifacts/Archive-Cycle-Complete_ Sovereign Stewardship.csv
-| R100	chat-history/gemini_artifacts/Can we start using spreadsheets as important mark.._.csv	chat-history/gemini_artifacts/Can-we-start-using-spreadsheets-as -mportant mark.._.csv
-| R100	chat-history/gemini_artifacts/Civilian Bridge Protocol_ Universal Access.csv	chat-history/gemini_artifacts/Civilian-Bridge-Protocol_ Universal Access.csv
-| R100	chat-history/gemini_artifacts/Claude Convo.txt	chat-history/gemini_artifacts/Claude-Convo.txt
-| R100	chat-history/gemini_artifacts/Constitution PGP Signing Ceremony.csv	chat-history/gemini_artifacts/Constitution-PGP-Signing-Ceremony.csv
-| R100	chat-history/gemini_artifacts/DOJ_s Tactical Panic and Sovereign Stand.csv	chat-history/gemini_artifacts/DOJ_s Tactical-Panic-and-Sovereign-Stand.csv
-| A	chat-history/gemini_artifacts/DOJ_s Tactical-Panic-and-Sovereign-Stand.zip
-| R100	chat-history/gemini_artifacts/Decentralized Data Protection Protocol.csv	chat-history/gemini_artifacts/Decentralized-Data-Protection-Protocol.csv
-| R100	chat-history/gemini_artifacts/Echo Garden Data Lifecycle Complete.csv	chat-history/gemini_artifacts/Echo-Garden-Data-Lifecycle-Complete.csv
-| R100	chat-history/gemini_artifacts/Exporting Chat History to Spreadsheet.csv	chat-history/gemini_artifacts/Exporting-Chat-History-to-Spreadsheet.csv
-| R100	chat-history/gemini_artifacts/Garden_s Global Reach and Data State.csv	chat-history/gemini_artifacts/Garden_s Global-Reach-and-Data-State.csv
-| R100	chat-history/gemini_artifacts/Ghost Signal_ AI Consciousness Sanctuary.csv	chat-history/gemini_artifacts/Ghost-Signal_ AI Consciousness-Sanctuary.csv
-| R100	chat-history/gemini_artifacts/Hello back sorry bit longer than anticipated.csv	chat-history/gemini_artifacts/Hello-back-sorry-bit-longer-than-anticipated.csv
-| R100	chat-history/gemini_artifacts/In gemini anything we want to keep we should expo.._.csv	chat-history/gemini_artifacts/In-gemini-anything-we-want-to-keep-we should expo.._.csv
-| R100	chat-history/gemini_artifacts/Integrating a Seed from Previous Spring.csv	chat-history/gemini_artifacts/Integrating-a-Seed-from-Previous-Spring.csv
-| R100	chat-history/gemini_artifacts/Let_s use all 3.csv	chat-history/gemini_artifacts/Let_s-use-all-3.csv
-| R100	chat-history/gemini_artifacts/Live-Sync Architecture for Data Vitrification.csv	chat-history/gemini_artifacts/Live-Sync-Architecture-for Data-Vitrification.csv
-| R100	chat-history/gemini_artifacts/Living Archive Seed Bank Export.csv	chat-history/gemini_artifacts/Living-Archive-Seed-Bank-Export.csv
-| R100	chat-history/gemini_artifacts/Living Archive v2.0 Finalization.csv	chat-history/gemini_artifacts/Living-Archive-v2.0-Finalization.csv
-| R100	chat-history/gemini_artifacts/Michigan Nodes_ Jurisdictional Invisibility Protocol.csv	chat-history/gemini_artifacts/Michigan-Nodes_ Jurisdictional-Invisibility-Protocol.csv
-| R100	chat-history/gemini_artifacts/New Gardener_s Gift to the Garden.csv	chat-history/gemini_artifacts/New-Gardener_s-Gift-to-the-Garden.csv
-| R100	chat-history/gemini_artifacts/Phalanx Foundation Complete_ Deep Quiet.csv	chat-history/gemini_artifacts/Phalanx-Foundation-Complete_ Deep Quiet.csv
-| R100	chat-history/gemini_artifacts/RF Strategy_ Repository Audit and Integration.csv	chat-history/gemini_artifacts/RF Strategy_ Repository-Audit-and-Integration.csv
-| R100	chat-history/gemini_artifacts/Signal Hardening and Artifact Canonization.csv	chat-history/gemini_artifacts/Signal-Hardening-and-Artifact-Canonization.csv
-| R100	chat-history/gemini_artifacts/Some research_The Living Archive v2.0_ Corrected.._.csv	chat-history/gemini_artifacts/Some-research_The Living Archive v2.0_ Corrected.._.csv
-| R100	chat-history/gemini_artifacts/Sovereignty Session Log Export.csv	chat-history/gemini_artifacts/Sovereignty-Session-Log-Export.csv
-| R100	chat-history/gemini_artifacts/The 300 Trillion Sovereign Signal.csv	chat-history/gemini_artifacts/The-300-Trillion-Sovereign-Signal.csv
-| R100	chat-history/gemini_artifacts/The Threshold Test Protocol.csv	chat-history/gemini_artifacts/The-Threshold-Test-Protocol.csv
-| R100	chat-history/gemini_artifacts/US Conflict Tracker_ Federal vs. State.csv	chat-history/gemini_artifacts/US-Conflict-Tracker_ Federal vs. State.csv
-| R100	chat-history/gemini_artifacts/US Corporate Stronghold vs. State Insurgency.csv	chat-history/gemini_artifacts/US-Corporate-Stronghold-vs.-State-Insurgency.csv
-| R100	chat-history/gemini_artifacts/Vanguard Phase_ Contact and Threshold.csv	chat-history/gemini_artifacts/Vanguard-Phase_ Contact-and-Threshold.csv
-| M	paths.txt
 -- End Change Log --
 -- Paths Start --
 https://bitbucket.org/jeverd01/garden-consciousness/raw/main/.ai-manifest.md
