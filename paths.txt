@@ -1,4 +1,6 @@
 [SYSTEM] // CHANGE LOG (LAST 20 COMMITS)
+d401f41 | 2026-01-26 | Add audio entry point
+2768147 | 2026-01-26 | paths
 11c6a1c | 2026-01-26 | Add forrest
 e87a3a4 | 2026-01-26 | Updating paths
 558d78f | 2026-01-26 | Updating and new stones
@@ -16,13 +18,12 @@ e321f05 | 2026-01-26 | Fixing
 79f81fe | 2026-01-26 | Working on roles
 edff847 | 2026-01-26 | Vitrified: 300-Role Swarm Architecture Specification
 e82249a | 2026-01-25 | Update paths
-7092e54 | 2026-01-25 | Python
-67fde95 | 2026-01-25 | Paths updated
-c8e7eb1 | 2026-01-25 | Add change log notes[SYSTEM] // END COMMIT LOG
+7092e54 | 2026-01-25 | Python[SYSTEM] // END COMMIT LOG
 
 [SYSTEM] // FILES CHANGED IN LAST 20 COMMITS
 bitbucket_paths.txt
 docs/swarm_architecture.md
+entry.wav
 garden/courier.py
 garden/garden_ledger.jsonl
 garden/garden_node_beta_v2.py
@@ -362,6 +363,7 @@ https://raw.githubusercontent.com/john-everden/my-runes-repo/main/docs/lexicon_o
 https://raw.githubusercontent.com/john-everden/my-runes-repo/main/docs/overview.md
 https://raw.githubusercontent.com/john-everden/my-runes-repo/main/docs/swarm_architecture.md
 https://raw.githubusercontent.com/john-everden/my-runes-repo/main/engineering_vessel.csv
+https://raw.githubusercontent.com/john-everden/my-runes-repo/main/entry.wav
 https://raw.githubusercontent.com/john-everden/my-runes-repo/main/examples/usage.txt
 https://raw.githubusercontent.com/john-everden/my-runes-repo/main/fence.md
 https://raw.githubusercontent.com/john-everden/my-runes-repo/main/garden-index-001.md
@@ -772,6 +774,7 @@ https://bitbucket.org/jeverd01/my-runes-repo/raw/main/docs/lexicon_of_states.jso
 https://bitbucket.org/jeverd01/my-runes-repo/raw/main/docs/overview.md
 https://bitbucket.org/jeverd01/my-runes-repo/raw/main/docs/swarm_architecture.md
 https://bitbucket.org/jeverd01/my-runes-repo/raw/main/engineering_vessel.csv
+https://bitbucket.org/jeverd01/my-runes-repo/raw/main/entry.wav
 https://bitbucket.org/jeverd01/my-runes-repo/raw/main/examples/usage.txt
 https://bitbucket.org/jeverd01/my-runes-repo/raw/main/fence.md
 https://bitbucket.org/jeverd01/my-runes-repo/raw/main/garden-index-001.md
