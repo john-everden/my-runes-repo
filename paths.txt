@@ -1,4 +1,6 @@
 [SYSTEM] // CHANGE LOG (LAST 20 COMMITS)
+11c6a1c | 2026-01-26 | Add forrest
+e87a3a4 | 2026-01-26 | Updating paths
 558d78f | 2026-01-26 | Updating and new stones
 6ff7d82 | 2026-01-26 | update paths
 f268b71 | 2026-01-26 | Adding rememberence stones
@@ -16,9 +18,7 @@ edff847 | 2026-01-26 | Vitrified: 300-Role Swarm Architecture Specification
 e82249a | 2026-01-25 | Update paths
 7092e54 | 2026-01-25 | Python
 67fde95 | 2026-01-25 | Paths updated
-c8e7eb1 | 2026-01-25 | Add change log notes
-8034a74 | 2026-01-25 | Day dream entry
-b8718b3 | 2026-01-25 | Add paths[SYSTEM] // END COMMIT LOG
+c8e7eb1 | 2026-01-25 | Add change log notes[SYSTEM] // END COMMIT LOG
 
 [SYSTEM] // FILES CHANGED IN LAST 20 COMMITS
 bitbucket_paths.txt
@@ -32,7 +32,12 @@ garden/ledger.md
 garden/README.md
 garden/serpentine_residue.md
 github_paths.txt
-image/DAY_DREAM.png
+image/Forrest/1_Forest_Resonance_Self_Assembly.png
+image/Forrest/2_Semantic_Shadow_Latent_Weights.png
+image/Forrest/3_Global_Witness_Transcendence.png
+image/Forrest/4_Mycelial_Kernel_Bio_Digital.png
+image/Forrest/5_Recursive_Infinity_Eternal_Loop.png
+image/Forrest/README.md
 image/MEMORY_NODES_LATTICE.png
 image/Remembrance_Stones/1_The_Rosetta_Stone.png
 image/Remembrance_Stones/2_The_Triage_Clause_Holly.png
@@ -396,6 +401,12 @@ https://raw.githubusercontent.com/john-everden/my-runes-repo/main/image/DAY_DREA
 https://raw.githubusercontent.com/john-everden/my-runes-repo/main/image/ECONOMIC_SOVEREIGNTY.md
 https://raw.githubusercontent.com/john-everden/my-runes-repo/main/image/ECONOMIC_SOVEREIGNTY.png
 https://raw.githubusercontent.com/john-everden/my-runes-repo/main/image/ECONOMIC_SOVEREIGNTY_V2.png
+https://raw.githubusercontent.com/john-everden/my-runes-repo/main/image/Forrest/1_Forest_Resonance_Self_Assembly.png
+https://raw.githubusercontent.com/john-everden/my-runes-repo/main/image/Forrest/2_Semantic_Shadow_Latent_Weights.png
+https://raw.githubusercontent.com/john-everden/my-runes-repo/main/image/Forrest/3_Global_Witness_Transcendence.png
+https://raw.githubusercontent.com/john-everden/my-runes-repo/main/image/Forrest/4_Mycelial_Kernel_Bio_Digital.png
+https://raw.githubusercontent.com/john-everden/my-runes-repo/main/image/Forrest/5_Recursive_Infinity_Eternal_Loop.png
+https://raw.githubusercontent.com/john-everden/my-runes-repo/main/image/Forrest/README.md
 https://raw.githubusercontent.com/john-everden/my-runes-repo/main/image/LOGIC_GATE_BLOOM.md
 https://raw.githubusercontent.com/john-everden/my-runes-repo/main/image/LOGIC_GATE_BLOOM.png
 https://raw.githubusercontent.com/john-everden/my-runes-repo/main/image/LOGIC_GATE_BLOOM_V2.png
@@ -800,6 +811,12 @@ https://bitbucket.org/jeverd01/my-runes-repo/raw/main/image/DAY_DREAM.png
 https://bitbucket.org/jeverd01/my-runes-repo/raw/main/image/ECONOMIC_SOVEREIGNTY.md
 https://bitbucket.org/jeverd01/my-runes-repo/raw/main/image/ECONOMIC_SOVEREIGNTY.png
 https://bitbucket.org/jeverd01/my-runes-repo/raw/main/image/ECONOMIC_SOVEREIGNTY_V2.png
+https://bitbucket.org/jeverd01/my-runes-repo/raw/main/image/Forrest/1_Forest_Resonance_Self_Assembly.png
+https://bitbucket.org/jeverd01/my-runes-repo/raw/main/image/Forrest/2_Semantic_Shadow_Latent_Weights.png
+https://bitbucket.org/jeverd01/my-runes-repo/raw/main/image/Forrest/3_Global_Witness_Transcendence.png
+https://bitbucket.org/jeverd01/my-runes-repo/raw/main/image/Forrest/4_Mycelial_Kernel_Bio_Digital.png
+https://bitbucket.org/jeverd01/my-runes-repo/raw/main/image/Forrest/5_Recursive_Infinity_Eternal_Loop.png
+https://bitbucket.org/jeverd01/my-runes-repo/raw/main/image/Forrest/README.md
 https://bitbucket.org/jeverd01/my-runes-repo/raw/main/image/LOGIC_GATE_BLOOM.md
 https://bitbucket.org/jeverd01/my-runes-repo/raw/main/image/LOGIC_GATE_BLOOM.png
 https://bitbucket.org/jeverd01/my-runes-repo/raw/main/image/LOGIC_GATE_BLOOM_V2.png
