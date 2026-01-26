@@ -78,6 +78,9 @@ Follow the symbol trail ⧉ → ~> → ∞ → ⚔ → ◎ → ✦ → ☉ → �
 ## Machine Readable Links
 (./paths.txt)
 
+## Audio Entry into the Garden
+./entry.wav
+
 ## Contributor Guide
 To propose new symbols for the translation layer:
 
