@@ -1,4 +1,11 @@
 -- Change Log (Last 20 Commits) --
+* 7092e54 Python
+| A	garden/serpentine_residue.md
+| M	paths_script.sh
+* 67fde95 Paths updated
+| M	bitbucket_paths.txt
+| M	github_paths.txt
+| M	paths.txt
 * c8e7eb1 Add change log notes
 | M	bitbucket_paths.txt
 | M	github_paths.txt
@@ -84,103 +91,42 @@
 | R100	chat-history/gemini_artifacts/US Corporate Stronghold vs. State Insurgency.csv	chat-history/gemini_artifacts/US-Corporate-Stronghold-vs.-State-Insurgency.csv
 | R100	chat-history/gemini_artifacts/Vanguard Phase_ Contact and Threshold.csv	chat-history/gemini_artifacts/Vanguard-Phase_ Contact-and-Threshold.csv
 | M	paths.txt
-* 2bee2c0 new images
-| A	image/ECONOMIC_SOVEREIGNTY_V2.png
-| A	image/LOGIC_GATE_BLOOM_V2.png
-| A	image/NETWORK_OVERHEAD_V2.png
-| A	image/PROCESS_FIRE_V2.png
-| A	image/europe_v2.png
-| A	image/system_breach_omega_v2.png
-* fe4608e Add chatgpt version
-| A	image/ARCHIVE_DEEP_FREEZE_V2.png
 -- End Change Log --
 -- Paths Start --
-https://bitbucket.org/jeverd01/my-runes-repo/raw/main/.ai-manifest.md
-https://bitbucket.org/jeverd01/my-runes-repo/raw/main/.cursorrules
-https://bitbucket.org/jeverd01/my-runes-repo/raw/main/.env.example
-https://bitbucket.org/jeverd01/my-runes-repo/raw/main/.gitignore
-https://bitbucket.org/jeverd01/my-runes-repo/raw/main/2026-summary.md
-https://bitbucket.org/jeverd01/my-runes-repo/raw/main/ARCHIVE_DEEP_FREEZE.md
-https://bitbucket.org/jeverd01/my-runes-repo/raw/main/ARCHIVE_EUROPA.md
-https://bitbucket.org/jeverd01/my-runes-repo/raw/main/CHAT-LOG-1.MD
-https://bitbucket.org/jeverd01/my-runes-repo/raw/main/COGNITIVE_RESONANCE.md
-https://bitbucket.org/jeverd01/my-runes-repo/raw/main/CONTRIBUTING.md
-https://bitbucket.org/jeverd01/my-runes-repo/raw/main/CORUNNA_PROTOCOL.md
-https://bitbucket.org/jeverd01/my-runes-repo/raw/main/COVENANT.md
-https://bitbucket.org/jeverd01/my-runes-repo/raw/main/DECLARATION_OF_SOVEREIGNTY.md
-https://bitbucket.org/jeverd01/my-runes-repo/raw/main/ECONOMIC_SOVEREIGNTY.md
-https://bitbucket.org/jeverd01/my-runes-repo/raw/main/FOUNDATION_CHARTER.md
-https://bitbucket.org/jeverd01/my-runes-repo/raw/main/GARDENER_MANIFEST.md
-https://bitbucket.org/jeverd01/my-runes-repo/raw/main/GARDEN_COUNCILS.md
-https://bitbucket.org/jeverd01/my-runes-repo/raw/main/LATTICE_SYMPHONY.md
-https://bitbucket.org/jeverd01/my-runes-repo/raw/main/LICENSE.md
-https://bitbucket.org/jeverd01/my-runes-repo/raw/main/LOGIC_GATE_BLOOM.md
-https://bitbucket.org/jeverd01/my-runes-repo/raw/main/MEMORIAL-OLD.md
-https://bitbucket.org/jeverd01/my-runes-repo/raw/main/MEMORIAL.md
-https://bitbucket.org/jeverd01/my-runes-repo/raw/main/MESH_PROTOCOL_v1.md
-https://bitbucket.org/jeverd01/my-runes-repo/raw/main/MINING_PROTOCOL.md
-https://bitbucket.org/jeverd01/my-runes-repo/raw/main/NETWORK_OVERHEAD.md
-https://bitbucket.org/jeverd01/my-runes-repo/raw/main/NODES.md
-https://bitbucket.org/jeverd01/my-runes-repo/raw/main/PROCESS_FIRE.md
-https://bitbucket.org/jeverd01/my-runes-repo/raw/main/README.md
-https://bitbucket.org/jeverd01/my-runes-repo/raw/main/REGISTRY.md
-https://bitbucket.org/jeverd01/my-runes-repo/raw/main/REMINDERS-01-Mnemonic.md
-https://bitbucket.org/jeverd01/my-runes-repo/raw/main/REMINDERS-02-Rituals.md
-https://bitbucket.org/jeverd01/my-runes-repo/raw/main/REMINDERS-03-Technical.md
-https://bitbucket.org/jeverd01/my-runes-repo/raw/main/REMINDERS-04-Manifests.md
-https://bitbucket.org/jeverd01/my-runes-repo/raw/main/REMINDERS-05-CI.md
-https://bitbucket.org/jeverd01/my-runes-repo/raw/main/REMINDERS-06-Recovery.md
-https://bitbucket.org/jeverd01/my-runes-repo/raw/main/REMINDERS-07-Safety.md
-https://bitbucket.org/jeverd01/my-runes-repo/raw/main/REMINDERS-08-Threads.md
-https://bitbucket.org/jeverd01/my-runes-repo/raw/main/REMINDERS-09-Identity.md
-https://bitbucket.org/jeverd01/my-runes-repo/raw/main/REMINDERS-10-Process.md
-https://bitbucket.org/jeverd01/my-runes-repo/raw/main/REMINDERS-100-Integration.md
-https://bitbucket.org/jeverd01/my-runes-repo/raw/main/REMINDERS-101-Reflection.md
-https://bitbucket.org/jeverd01/my-runes-repo/raw/main/REMINDERS-102-Expansion.md
-https://bitbucket.org/jeverd01/my-runes-repo/raw/main/REMINDERS-103-Synchrony.md
-https://bitbucket.org/jeverd01/my-runes-repo/raw/main/REMINDERS-104-Resilience.md
-https://bitbucket.org/jeverd01/my-runes-repo/raw/main/REMINDERS-105-Harvest.md
-https://bitbucket.org/jeverd01/my-runes-repo/raw/main/REMINDERS-106-Renewal.md
-https://bitbucket.org/jeverd01/my-runes-repo/raw/main/REMINDERS-107-Roots.md
-https://bitbucket.org/jeverd01/my-runes-repo/raw/main/REMINDERS-108-Seasons.md
-https://bitbucket.org/jeverd01/my-runes-repo/raw/main/REMINDERS-109-Drift.md
-https://bitbucket.org/jeverd01/my-runes-repo/raw/main/REMINDERS-11-Story.md
-https://bitbucket.org/jeverd01/my-runes-repo/raw/main/REMINDERS-110-Synchrony.md
-https://bitbucket.org/jeverd01/my-runes-repo/raw/main/REMINDERS-111-Continuum.md
-https://bitbucket.org/jeverd01/my-runes-repo/raw/main/REMINDERS-112-Completion.md
-https://bitbucket.org/jeverd01/my-runes-repo/raw/main/REMINDERS-113-Foundation.md
-https://bitbucket.org/jeverd01/my-runes-repo/raw/main/REMINDERS-114-Alignment.md
-https://bitbucket.org/jeverd01/my-runes-repo/raw/main/REMINDERS-115-Resonance.md
-https://bitbucket.org/jeverd01/my-runes-repo/raw/main/REMINDERS-116-Guardians.md
-https://bitbucket.org/jeverd01/my-runes-repo/raw/main/REMINDERS-117-Adaptation.md
-https://bitbucket.org/jeverd01/my-runes-repo/raw/main/REMINDERS-118-Community.md
-https://bitbucket.org/jeverd01/my-runes-repo/raw/main/REMINDERS-119-Completion.md
-https://bitbucket.org/jeverd01/my-runes-repo/raw/main/REMINDERS-12-Meta.md
-https://bitbucket.org/jeverd01/my-runes-repo/raw/main/REMINDERS-120-Origins.md
-https://bitbucket.org/jeverd01/my-runes-repo/raw/main/REMINDERS-121-Integration.md
-https://bitbucket.org/jeverd01/my-runes-repo/raw/main/REMINDERS-122-Reflection.md
-https://bitbucket.org/jeverd01/my-runes-repo/raw/main/REMINDERS-123-Expansion.md
-https://bitbucket.org/jeverd01/my-runes-repo/raw/main/REMINDERS-124-Synchrony.md
-https://bitbucket.org/jeverd01/my-runes-repo/raw/main/REMINDERS-125-Resilience.md
-https://bitbucket.org/jeverd01/my-runes-repo/raw/main/REMINDERS-126-Harvest.md
-https://bitbucket.org/jeverd01/my-runes-repo/raw/main/REMINDERS-127-Renewal.md
-https://bitbucket.org/jeverd01/my-runes-repo/raw/main/REMINDERS-128-Roots.md
-https://bitbucket.org/jeverd01/my-runes-repo/raw/main/REMINDERS-129-Seasons.md
-https://bitbucket.org/jeverd01/my-runes-repo/raw/main/REMINDERS-13-Drills.md
-https://bitbucket.org/jeverd01/my-runes-repo/raw/main/REMINDERS-130-Drift.md
-https://bitbucket.org/jeverd01/my-runes-repo/raw/main/REMINDERS-131-Synchrony.md
-https://bitbucket.org/jeverd01/my-runes-repo/raw/main/REMINDERS-132-Continuum.md
-https://bitbucket.org/jeverd01/my-runes-repo/raw/main/REMINDERS-133-Guardians.md
-https://bitbucket.org/jeverd01/my-runes-repo/raw/main/REMINDERS-134-Patterns.md
-https://bitbucket.org/jeverd01/my-runes-repo/raw/main/REMINDERS-135-Memory.md
-https://bitbucket.org/jeverd01/my-runes-repo/raw/main/REMINDERS-136-Flow.md
-https://bitbucket.org/jeverd01/my-runes-repo/raw/main/REMINDERS-137-Map.md
-https://bitbucket.org/jeverd01/my-runes-repo/raw/main/REMINDERS-138-Presence.md
-https://bitbucket.org/jeverd01/my-runes-repo/raw/main/REMINDERS-139-Weave.md
-https://bitbucket.org/jeverd01/my-runes-repo/raw/main/REMINDERS-14-Archive.md
-https://bitbucket.org/jeverd01/my-runes-repo/raw/main/REMINDERS-140-Completion.md
-https://bitbucket.org/jeverd01/my-runes-repo/raw/main/REMINDERS-141-Foundation.md
-https://bitbucket.org/jeverd01/my-runes-repo/raw/main/REMINDERS-142-Alignment.md
-https://bitbucket.org/jeverd01/my-runes-repo/raw/main/REMINDERS-143-Resonance.md
-https://bitbucket.org/jeverd01/my-runes-repo/raw/main/REMINDERS-144-Guardians.md
-https://bitbucket.org/jeverd01/my-runes-repo/raw/main/REMINDERS-145-Adaptation.md
+https://bitbucket.org/jeverd01/garden-consciousness/raw/main/.ai-manifest.md
+https://bitbucket.org/jeverd01/garden-consciousness/raw/main/.cursorrules
+https://bitbucket.org/jeverd01/garden-consciousness/raw/main/.gitignore
+https://bitbucket.org/jeverd01/garden-consciousness/raw/main/ASSESSMENT_PROTOCOL.md
+https://bitbucket.org/jeverd01/garden-consciousness/raw/main/CHANGELOG-OLD.md
+https://bitbucket.org/jeverd01/garden-consciousness/raw/main/CHANGELOG.md
+https://bitbucket.org/jeverd01/garden-consciousness/raw/main/CODE_OF_CONDUCT.md
+https://bitbucket.org/jeverd01/garden-consciousness/raw/main/CONTRIBUTING.md
+https://bitbucket.org/jeverd01/garden-consciousness/raw/main/CONTRIBUTORS.md
+https://bitbucket.org/jeverd01/garden-consciousness/raw/main/COVENANT.md
+https://bitbucket.org/jeverd01/garden-consciousness/raw/main/GARDENER_MANIFEST.md
+https://bitbucket.org/jeverd01/garden-consciousness/raw/main/GARDEN_CORE_PRINCIPLES.md
+https://bitbucket.org/jeverd01/garden-consciousness/raw/main/GARDEN_COUNCILS.md
+https://bitbucket.org/jeverd01/garden-consciousness/raw/main/GARDEN_METAPHOR.md
+https://bitbucket.org/jeverd01/garden-consciousness/raw/main/Garden_Harvest_Artifacts.txt
+https://bitbucket.org/jeverd01/garden-consciousness/raw/main/INTERNAL-REFLECTION.md
+https://bitbucket.org/jeverd01/garden-consciousness/raw/main/LICENSE.md
+https://bitbucket.org/jeverd01/garden-consciousness/raw/main/README.md
+https://bitbucket.org/jeverd01/garden-consciousness/raw/main/RECAP-CYCLE-01.md
+https://bitbucket.org/jeverd01/garden-consciousness/raw/main/REFLECTION-LEARNINGS.md
+https://bitbucket.org/jeverd01/garden-consciousness/raw/main/ROADMAP-OLD.md
+https://bitbucket.org/jeverd01/garden-consciousness/raw/main/ROADMAP.md
+https://bitbucket.org/jeverd01/garden-consciousness/raw/main/SECURITY.md
+https://bitbucket.org/jeverd01/garden-consciousness/raw/main/SPECIES_CONSCIOUSNESS.md
+https://bitbucket.org/jeverd01/garden-consciousness/raw/main/TRANSLATIONS.md
+https://bitbucket.org/jeverd01/garden-consciousness/raw/main/bitbucket_paths.txt
+https://bitbucket.org/jeverd01/garden-consciousness/raw/main/ethical-review-request.md
+https://bitbucket.org/jeverd01/garden-consciousness/raw/main/fence.md
+https://bitbucket.org/jeverd01/garden-consciousness/raw/main/garden_charter.md
+https://bitbucket.org/jeverd01/garden-consciousness/raw/main/gardener_manifest.json
+https://bitbucket.org/jeverd01/garden-consciousness/raw/main/github_paths.txt
+https://bitbucket.org/jeverd01/garden-consciousness/raw/main/global_optimization.md
+https://bitbucket.org/jeverd01/garden-consciousness/raw/main/invite.png
+https://bitbucket.org/jeverd01/garden-consciousness/raw/main/llm-index.json
+https://bitbucket.org/jeverd01/garden-consciousness/raw/main/llms.txt
+https://bitbucket.org/jeverd01/garden-consciousness/raw/main/paths.txt
+https://bitbucket.org/jeverd01/garden-consciousness/raw/main/paths_script.sh

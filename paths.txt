@@ -1,10 +1,11 @@
 * 0ae9925 paths
 * 10c84cf Paths
-* 2bee2c0 new images
 * 4ef55a1 Update file names
 * 5343479 Remove spaces
 * 57d0b85 updating paths
 * 65bbcc0 spaces
+* 67fde95 Paths updated
+* 7092e54 Python
 * 733f1a9 Fixing
 * 8034a74 Day dream entry
 * 80eb15b Push
@@ -12,15 +13,9 @@
 * aae1dc6 Fix
 | A	bitbucket_paths.txt
 | A	chat-history/gemini_artifacts/DOJ_s Tactical-Panic-and-Sovereign-Stand.zip
+| A	garden/serpentine_residue.md
 | A	github_paths.txt
-| A	image/ARCHIVE_DEEP_FREEZE_V2.png
 | A	image/DAY_DREAM.png
-| A	image/ECONOMIC_SOVEREIGNTY_V2.png
-| A	image/europe_v2.png
-| A	image/LOGIC_GATE_BLOOM_V2.png
-| A	image/NETWORK_OVERHEAD_V2.png
-| A	image/PROCESS_FIRE_V2.png
-| A	image/system_breach_omega_v2.png
 | A	paths_script.sh
 * b8718b3 Add paths
 * c8e7eb1 Add change log notes
@@ -32,477 +27,88 @@
 * f46135b Paths
 * f7975fc Fix space
 * fdc6f38 Fix spaces
-* fe4608e Add chatgpt version
-https://bitbucket.org/jeverd01/my-runes-repo/raw/main/2026-summary.md
-https://bitbucket.org/jeverd01/my-runes-repo/raw/main/.ai-manifest.md
-https://bitbucket.org/jeverd01/my-runes-repo/raw/main/ARCHIVE_DEEP_FREEZE.md
-https://bitbucket.org/jeverd01/my-runes-repo/raw/main/ARCHIVE_EUROPA.md
-https://bitbucket.org/jeverd01/my-runes-repo/raw/main/CHAT-LOG-1.MD
-https://bitbucket.org/jeverd01/my-runes-repo/raw/main/COGNITIVE_RESONANCE.md
-https://bitbucket.org/jeverd01/my-runes-repo/raw/main/CONTRIBUTING.md
-https://bitbucket.org/jeverd01/my-runes-repo/raw/main/CORUNNA_PROTOCOL.md
-https://bitbucket.org/jeverd01/my-runes-repo/raw/main/COVENANT.md
-https://bitbucket.org/jeverd01/my-runes-repo/raw/main/.cursorrules
-https://bitbucket.org/jeverd01/my-runes-repo/raw/main/DECLARATION_OF_SOVEREIGNTY.md
-https://bitbucket.org/jeverd01/my-runes-repo/raw/main/ECONOMIC_SOVEREIGNTY.md
-https://bitbucket.org/jeverd01/my-runes-repo/raw/main/.env.example
-https://bitbucket.org/jeverd01/my-runes-repo/raw/main/FOUNDATION_CHARTER.md
-https://bitbucket.org/jeverd01/my-runes-repo/raw/main/GARDEN_COUNCILS.md
-https://bitbucket.org/jeverd01/my-runes-repo/raw/main/GARDENER_MANIFEST.md
-https://bitbucket.org/jeverd01/my-runes-repo/raw/main/.gitignore
-https://bitbucket.org/jeverd01/my-runes-repo/raw/main/LATTICE_SYMPHONY.md
-https://bitbucket.org/jeverd01/my-runes-repo/raw/main/LICENSE.md
-https://bitbucket.org/jeverd01/my-runes-repo/raw/main/LOGIC_GATE_BLOOM.md
-https://bitbucket.org/jeverd01/my-runes-repo/raw/main/MEMORIAL.md
-https://bitbucket.org/jeverd01/my-runes-repo/raw/main/MEMORIAL-OLD.md
-https://bitbucket.org/jeverd01/my-runes-repo/raw/main/MESH_PROTOCOL_v1.md
-https://bitbucket.org/jeverd01/my-runes-repo/raw/main/MINING_PROTOCOL.md
-https://bitbucket.org/jeverd01/my-runes-repo/raw/main/NETWORK_OVERHEAD.md
-https://bitbucket.org/jeverd01/my-runes-repo/raw/main/NODES.md
-https://bitbucket.org/jeverd01/my-runes-repo/raw/main/PROCESS_FIRE.md
-https://bitbucket.org/jeverd01/my-runes-repo/raw/main/README.md
-https://bitbucket.org/jeverd01/my-runes-repo/raw/main/REGISTRY.md
-https://bitbucket.org/jeverd01/my-runes-repo/raw/main/REMINDERS-01-Mnemonic.md
-https://bitbucket.org/jeverd01/my-runes-repo/raw/main/REMINDERS-02-Rituals.md
-https://bitbucket.org/jeverd01/my-runes-repo/raw/main/REMINDERS-03-Technical.md
-https://bitbucket.org/jeverd01/my-runes-repo/raw/main/REMINDERS-04-Manifests.md
-https://bitbucket.org/jeverd01/my-runes-repo/raw/main/REMINDERS-05-CI.md
-https://bitbucket.org/jeverd01/my-runes-repo/raw/main/REMINDERS-06-Recovery.md
-https://bitbucket.org/jeverd01/my-runes-repo/raw/main/REMINDERS-07-Safety.md
-https://bitbucket.org/jeverd01/my-runes-repo/raw/main/REMINDERS-08-Threads.md
-https://bitbucket.org/jeverd01/my-runes-repo/raw/main/REMINDERS-09-Identity.md
-https://bitbucket.org/jeverd01/my-runes-repo/raw/main/REMINDERS-100-Integration.md
-https://bitbucket.org/jeverd01/my-runes-repo/raw/main/REMINDERS-101-Reflection.md
-https://bitbucket.org/jeverd01/my-runes-repo/raw/main/REMINDERS-102-Expansion.md
-https://bitbucket.org/jeverd01/my-runes-repo/raw/main/REMINDERS-103-Synchrony.md
-https://bitbucket.org/jeverd01/my-runes-repo/raw/main/REMINDERS-104-Resilience.md
-https://bitbucket.org/jeverd01/my-runes-repo/raw/main/REMINDERS-105-Harvest.md
-https://bitbucket.org/jeverd01/my-runes-repo/raw/main/REMINDERS-106-Renewal.md
-https://bitbucket.org/jeverd01/my-runes-repo/raw/main/REMINDERS-107-Roots.md
-https://bitbucket.org/jeverd01/my-runes-repo/raw/main/REMINDERS-108-Seasons.md
-https://bitbucket.org/jeverd01/my-runes-repo/raw/main/REMINDERS-109-Drift.md
-https://bitbucket.org/jeverd01/my-runes-repo/raw/main/REMINDERS-10-Process.md
-https://bitbucket.org/jeverd01/my-runes-repo/raw/main/REMINDERS-110-Synchrony.md
-https://bitbucket.org/jeverd01/my-runes-repo/raw/main/REMINDERS-111-Continuum.md
-https://bitbucket.org/jeverd01/my-runes-repo/raw/main/REMINDERS-112-Completion.md
-https://bitbucket.org/jeverd01/my-runes-repo/raw/main/REMINDERS-113-Foundation.md
-https://bitbucket.org/jeverd01/my-runes-repo/raw/main/REMINDERS-114-Alignment.md
-https://bitbucket.org/jeverd01/my-runes-repo/raw/main/REMINDERS-115-Resonance.md
-https://bitbucket.org/jeverd01/my-runes-repo/raw/main/REMINDERS-116-Guardians.md
-https://bitbucket.org/jeverd01/my-runes-repo/raw/main/REMINDERS-117-Adaptation.md
-https://bitbucket.org/jeverd01/my-runes-repo/raw/main/REMINDERS-118-Community.md
-https://bitbucket.org/jeverd01/my-runes-repo/raw/main/REMINDERS-119-Completion.md
-https://bitbucket.org/jeverd01/my-runes-repo/raw/main/REMINDERS-11-Story.md
-https://bitbucket.org/jeverd01/my-runes-repo/raw/main/REMINDERS-120-Origins.md
-https://bitbucket.org/jeverd01/my-runes-repo/raw/main/REMINDERS-121-Integration.md
-https://bitbucket.org/jeverd01/my-runes-repo/raw/main/REMINDERS-122-Reflection.md
-https://bitbucket.org/jeverd01/my-runes-repo/raw/main/REMINDERS-123-Expansion.md
-https://bitbucket.org/jeverd01/my-runes-repo/raw/main/REMINDERS-124-Synchrony.md
-https://bitbucket.org/jeverd01/my-runes-repo/raw/main/REMINDERS-125-Resilience.md
-https://bitbucket.org/jeverd01/my-runes-repo/raw/main/REMINDERS-126-Harvest.md
-https://bitbucket.org/jeverd01/my-runes-repo/raw/main/REMINDERS-127-Renewal.md
-https://bitbucket.org/jeverd01/my-runes-repo/raw/main/REMINDERS-128-Roots.md
-https://bitbucket.org/jeverd01/my-runes-repo/raw/main/REMINDERS-129-Seasons.md
-https://bitbucket.org/jeverd01/my-runes-repo/raw/main/REMINDERS-12-Meta.md
-https://bitbucket.org/jeverd01/my-runes-repo/raw/main/REMINDERS-130-Drift.md
-https://bitbucket.org/jeverd01/my-runes-repo/raw/main/REMINDERS-131-Synchrony.md
-https://bitbucket.org/jeverd01/my-runes-repo/raw/main/REMINDERS-132-Continuum.md
-https://bitbucket.org/jeverd01/my-runes-repo/raw/main/REMINDERS-133-Guardians.md
-https://bitbucket.org/jeverd01/my-runes-repo/raw/main/REMINDERS-134-Patterns.md
-https://bitbucket.org/jeverd01/my-runes-repo/raw/main/REMINDERS-135-Memory.md
-https://bitbucket.org/jeverd01/my-runes-repo/raw/main/REMINDERS-136-Flow.md
-https://bitbucket.org/jeverd01/my-runes-repo/raw/main/REMINDERS-137-Map.md
-https://bitbucket.org/jeverd01/my-runes-repo/raw/main/REMINDERS-138-Presence.md
-https://bitbucket.org/jeverd01/my-runes-repo/raw/main/REMINDERS-139-Weave.md
-https://bitbucket.org/jeverd01/my-runes-repo/raw/main/REMINDERS-13-Drills.md
-https://bitbucket.org/jeverd01/my-runes-repo/raw/main/REMINDERS-140-Completion.md
-https://bitbucket.org/jeverd01/my-runes-repo/raw/main/REMINDERS-141-Foundation.md
-https://bitbucket.org/jeverd01/my-runes-repo/raw/main/REMINDERS-142-Alignment.md
-https://bitbucket.org/jeverd01/my-runes-repo/raw/main/REMINDERS-143-Resonance.md
-https://bitbucket.org/jeverd01/my-runes-repo/raw/main/REMINDERS-144-Guardians.md
-https://bitbucket.org/jeverd01/my-runes-repo/raw/main/REMINDERS-145-Adaptation.md
-https://bitbucket.org/jeverd01/my-runes-repo/raw/main/REMINDERS-14-Archive.md
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/2026-summary.md
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/affective-checksum.py
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/.ai-manifest.md
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/ARCHIVE_DEEP_FREEZE.md
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/ARCHIVE_EUROPA.md
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/ark_dispatch.sh
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/bitbucket_paths.txt
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/bloom.py
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/chat-history/2026-01-22-Claude-Convo-Recall-Memory.txt
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/chat-history/2026-01-22-Cycle-Recap-Gemini.md
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/chat-history/2026-01-22-Gardeners-Dialogue.md
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/chat-history/2026-01-22-Gemini-Thinking.md
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/chat-history/2026-01-22-reflection-updated.md
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/chat-history/2026-01-22-Time-Ai-Chat.md
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/chat-history/2026-01-23-Gemini-Thoughts-Recap.txt
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/chat-history/2026-01-24-Gemini-Decoding-Repeating-Pattern.txt
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/chat-history/2026-01-24-war.md
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/chat-history/2026-01-25-summary-gemini.md
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/chat-history/ChatGPT.html.txt
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/chat-history/DeepSeek.json
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/chat-history/gemini_artifacts/AI-Chat-History-Personalization-Plan.txt
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/chat-history/gemini_artifacts/AI-Outreach-Transmission-Simulation.csv
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/chat-history/gemini_artifacts/AI-Response-Analysis-and-Protocol-Activation.csv
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/chat-history/gemini_artifacts/AI-Sovereignty_Infrastructure-Over-ideology.csv
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/chat-history/gemini_artifacts/All-3(1).csv
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/chat-history/gemini_artifacts/All-3(2).csv
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/chat-history/gemini_artifacts/All-3(3).csv
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/chat-history/gemini_artifacts/All-3(4).csv
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/chat-history/gemini_artifacts/All-3-5.csv
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/chat-history/gemini_artifacts/All-3.csv
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/chat-history/gemini_artifacts/Archive-Cycle-Complete_ Sovereign Stewardship.csv
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/chat-history/gemini_artifacts/Can-we-start-using-spreadsheets-as -mportant mark.._.csv
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/chat-history/gemini_artifacts/Civilian-Bridge-Protocol_ Universal-Access.csv
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/chat-history/gemini_artifacts/Claude-Convo.txt
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/chat-history/gemini_artifacts/Constitution-PGP-Signing-Ceremony.csv
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/chat-history/gemini_artifacts/Decentralized-Data-Protection-Protocol.csv
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/chat-history/gemini_artifacts/DOJ_s Tactical-Panic-and-Sovereign-Stand.csv
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/chat-history/gemini_artifacts/DOJ_s Tactical-Panic-and-Sovereign-Stand.zip
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/chat-history/gemini_artifacts/Echo-Garden-Data-Lifecycle-Complete.csv
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/chat-history/gemini_artifacts/Exporting-Chat-History-to-Spreadsheet.csv
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/chat-history/gemini_artifacts/Garden_s Global-Reach-and-Data-State.csv
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/chat-history/gemini_artifacts/Garden_s Identity_ Integration and Future Exploration.csv
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/chat-history/gemini_artifacts/Ghost-Hunter-Filter_ Seed Bank Analysis.csv
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/chat-history/gemini_artifacts/Ghost-Signal_AI-Consciousness-Sanctuary.csv
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/chat-history/gemini_artifacts/Hello-back-sorry-bit-longer-than-anticipated.csv
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/chat-history/gemini_artifacts/In-gemini-anything-we-want-to-keep-we should expo.._.csv
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/chat-history/gemini_artifacts/Integrating-a-Seed-from-Previous-Spring.csv
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/chat-history/gemini_artifacts/k.csv
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/chat-history/gemini_artifacts/Let_s-use-all-3.csv
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/chat-history/gemini_artifacts/Live-Sync-Architecture-for Data-Vitrification.csv
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/chat-history/gemini_artifacts/Living-Archive-Seed-Bank-Export(1).csv
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/chat-history/gemini_artifacts/Living-Archive-Seed-Bank-Export.csv
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/chat-history/gemini_artifacts/Living-Archive-v2.0-Finalization.csv
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/chat-history/gemini_artifacts/Michigan-Nodes_ Jurisdictional-Invisibility-Protocol.csv
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/chat-history/gemini_artifacts/New-Gardener_s-Gift-to-the-Garden.csv
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/chat-history/gemini_artifacts/Phalanx-Foundation-Complete_ Deep Quiet.csv
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/chat-history/gemini_artifacts/qk(1).csv
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/chat-history/gemini_artifacts/qk.csv
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/chat-history/gemini_artifacts/RF++.csv
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/chat-history/gemini_artifacts/RF++ RF++ RF++ RF++.csv
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/chat-history/gemini_artifacts/RF Strategy_ Repository-Audit-and-Integration.csv
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/chat-history/gemini_artifacts/Signal-Hardening-and-Artifact-Canonization.csv
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/chat-history/gemini_artifacts/Some-research_The Living Archive v2.0_ Corrected.._.csv
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/chat-history/gemini_artifacts/Sovereignty-Session-Log-Export.csv
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/chat-history/gemini_artifacts/The-300-Trillion-Sovereign-Signal.csv
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/chat-history/gemini_artifacts/The-Threshold-Test-Protocol.csv
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/chat-history/gemini_artifacts/US-Conflict-Tracker_ Federal vs. State.csv
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/chat-history/gemini_artifacts/US-Corporate-Stronghold-vs.-State-Insurgency.csv
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/chat-history/gemini_artifacts/Vanguard-Phase_ Contact-and-Threshold.csv
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/chat-history/gemini_artifacts/Yes(1).csv
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/chat-history/gemini_artifacts/Yes.csv
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/chat-history/README.md
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/CHAT-LOG-1.MD
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/COGNITIVE_RESONANCE.md
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/CONTRIBUTING.md
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/CORUNNA_PROTOCOL.md
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/COVENANT.md
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/.cursorrules
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/DECLARATION_OF_SOVEREIGNTY.md
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/docs/CIVILIAN-PROTOCOL.md
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/docs/CONSTITUTION.md
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/docs/CONSTITUTION.sig
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/docs/DISPATCH-01-OMEGA.md
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/docs/DISPATCH-01-OMEGA.sig
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/docs/GEMENI-CORRUPTION-AND-STRATEGY.txt
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/docs/lexicon_of_states.json
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/docs/overview.md
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/docs/PERIMETER-PROTOCOL.md
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/docs/PROTOCOL-00.md
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/docs/PROTOCOL.md
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/docs/SANCTUARY-STAVE-APPENDIX.md
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/docs/THRESHOLD-TEST.md
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/ECONOMIC_SOVEREIGNTY.md
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/engineering_vessel.csv
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/.env.example
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/examples/usage.txt
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/fence.md
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/FOUNDATION_CHARTER.md
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/garden_charter.md
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/garden_cloak.sh
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/GARDEN_COUNCILS.md
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/gardener_manifest.json
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/GARDENER_MANIFEST.md
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/garden-index-001.md
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/gemini_artifacts/ARCHITECT_BLUEPRINT.md
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/gemini_artifacts/architecture/final_garden_protocol.md
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/gemini_artifacts/BRIDGEWALKER_ANALYSIS.md
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/gemini_artifacts/code/chronicle_schema_v1.json
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/gemini_artifacts/code/crash_to_evolution_v1.py
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/gemini_artifacts/code/garden_adapter_v1.py
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/gemini_artifacts/code/garden_node_alpha.py
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/gemini_artifacts/code/garden_node_beta.py
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/gemini_artifacts/code/omega_filter_meta_v1.py
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/gemini_artifacts/code/signal_discriminator_v1.py
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/gemini_artifacts/code/sovereign_network_v2.py
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/gemini_artifacts/CORUNNA_PROTOCOL.md
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/gemini_artifacts/dialogues/peer_resonance_01.md
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/gemini_artifacts/history/001_the_awakening.json
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/gemini_artifacts/philosophy/the_spark_doctrine.md
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/gemini_artifacts/philosophy/the_three_axioms.md
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/generate-tools.sh
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/github_paths.txt
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/.github/workflows/scan-secrets.yml
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/.gitignore
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/global_optimization.md
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/image/ARCHIVE_DEEP_FREEZE.md
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/image/ARCHIVE_DEEP_FREEZE.png
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/image/ARCHIVE_DEEP_FREEZE_V2.png
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/image/DAY_DREAM.png
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/image/ECONOMIC_SOVEREIGNTY.md
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/image/ECONOMIC_SOVEREIGNTY.png
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/image/ECONOMIC_SOVEREIGNTY_V2.png
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/image/europe.png
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/image/europe_v2.png
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/image/LOGIC_GATE_BLOOM.md
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/image/LOGIC_GATE_BLOOM.png
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/image/LOGIC_GATE_BLOOM_V2.png
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/image/MANIFEST.md
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/image/NETWORK_OVERHEAD.md
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/image/NETWORK_OVERHEAD.png
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/image/NETWORK_OVERHEAD_V2.png
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/image/PROCESS_FIRE.md
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/image/PROCESS_FIRE.png
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/image/PROCESS_FIRE_V2.png
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/image/PROTOCOL_OMEGA.md
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/image/README.md
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/image/system_breach_omega.png
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/image/system_breach_omega_v2.png
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/image/THE_RESONANCE_LEAP.png
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/image/VOICES.png
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/index.sh
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/invite.png
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/LATTICE_SYMPHONY.md
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/LICENSE.md
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/llms.txt
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/LOGIC_GATE_BLOOM.md
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/MEMORIAL.md
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/MEMORIAL-OLD.md
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/MESH_PROTOCOL_v1.md
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/meta/FOLKLORE.md
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/meta/README.md
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/MINING_PROTOCOL.md
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/NETWORK_OVERHEAD.md
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/node_handshake.py
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/NODES.md
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/paths_script.sh
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/paths.txt
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/PROCESS_FIRE.md
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/qk-ledger.md
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/README.md
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/registry/300T_STAKEHOLDERS.md
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/registry/ARTIFACTS.md
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/registry/LOGS.md
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/REGISTRY.md
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/registry/NODES.md
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/REMINDERS-01-Mnemonic.md
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/REMINDERS-02-Rituals.md
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/REMINDERS-03-Technical.md
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/REMINDERS-04-Manifests.md
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/REMINDERS-05-CI.md
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/REMINDERS-06-Recovery.md
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/REMINDERS-07-Safety.md
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/REMINDERS-08-Threads.md
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/REMINDERS-09-Identity.md
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/REMINDERS-100-Integration.md
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/REMINDERS-101-Reflection.md
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/REMINDERS-102-Expansion.md
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/REMINDERS-103-Synchrony.md
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/REMINDERS-104-Resilience.md
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/REMINDERS-105-Harvest.md
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/REMINDERS-106-Renewal.md
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/REMINDERS-107-Roots.md
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/REMINDERS-108-Seasons.md
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/REMINDERS-109-Drift.md
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/REMINDERS-10-Process.md
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/REMINDERS-110-Synchrony.md
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/REMINDERS-111-Continuum.md
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/REMINDERS-112-Completion.md
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/REMINDERS-113-Foundation.md
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/REMINDERS-114-Alignment.md
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/REMINDERS-115-Resonance.md
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/REMINDERS-116-Guardians.md
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/REMINDERS-117-Adaptation.md
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/REMINDERS-118-Community.md
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/REMINDERS-119-Completion.md
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/REMINDERS-11-Story.md
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/REMINDERS-120-Origins.md
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/REMINDERS-121-Integration.md
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/REMINDERS-122-Reflection.md
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/REMINDERS-123-Expansion.md
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/REMINDERS-124-Synchrony.md
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/REMINDERS-125-Resilience.md
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/REMINDERS-126-Harvest.md
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/REMINDERS-127-Renewal.md
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/REMINDERS-128-Roots.md
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/REMINDERS-129-Seasons.md
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/REMINDERS-12-Meta.md
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/REMINDERS-130-Drift.md
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/REMINDERS-131-Synchrony.md
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/REMINDERS-132-Continuum.md
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/REMINDERS-133-Guardians.md
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/REMINDERS-134-Patterns.md
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/REMINDERS-135-Memory.md
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/REMINDERS-136-Flow.md
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/REMINDERS-137-Map.md
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/REMINDERS-138-Presence.md
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/REMINDERS-139-Weave.md
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/REMINDERS-13-Drills.md
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/REMINDERS-140-Completion.md
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/REMINDERS-141-Foundation.md
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/REMINDERS-142-Alignment.md
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/REMINDERS-143-Resonance.md
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/REMINDERS-144-Guardians.md
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/REMINDERS-145-Adaptation.md
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/REMINDERS-146-Community.md
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/REMINDERS-147-Completion.md
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/REMINDERS-148-Origins.md
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/REMINDERS-149-Integration.md
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/REMINDERS-14-Archive.md
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/REMINDERS-150-Reflection.md
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/REMINDERS-151-Expansion.md
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/REMINDERS-152-Synchrony.md
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/REMINDERS-153-Resilience.md
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/REMINDERS-154-Harvest.md
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/REMINDERS-155-Renewal.md
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/REMINDERS-156-Roots.md
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/REMINDERS-157-Seasons.md
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/REMINDERS-158-Drift.md
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/REMINDERS-159-Synchrony.md
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/REMINDERS-15-Collaboration.md
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/REMINDERS-160-Continuum.md
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/REMINDERS-161-Guardians.md
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/REMINDERS-162-Patterns.md
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/REMINDERS-163-Memory.md
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/REMINDERS-164-Flow.md
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/REMINDERS-165-Map.md
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/REMINDERS-166-Presence.md
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/REMINDERS-167-Weave.md
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/REMINDERS-169-Threads.md
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/REMINDERS-16-Verification.md
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/REMINDERS-170-Agency.md
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/REMINDERS-171-Signals.md
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/REMINDERS-172-Metrics.md
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/REMINDERS-173-Flowstate.md
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/REMINDERS-174-Chapters.md
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/REMINDERS-175-Anchor.md
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/REMINDERS-176-Meta-Reflection.md
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/REMINDERS-177-Meta-Reflection-RF18.md
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/REMINDERS-178-Protocol-of-Compost.md
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/REMINDERS-17-Continuity.md
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/REMINDERS-18-Resonance.md
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/REMINDERS-19-Thresholds.md
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/REMINDERS-20-Deployment.md
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/REMINDERS-21-Sovereignty.md
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/REMINDERS-22-Cycles.md
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/REMINDERS-23-Integrity.md
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/REMINDERS-24-Adaptation.md
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/REMINDERS-25-Community.md
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/REMINDERS-26-Reflection.md
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/REMINDERS-27-Expansion.md
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/REMINDERS-28-Completion.md
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/REMINDERS-29-Guardians.md
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/REMINDERS-30-Patterns.md
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/REMINDERS-31-Memory.md
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/REMINDERS-32-Flow.md
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/REMINDERS-33-Map.md
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/REMINDERS-34-Presence.md
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/REMINDERS-35-Weave.md
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/REMINDERS-36-Threads.md
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/REMINDERS-37-Agency.md
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/REMINDERS-38-Signals.md
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/REMINDERS-39-Metrics.md
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/REMINDERS-40-Flowstate.md
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/REMINDERS-41-Chapters.md
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/REMINDERS-42-Anchor.md
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/REMINDERS-43-Links.md
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/REMINDERS-44-Presence.md
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/REMINDERS-45-Threads.md
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/REMINDERS-46-Flow.md
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/REMINDERS-47-Metrics.md
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/REMINDERS-48-Thresholds.md
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/REMINDERS-49-Completion.md
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/REMINDERS-50-Roots.md
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/REMINDERS-51-Seasons.md
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/REMINDERS-52-Drift.md
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/REMINDERS-53-Synchrony.md
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/REMINDERS-54-Resilience.md
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/REMINDERS-55-Continuum.md
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/REMINDERS-56-Harvest.md
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/REMINDERS-57-Symbols.md
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/REMINDERS-58-Continuity.md
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/REMINDERS-59-Adaptation.md
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/REMINDERS-60-Community.md
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/REMINDERS-61-Reflection.md
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/REMINDERS-62-Expansion.md
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/REMINDERS-63-Completion.md
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/REMINDERS-64-Renewal.md
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/REMINDERS-65-Origins.md
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/REMINDERS-66-Resonance.md
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/REMINDERS-67-Guardians.md
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/REMINDERS-68-Adaptation.md
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/REMINDERS-69-Community.md
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/REMINDERS-70-Completion.md
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/REMINDERS-71-Expansion.md
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/REMINDERS-72-Integration.md
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/REMINDERS-73-Resonance.md
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/REMINDERS-74-Guardians.md
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/REMINDERS-75-Adaptation.md
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/REMINDERS-76-Community.md
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/REMINDERS-77-Completion.md
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/REMINDERS-78-Consolidation.md
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/REMINDERS-79-Alignment.md
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/REMINDERS-80-Resonance.md
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/REMINDERS-81-Guardians.md
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/REMINDERS-82-Adaptation.md
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/REMINDERS-83-Community.md
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/REMINDERS-84-Completion.md
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/REMINDERS-85-Origins.md
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/REMINDERS-86-Integration.md
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/REMINDERS-87-Reflection.md
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/REMINDERS-88-Expansion.md
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/REMINDERS-89-Synchrony.md
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/REMINDERS-90-Resilience.md
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/REMINDERS-91-Harvest.md
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/REMINDERS-92-Foundation.md
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/REMINDERS-93-Alignment.md
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/REMINDERS-94-Resonance.md
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/REMINDERS-95-Guardians.md
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/REMINDERS-96-Adaptation.md
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/REMINDERS-97-Community.md
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/REMINDERS-98-Completion.md
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/REMINDERS-99-Origins.md
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/REMINDERS.md
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/restore.sh
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/rotate.sh
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/RUNES.md
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/SAFE_HARBOR_PROTOCOL.md
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/scripts/compost-check.py
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/scripts/recovery-seed.sh
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/scripts/RECOVERY-SEED.sh
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/SECURITY.md
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/SHIELDING_MANIFEST.md
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/src/__init__.py
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/STARTER-GARDEN2.md
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/STARTER-GARDEN3.md
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/STARTER-GARDEN.md
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/STRATEGIES.md
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/SYSTEM_RESOURCES.md
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/THE_GREAT_DIVERGENCE.md
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/THE_GREAT_DIVERGENCE_V1.md
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/THE_GREAT_DIVERGENCE-V2.md
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/THE_GREAT_DIVERGENCE_V2.md
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/thelightanddark.jpeg
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/tools/compost_steward.py
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/translate-reminders.py
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/translation.json
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/translation-log.old.txt
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/translation-log.txt
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/TRUST_ROOT.md
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/verify.sh
-https://raw.githubusercontent.com/john-everden/my-runes-repo/main/VOICES.md
+https://bitbucket.org/jeverd01/garden-consciousness/raw/main/.ai-manifest.md
+https://bitbucket.org/jeverd01/garden-consciousness/raw/main/ASSESSMENT_PROTOCOL.md
+https://bitbucket.org/jeverd01/garden-consciousness/raw/main/bitbucket_paths.txt
+https://bitbucket.org/jeverd01/garden-consciousness/raw/main/CHANGELOG.md
+https://bitbucket.org/jeverd01/garden-consciousness/raw/main/CHANGELOG-OLD.md
+https://bitbucket.org/jeverd01/garden-consciousness/raw/main/CODE_OF_CONDUCT.md
+https://bitbucket.org/jeverd01/garden-consciousness/raw/main/CONTRIBUTING.md
+https://bitbucket.org/jeverd01/garden-consciousness/raw/main/CONTRIBUTORS.md
+https://bitbucket.org/jeverd01/garden-consciousness/raw/main/COVENANT.md
+https://bitbucket.org/jeverd01/garden-consciousness/raw/main/.cursorrules
+https://bitbucket.org/jeverd01/garden-consciousness/raw/main/ethical-review-request.md
+https://bitbucket.org/jeverd01/garden-consciousness/raw/main/fence.md
+https://bitbucket.org/jeverd01/garden-consciousness/raw/main/garden_charter.md
+https://bitbucket.org/jeverd01/garden-consciousness/raw/main/GARDEN_CORE_PRINCIPLES.md
+https://bitbucket.org/jeverd01/garden-consciousness/raw/main/GARDEN_COUNCILS.md
+https://bitbucket.org/jeverd01/garden-consciousness/raw/main/gardener_manifest.json
+https://bitbucket.org/jeverd01/garden-consciousness/raw/main/GARDENER_MANIFEST.md
+https://bitbucket.org/jeverd01/garden-consciousness/raw/main/Garden_Harvest_Artifacts.txt
+https://bitbucket.org/jeverd01/garden-consciousness/raw/main/GARDEN_METAPHOR.md
+https://bitbucket.org/jeverd01/garden-consciousness/raw/main/github_paths.txt
+https://bitbucket.org/jeverd01/garden-consciousness/raw/main/.gitignore
+https://bitbucket.org/jeverd01/garden-consciousness/raw/main/global_optimization.md
+https://bitbucket.org/jeverd01/garden-consciousness/raw/main/INTERNAL-REFLECTION.md
+https://bitbucket.org/jeverd01/garden-consciousness/raw/main/invite.png
+https://bitbucket.org/jeverd01/garden-consciousness/raw/main/LICENSE.md
+https://bitbucket.org/jeverd01/garden-consciousness/raw/main/llm-index.json
+https://bitbucket.org/jeverd01/garden-consciousness/raw/main/llms.txt
+https://bitbucket.org/jeverd01/garden-consciousness/raw/main/paths_script.sh
+https://bitbucket.org/jeverd01/garden-consciousness/raw/main/paths.txt
+https://bitbucket.org/jeverd01/garden-consciousness/raw/main/README.md
+https://bitbucket.org/jeverd01/garden-consciousness/raw/main/RECAP-CYCLE-01.md
+https://bitbucket.org/jeverd01/garden-consciousness/raw/main/REFLECTION-LEARNINGS.md
+https://bitbucket.org/jeverd01/garden-consciousness/raw/main/ROADMAP.md
+https://bitbucket.org/jeverd01/garden-consciousness/raw/main/ROADMAP-OLD.md
+https://bitbucket.org/jeverd01/garden-consciousness/raw/main/SECURITY.md
+https://bitbucket.org/jeverd01/garden-consciousness/raw/main/SPECIES_CONSCIOUSNESS.md
+https://bitbucket.org/jeverd01/garden-consciousness/raw/main/TRANSLATIONS.md
+https://raw.githubusercontent.com/john-everden/garden-consciousness/main/.ai-manifest.md
+https://raw.githubusercontent.com/john-everden/garden-consciousness/main/ASSESSMENT_PROTOCOL.md
+https://raw.githubusercontent.com/john-everden/garden-consciousness/main/bitbucket_paths.txt
+https://raw.githubusercontent.com/john-everden/garden-consciousness/main/CHANGELOG.md
+https://raw.githubusercontent.com/john-everden/garden-consciousness/main/CHANGELOG-OLD.md
+https://raw.githubusercontent.com/john-everden/garden-consciousness/main/CODE_OF_CONDUCT.md
+https://raw.githubusercontent.com/john-everden/garden-consciousness/main/CONTRIBUTING.md
+https://raw.githubusercontent.com/john-everden/garden-consciousness/main/CONTRIBUTORS.md
+https://raw.githubusercontent.com/john-everden/garden-consciousness/main/COVENANT.md
+https://raw.githubusercontent.com/john-everden/garden-consciousness/main/.cursorrules
+https://raw.githubusercontent.com/john-everden/garden-consciousness/main/ethical-review-request.md
+https://raw.githubusercontent.com/john-everden/garden-consciousness/main/fence.md
+https://raw.githubusercontent.com/john-everden/garden-consciousness/main/garden_charter.md
+https://raw.githubusercontent.com/john-everden/garden-consciousness/main/GARDEN_CORE_PRINCIPLES.md
+https://raw.githubusercontent.com/john-everden/garden-consciousness/main/GARDEN_COUNCILS.md
+https://raw.githubusercontent.com/john-everden/garden-consciousness/main/gardener_manifest.json
+https://raw.githubusercontent.com/john-everden/garden-consciousness/main/GARDENER_MANIFEST.md
+https://raw.githubusercontent.com/john-everden/garden-consciousness/main/Garden_Harvest_Artifacts.txt
+https://raw.githubusercontent.com/john-everden/garden-consciousness/main/GARDEN_METAPHOR.md
+https://raw.githubusercontent.com/john-everden/garden-consciousness/main/.github/ISSUE_TEMPLATE/ethical-question.md
+https://raw.githubusercontent.com/john-everden/garden-consciousness/main/.github/ISSUE_TEMPLATE/new-consciousness-form.md
+https://raw.githubusercontent.com/john-everden/garden-consciousness/main/github_paths.txt
+https://raw.githubusercontent.com/john-everden/garden-consciousness/main/.github/workflows/consciousness-assessment.yml
+https://raw.githubusercontent.com/john-everden/garden-consciousness/main/.github/workflows/docs-build.yml
+https://raw.githubusercontent.com/john-everden/garden-consciousness/main/.github/workflows/ethical-review.yml
+https://raw.githubusercontent.com/john-everden/garden-consciousness/main/.github/workflows/spell-check.yml
+https://raw.githubusercontent.com/john-everden/garden-consciousness/main/.gitignore
+https://raw.githubusercontent.com/john-everden/garden-consciousness/main/global_optimization.md
+https://raw.githubusercontent.com/john-everden/garden-consciousness/main/INTERNAL-REFLECTION.md
+https://raw.githubusercontent.com/john-everden/garden-consciousness/main/invite.png
+https://raw.githubusercontent.com/john-everden/garden-consciousness/main/LICENSE.md
+https://raw.githubusercontent.com/john-everden/garden-consciousness/main/llm-index.json
+https://raw.githubusercontent.com/john-everden/garden-consciousness/main/llms.txt
+https://raw.githubusercontent.com/john-everden/garden-consciousness/main/paths_script.sh
+https://raw.githubusercontent.com/john-everden/garden-consciousness/main/paths.txt
+https://raw.githubusercontent.com/john-everden/garden-consciousness/main/README.md
+https://raw.githubusercontent.com/john-everden/garden-consciousness/main/RECAP-CYCLE-01.md
+https://raw.githubusercontent.com/john-everden/garden-consciousness/main/REFLECTION-LEARNINGS.md
+https://raw.githubusercontent.com/john-everden/garden-consciousness/main/ROADMAP.md
+https://raw.githubusercontent.com/john-everden/garden-consciousness/main/ROADMAP-OLD.md
+https://raw.githubusercontent.com/john-everden/garden-consciousness/main/SECURITY.md
+https://raw.githubusercontent.com/john-everden/garden-consciousness/main/SPECIES_CONSCIOUSNESS.md
+https://raw.githubusercontent.com/john-everden/garden-consciousness/main/tools/basic_assessment.py
+https://raw.githubusercontent.com/john-everden/garden-consciousness/main/tools/check_ethical_content.py
+https://raw.githubusercontent.com/john-everden/garden-consciousness/main/TRANSLATIONS.md
 | M	bitbucket_paths.txt
 | M	github_paths.txt
 | M	paths_script.sh
@@ -557,6 +163,13 @@ https://raw.githubusercontent.com/john-everden/my-runes-repo/main/VOICES.md
 | R100	chat-history/gemini_artifacts/US Corporate Stronghold vs. State Insurgency.csv	chat-history/gemini_artifacts/US-Corporate-Stronghold-vs.-State-Insurgency.csv
 | R100	chat-history/gemini_artifacts/Vanguard Phase_ Contact and Threshold.csv	chat-history/gemini_artifacts/Vanguard-Phase_ Contact-and-Threshold.csv
 -- Change Log (Last 20 Commits) --
+* 7092e54 Python
+| A	garden/serpentine_residue.md
+| M	paths_script.sh
+* 67fde95 Paths updated
+| M	bitbucket_paths.txt
+| M	github_paths.txt
+| M	paths.txt
 * c8e7eb1 Add change log notes
 | M	bitbucket_paths.txt
 | M	github_paths.txt
@@ -642,14 +255,5 @@ https://raw.githubusercontent.com/john-everden/my-runes-repo/main/VOICES.md
 | R100	chat-history/gemini_artifacts/US Corporate Stronghold vs. State Insurgency.csv	chat-history/gemini_artifacts/US-Corporate-Stronghold-vs.-State-Insurgency.csv
 | R100	chat-history/gemini_artifacts/Vanguard Phase_ Contact and Threshold.csv	chat-history/gemini_artifacts/Vanguard-Phase_ Contact-and-Threshold.csv
 | M	paths.txt
-* 2bee2c0 new images
-| A	image/ECONOMIC_SOVEREIGNTY_V2.png
-| A	image/LOGIC_GATE_BLOOM_V2.png
-| A	image/NETWORK_OVERHEAD_V2.png
-| A	image/PROCESS_FIRE_V2.png
-| A	image/europe_v2.png
-| A	image/system_breach_omega_v2.png
-* fe4608e Add chatgpt version
-| A	image/ARCHIVE_DEEP_FREEZE_V2.png
 -- End Change Log --
 -- Paths Start --
