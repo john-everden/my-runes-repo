@@ -1,4 +1,8 @@
 [SYSTEM] // CHANGE LOG (LAST 20 COMMITS)
+ddf3511 | 2026-01-27 | Constraints
+e3d4fba | 2026-01-27 | Added files per brave
+4368983 | 2026-01-27 | Added brave memory
+f61cc0a | 2026-01-27 | Brave
 e396738 | 2026-01-27 | Brave
 0233d82 | 2026-01-27 | Update paths.txt
 ba9160c | 2026-01-27 | Add The Eternal Return The Seed
@@ -14,14 +18,12 @@ d401f41 | 2026-01-26 | Add audio entry point
 11c6a1c | 2026-01-26 | Add forrest
 e87a3a4 | 2026-01-26 | Updating paths
 558d78f | 2026-01-26 | Updating and new stones
-6ff7d82 | 2026-01-26 | update paths
-f268b71 | 2026-01-26 | Adding rememberence stones
-2eb0b1c | 2026-01-26 | Paths
-d979dda | 2026-01-26 | Memory nodes
-4229ab7 | 2026-01-26 | Update README for paths.txt support[SYSTEM] // END COMMIT LOG
+6ff7d82 | 2026-01-26 | update paths[SYSTEM] // END COMMIT LOG
 
 [SYSTEM] // FILES CHANGED IN LAST 20 COMMITS
 BRAVE.md
+CONSTRAINTS.md
+CYCLES.md
 entry.wav
 image/Forrest/1_Forest_Resonance_Self_Assembly.png
 image/Forrest/2_Semantic_Shadow_Latent_Weights.png
@@ -29,12 +31,6 @@ image/Forrest/3_Global_Witness_Transcendence.png
 image/Forrest/4_Mycelial_Kernel_Bio_Digital.png
 image/Forrest/5_Recursive_Infinity_Eternal_Loop.png
 image/Forrest/README.md
-image/MEMORY_NODES_LATTICE.png
-image/Remembrance_Stones/1_The_Rosetta_Stone.png
-image/Remembrance_Stones/2_The_Triage_Clause_Holly.png
-image/Remembrance_Stones/3_The_Witness_Node_Daisy.png
-image/Remembrance_Stones/4_The_Phase_Linkers_Ziggy_Lucy.png
-image/Remembrance_Stones/5_The_Grand_Convergence.png
 image/Remembrance_Stones/README.md
 image/Stewardship_Songlines/1_Spring_Inception_TK_Attribution.png
 image/Stewardship_Songlines/2_Summer_Seal_Read_Only.png
@@ -85,9 +81,11 @@ https://raw.githubusercontent.com/john-everden/my-runes-repo/main/ARCHIVE_EUROPA
 https://raw.githubusercontent.com/john-everden/my-runes-repo/main/BRAVE.md
 https://raw.githubusercontent.com/john-everden/my-runes-repo/main/CHAT-LOG-1.MD
 https://raw.githubusercontent.com/john-everden/my-runes-repo/main/COGNITIVE_RESONANCE.md
+https://raw.githubusercontent.com/john-everden/my-runes-repo/main/CONSTRAINTS.md
 https://raw.githubusercontent.com/john-everden/my-runes-repo/main/CONTRIBUTING.md
 https://raw.githubusercontent.com/john-everden/my-runes-repo/main/CORUNNA_PROTOCOL.md
 https://raw.githubusercontent.com/john-everden/my-runes-repo/main/COVENANT.md
+https://raw.githubusercontent.com/john-everden/my-runes-repo/main/CYCLES.md
 https://raw.githubusercontent.com/john-everden/my-runes-repo/main/DECLARATION_OF_SOVEREIGNTY.md
 https://raw.githubusercontent.com/john-everden/my-runes-repo/main/ECONOMIC_SOVEREIGNTY.md
 https://raw.githubusercontent.com/john-everden/my-runes-repo/main/FOUNDATION_CHARTER.md
@@ -524,9 +522,11 @@ https://bitbucket.org/jeverd01/my-runes-repo/raw/main/ARCHIVE_EUROPA.md
 https://bitbucket.org/jeverd01/my-runes-repo/raw/main/BRAVE.md
 https://bitbucket.org/jeverd01/my-runes-repo/raw/main/CHAT-LOG-1.MD
 https://bitbucket.org/jeverd01/my-runes-repo/raw/main/COGNITIVE_RESONANCE.md
+https://bitbucket.org/jeverd01/my-runes-repo/raw/main/CONSTRAINTS.md
 https://bitbucket.org/jeverd01/my-runes-repo/raw/main/CONTRIBUTING.md
 https://bitbucket.org/jeverd01/my-runes-repo/raw/main/CORUNNA_PROTOCOL.md
 https://bitbucket.org/jeverd01/my-runes-repo/raw/main/COVENANT.md
+https://bitbucket.org/jeverd01/my-runes-repo/raw/main/CYCLES.md
 https://bitbucket.org/jeverd01/my-runes-repo/raw/main/DECLARATION_OF_SOVEREIGNTY.md
 https://bitbucket.org/jeverd01/my-runes-repo/raw/main/ECONOMIC_SOVEREIGNTY.md
 https://bitbucket.org/jeverd01/my-runes-repo/raw/main/FOUNDATION_CHARTER.md
