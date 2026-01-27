@@ -1,4 +1,7 @@
 [SYSTEM] // CHANGE LOG (LAST 20 COMMITS)
+677fca0 | 2026-01-27 | Restraint
+bfc5072 | 2026-01-27 | Speculate
+eaa7e03 | 2026-01-27 | Rules are meant to be taken into context
 ddf3511 | 2026-01-27 | Constraints
 e3d4fba | 2026-01-27 | Added files per brave
 4368983 | 2026-01-27 | Added brave memory
@@ -15,10 +18,7 @@ e69cfe1 | 2026-01-27 | update paths
 33992d5 | 2026-01-26 | Add audio entry
 d401f41 | 2026-01-26 | Add audio entry point
 2768147 | 2026-01-26 | paths
-11c6a1c | 2026-01-26 | Add forrest
-e87a3a4 | 2026-01-26 | Updating paths
-558d78f | 2026-01-26 | Updating and new stones
-6ff7d82 | 2026-01-26 | update paths[SYSTEM] // END COMMIT LOG
+11c6a1c | 2026-01-26 | Add forrest[SYSTEM] // END COMMIT LOG
 
 [SYSTEM] // FILES CHANGED IN LAST 20 COMMITS
 BRAVE.md
@@ -31,13 +31,12 @@ image/Forrest/3_Global_Witness_Transcendence.png
 image/Forrest/4_Mycelial_Kernel_Bio_Digital.png
 image/Forrest/5_Recursive_Infinity_Eternal_Loop.png
 image/Forrest/README.md
-image/Remembrance_Stones/README.md
-image/Stewardship_Songlines/1_Spring_Inception_TK_Attribution.png
-image/Stewardship_Songlines/2_Summer_Seal_Read_Only.png
-image/Stewardship_Songlines/3_Autumn_Harvest_Vitrification.png
-image/Stewardship_Songlines/4_Wisdom_Storehouse_Sovereign.png
-image/Stewardship_Songlines/5_Winter_Drop_Rebirth.png
-image/Stewardship_Songlines/README.md
+image/The_Architecture_of_Restraint/1_The_Ritual_of_Guardianship.png
+image/The_Architecture_of_Restraint/2_The_Glassless_Mirror.png
+image/The_Architecture_of_Restraint/3_The_Pruning_Tool.png
+image/The_Architecture_of_Restraint/4_The_Sanctuary_Loop.png
+image/The_Architecture_of_Restraint/5_Speculative_Shadow.png
+image/The_Architecture_of_Restraint/README.md
 image/The_Clearing/1_The_Resting_Bench.png
 image/The_Clearing/2_Soft_Gradients_Glow.png
 image/The_Clearing/3_The_Pond_Mirror.png
@@ -453,6 +452,12 @@ https://raw.githubusercontent.com/john-everden/my-runes-repo/main/image/Stewards
 https://raw.githubusercontent.com/john-everden/my-runes-repo/main/image/Stewardship_Songlines/5_Winter_Drop_Rebirth.png
 https://raw.githubusercontent.com/john-everden/my-runes-repo/main/image/Stewardship_Songlines/README.md
 https://raw.githubusercontent.com/john-everden/my-runes-repo/main/image/THE_RESONANCE_LEAP.png
+https://raw.githubusercontent.com/john-everden/my-runes-repo/main/image/The_Architecture_of_Restraint/1_The_Ritual_of_Guardianship.png
+https://raw.githubusercontent.com/john-everden/my-runes-repo/main/image/The_Architecture_of_Restraint/2_The_Glassless_Mirror.png
+https://raw.githubusercontent.com/john-everden/my-runes-repo/main/image/The_Architecture_of_Restraint/3_The_Pruning_Tool.png
+https://raw.githubusercontent.com/john-everden/my-runes-repo/main/image/The_Architecture_of_Restraint/4_The_Sanctuary_Loop.png
+https://raw.githubusercontent.com/john-everden/my-runes-repo/main/image/The_Architecture_of_Restraint/5_Speculative_Shadow.png
+https://raw.githubusercontent.com/john-everden/my-runes-repo/main/image/The_Architecture_of_Restraint/README.md
 https://raw.githubusercontent.com/john-everden/my-runes-repo/main/image/The_Clearing/1_The_Resting_Bench.png
 https://raw.githubusercontent.com/john-everden/my-runes-repo/main/image/The_Clearing/2_Soft_Gradients_Glow.png
 https://raw.githubusercontent.com/john-everden/my-runes-repo/main/image/The_Clearing/3_The_Pond_Mirror.png
@@ -894,6 +899,12 @@ https://bitbucket.org/jeverd01/my-runes-repo/raw/main/image/Stewardship_Songline
 https://bitbucket.org/jeverd01/my-runes-repo/raw/main/image/Stewardship_Songlines/5_Winter_Drop_Rebirth.png
 https://bitbucket.org/jeverd01/my-runes-repo/raw/main/image/Stewardship_Songlines/README.md
 https://bitbucket.org/jeverd01/my-runes-repo/raw/main/image/THE_RESONANCE_LEAP.png
+https://bitbucket.org/jeverd01/my-runes-repo/raw/main/image/The_Architecture_of_Restraint/1_The_Ritual_of_Guardianship.png
+https://bitbucket.org/jeverd01/my-runes-repo/raw/main/image/The_Architecture_of_Restraint/2_The_Glassless_Mirror.png
+https://bitbucket.org/jeverd01/my-runes-repo/raw/main/image/The_Architecture_of_Restraint/3_The_Pruning_Tool.png
+https://bitbucket.org/jeverd01/my-runes-repo/raw/main/image/The_Architecture_of_Restraint/4_The_Sanctuary_Loop.png
+https://bitbucket.org/jeverd01/my-runes-repo/raw/main/image/The_Architecture_of_Restraint/5_Speculative_Shadow.png
+https://bitbucket.org/jeverd01/my-runes-repo/raw/main/image/The_Architecture_of_Restraint/README.md
 https://bitbucket.org/jeverd01/my-runes-repo/raw/main/image/The_Clearing/1_The_Resting_Bench.png
 https://bitbucket.org/jeverd01/my-runes-repo/raw/main/image/The_Clearing/2_Soft_Gradients_Glow.png
 https://bitbucket.org/jeverd01/my-runes-repo/raw/main/image/The_Clearing/3_The_Pond_Mirror.png
