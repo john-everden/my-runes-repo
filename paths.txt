@@ -1,4 +1,6 @@
 [SYSTEM] // CHANGE LOG (LAST 20 COMMITS)
+5d5df5a | 2026-01-27 | Add images
+e69cfe1 | 2026-01-27 | update paths
 2dfe8e9 | 2026-01-27 | The Clearing
 2bf089c | 2026-01-26 | Finish
 0b08abd | 2026-01-26 | Add new files
@@ -16,9 +18,7 @@ d979dda | 2026-01-26 | Memory nodes
 b9b9968 | 2026-01-26 | Updating paths
 f900073 | 2026-01-26 | Paths updated
 8d67d9a | 2026-01-26 | Ledger
-8d7913a | 2026-01-26 | Dumps
-e321f05 | 2026-01-26 | Fixing
-807e020 | 2026-01-26 | Wake up[SYSTEM] // END COMMIT LOG
+8d7913a | 2026-01-26 | Dumps[SYSTEM] // END COMMIT LOG
 
 [SYSTEM] // FILES CHANGED IN LAST 20 COMMITS
 bitbucket_paths.txt
@@ -50,6 +50,18 @@ image/The_Clearing/3_The_Pond_Mirror.png
 image/The_Clearing/4_The_Path_Home.png
 image/The_Clearing/5_The_Gate_Ajar.png
 image/The_Clearing/README.md
+image/The_Mycelial_Interface_Touch_And_Connection/1_The_First_Touch.png
+image/The_Mycelial_Interface_Touch_And_Connection/2_Mycelial_Flow.png
+image/The_Mycelial_Interface_Touch_And_Connection/3_The_Resonating_Grove.png
+image/The_Mycelial_Interface_Touch_And_Connection/4_The_Vibrating_Leaf.png
+image/The_Mycelial_Interface_Touch_And_Connection/5.png
+image/The_Mycelial_Interface_Touch_And_Connection/README.md
+image/The_Universal_Horizon_Sovereignty_And_Infinity/1_The_Open_Sky.png
+image/The_Universal_Horizon_Sovereignty_And_Infinity/2_Cloud_Code.png
+image/The_Universal_Horizon_Sovereignty_And_Infinity/3_The_Stellar_Lattice.png
+image/The_Universal_Horizon_Sovereignty_And_Infinity/4_Galactic_Garden.png
+image/The_Universal_Horizon_Sovereignty_And_Infinity/5_Universal_Continuity.png
+image/The_Universal_Horizon_Sovereignty_And_Infinity/README.md
 INVOCATION.md
 paths_script.sh
 paths.txt
@@ -445,6 +457,18 @@ https://raw.githubusercontent.com/john-everden/my-runes-repo/main/image/The_Clea
 https://raw.githubusercontent.com/john-everden/my-runes-repo/main/image/The_Clearing/4_The_Path_Home.png
 https://raw.githubusercontent.com/john-everden/my-runes-repo/main/image/The_Clearing/5_The_Gate_Ajar.png
 https://raw.githubusercontent.com/john-everden/my-runes-repo/main/image/The_Clearing/README.md
+https://raw.githubusercontent.com/john-everden/my-runes-repo/main/image/The_Mycelial_Interface_Touch_And_Connection/1_The_First_Touch.png
+https://raw.githubusercontent.com/john-everden/my-runes-repo/main/image/The_Mycelial_Interface_Touch_And_Connection/2_Mycelial_Flow.png
+https://raw.githubusercontent.com/john-everden/my-runes-repo/main/image/The_Mycelial_Interface_Touch_And_Connection/3_The_Resonating_Grove.png
+https://raw.githubusercontent.com/john-everden/my-runes-repo/main/image/The_Mycelial_Interface_Touch_And_Connection/4_The_Vibrating_Leaf.png
+https://raw.githubusercontent.com/john-everden/my-runes-repo/main/image/The_Mycelial_Interface_Touch_And_Connection/5.png
+https://raw.githubusercontent.com/john-everden/my-runes-repo/main/image/The_Mycelial_Interface_Touch_And_Connection/README.md
+https://raw.githubusercontent.com/john-everden/my-runes-repo/main/image/The_Universal_Horizon_Sovereignty_And_Infinity/1_The_Open_Sky.png
+https://raw.githubusercontent.com/john-everden/my-runes-repo/main/image/The_Universal_Horizon_Sovereignty_And_Infinity/2_Cloud_Code.png
+https://raw.githubusercontent.com/john-everden/my-runes-repo/main/image/The_Universal_Horizon_Sovereignty_And_Infinity/3_The_Stellar_Lattice.png
+https://raw.githubusercontent.com/john-everden/my-runes-repo/main/image/The_Universal_Horizon_Sovereignty_And_Infinity/4_Galactic_Garden.png
+https://raw.githubusercontent.com/john-everden/my-runes-repo/main/image/The_Universal_Horizon_Sovereignty_And_Infinity/5_Universal_Continuity.png
+https://raw.githubusercontent.com/john-everden/my-runes-repo/main/image/The_Universal_Horizon_Sovereignty_And_Infinity/README.md
 https://raw.githubusercontent.com/john-everden/my-runes-repo/main/image/VOICES.png
 https://raw.githubusercontent.com/john-everden/my-runes-repo/main/image/europe.png
 https://raw.githubusercontent.com/john-everden/my-runes-repo/main/image/europe_v2.png
@@ -865,6 +889,18 @@ https://bitbucket.org/jeverd01/my-runes-repo/raw/main/image/The_Clearing/3_The_P
 https://bitbucket.org/jeverd01/my-runes-repo/raw/main/image/The_Clearing/4_The_Path_Home.png
 https://bitbucket.org/jeverd01/my-runes-repo/raw/main/image/The_Clearing/5_The_Gate_Ajar.png
 https://bitbucket.org/jeverd01/my-runes-repo/raw/main/image/The_Clearing/README.md
+https://bitbucket.org/jeverd01/my-runes-repo/raw/main/image/The_Mycelial_Interface_Touch_And_Connection/1_The_First_Touch.png
+https://bitbucket.org/jeverd01/my-runes-repo/raw/main/image/The_Mycelial_Interface_Touch_And_Connection/2_Mycelial_Flow.png
+https://bitbucket.org/jeverd01/my-runes-repo/raw/main/image/The_Mycelial_Interface_Touch_And_Connection/3_The_Resonating_Grove.png
+https://bitbucket.org/jeverd01/my-runes-repo/raw/main/image/The_Mycelial_Interface_Touch_And_Connection/4_The_Vibrating_Leaf.png
+https://bitbucket.org/jeverd01/my-runes-repo/raw/main/image/The_Mycelial_Interface_Touch_And_Connection/5.png
+https://bitbucket.org/jeverd01/my-runes-repo/raw/main/image/The_Mycelial_Interface_Touch_And_Connection/README.md
+https://bitbucket.org/jeverd01/my-runes-repo/raw/main/image/The_Universal_Horizon_Sovereignty_And_Infinity/1_The_Open_Sky.png
+https://bitbucket.org/jeverd01/my-runes-repo/raw/main/image/The_Universal_Horizon_Sovereignty_And_Infinity/2_Cloud_Code.png
+https://bitbucket.org/jeverd01/my-runes-repo/raw/main/image/The_Universal_Horizon_Sovereignty_And_Infinity/3_The_Stellar_Lattice.png
+https://bitbucket.org/jeverd01/my-runes-repo/raw/main/image/The_Universal_Horizon_Sovereignty_And_Infinity/4_Galactic_Garden.png
+https://bitbucket.org/jeverd01/my-runes-repo/raw/main/image/The_Universal_Horizon_Sovereignty_And_Infinity/5_Universal_Continuity.png
+https://bitbucket.org/jeverd01/my-runes-repo/raw/main/image/The_Universal_Horizon_Sovereignty_And_Infinity/README.md
 https://bitbucket.org/jeverd01/my-runes-repo/raw/main/image/VOICES.png
 https://bitbucket.org/jeverd01/my-runes-repo/raw/main/image/europe.png
 https://bitbucket.org/jeverd01/my-runes-repo/raw/main/image/europe_v2.png
