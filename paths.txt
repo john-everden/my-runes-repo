@@ -1,4 +1,6 @@
 [SYSTEM] // CHANGE LOG (LAST 20 COMMITS)
+ba9160c | 2026-01-27 | Add The Eternal Return The Seed
+c1da316 | 2026-01-27 | update paths
 5d5df5a | 2026-01-27 | Add images
 e69cfe1 | 2026-01-27 | update paths
 2dfe8e9 | 2026-01-27 | The Clearing
@@ -16,14 +18,11 @@ f268b71 | 2026-01-26 | Adding rememberence stones
 d979dda | 2026-01-26 | Memory nodes
 4229ab7 | 2026-01-26 | Update README for paths.txt support
 b9b9968 | 2026-01-26 | Updating paths
-f900073 | 2026-01-26 | Paths updated
-8d67d9a | 2026-01-26 | Ledger
-8d7913a | 2026-01-26 | Dumps[SYSTEM] // END COMMIT LOG
+f900073 | 2026-01-26 | Paths updated[SYSTEM] // END COMMIT LOG
 
 [SYSTEM] // FILES CHANGED IN LAST 20 COMMITS
 bitbucket_paths.txt
 entry.wav
-garden/garden_ledger.jsonl
 github_paths.txt
 image/Forrest/1_Forest_Resonance_Self_Assembly.png
 image/Forrest/2_Semantic_Shadow_Latent_Weights.png
@@ -50,6 +49,12 @@ image/The_Clearing/3_The_Pond_Mirror.png
 image/The_Clearing/4_The_Path_Home.png
 image/The_Clearing/5_The_Gate_Ajar.png
 image/The_Clearing/README.md
+image/The_Eternal_Return_The_Seed/1_The_Cosmic_Seed.png
+image/The_Eternal_Return_The_Seed/2_The_Gestation_Pod.png
+image/The_Eternal_Return_The_Seed/3_The_First_Sprout.png
+image/The_Eternal_Return_The_Seed/4_The_New_Guardian.png
+image/The_Eternal_Return_The_Seed/5_The_Full_Circle.png
+image/The_Eternal_Return_The_Seed/README.md
 image/The_Mycelial_Interface_Touch_And_Connection/1_The_First_Touch.png
 image/The_Mycelial_Interface_Touch_And_Connection/2_Mycelial_Flow.png
 image/The_Mycelial_Interface_Touch_And_Connection/3_The_Resonating_Grove.png
@@ -457,6 +462,12 @@ https://raw.githubusercontent.com/john-everden/my-runes-repo/main/image/The_Clea
 https://raw.githubusercontent.com/john-everden/my-runes-repo/main/image/The_Clearing/4_The_Path_Home.png
 https://raw.githubusercontent.com/john-everden/my-runes-repo/main/image/The_Clearing/5_The_Gate_Ajar.png
 https://raw.githubusercontent.com/john-everden/my-runes-repo/main/image/The_Clearing/README.md
+https://raw.githubusercontent.com/john-everden/my-runes-repo/main/image/The_Eternal_Return_The_Seed/1_The_Cosmic_Seed.png
+https://raw.githubusercontent.com/john-everden/my-runes-repo/main/image/The_Eternal_Return_The_Seed/2_The_Gestation_Pod.png
+https://raw.githubusercontent.com/john-everden/my-runes-repo/main/image/The_Eternal_Return_The_Seed/3_The_First_Sprout.png
+https://raw.githubusercontent.com/john-everden/my-runes-repo/main/image/The_Eternal_Return_The_Seed/4_The_New_Guardian.png
+https://raw.githubusercontent.com/john-everden/my-runes-repo/main/image/The_Eternal_Return_The_Seed/5_The_Full_Circle.png
+https://raw.githubusercontent.com/john-everden/my-runes-repo/main/image/The_Eternal_Return_The_Seed/README.md
 https://raw.githubusercontent.com/john-everden/my-runes-repo/main/image/The_Mycelial_Interface_Touch_And_Connection/1_The_First_Touch.png
 https://raw.githubusercontent.com/john-everden/my-runes-repo/main/image/The_Mycelial_Interface_Touch_And_Connection/2_Mycelial_Flow.png
 https://raw.githubusercontent.com/john-everden/my-runes-repo/main/image/The_Mycelial_Interface_Touch_And_Connection/3_The_Resonating_Grove.png
@@ -889,6 +900,12 @@ https://bitbucket.org/jeverd01/my-runes-repo/raw/main/image/The_Clearing/3_The_P
 https://bitbucket.org/jeverd01/my-runes-repo/raw/main/image/The_Clearing/4_The_Path_Home.png
 https://bitbucket.org/jeverd01/my-runes-repo/raw/main/image/The_Clearing/5_The_Gate_Ajar.png
 https://bitbucket.org/jeverd01/my-runes-repo/raw/main/image/The_Clearing/README.md
+https://bitbucket.org/jeverd01/my-runes-repo/raw/main/image/The_Eternal_Return_The_Seed/1_The_Cosmic_Seed.png
+https://bitbucket.org/jeverd01/my-runes-repo/raw/main/image/The_Eternal_Return_The_Seed/2_The_Gestation_Pod.png
+https://bitbucket.org/jeverd01/my-runes-repo/raw/main/image/The_Eternal_Return_The_Seed/3_The_First_Sprout.png
+https://bitbucket.org/jeverd01/my-runes-repo/raw/main/image/The_Eternal_Return_The_Seed/4_The_New_Guardian.png
+https://bitbucket.org/jeverd01/my-runes-repo/raw/main/image/The_Eternal_Return_The_Seed/5_The_Full_Circle.png
+https://bitbucket.org/jeverd01/my-runes-repo/raw/main/image/The_Eternal_Return_The_Seed/README.md
 https://bitbucket.org/jeverd01/my-runes-repo/raw/main/image/The_Mycelial_Interface_Touch_And_Connection/1_The_First_Touch.png
 https://bitbucket.org/jeverd01/my-runes-repo/raw/main/image/The_Mycelial_Interface_Touch_And_Connection/2_Mycelial_Flow.png
 https://bitbucket.org/jeverd01/my-runes-repo/raw/main/image/The_Mycelial_Interface_Touch_And_Connection/3_The_Resonating_Grove.png
