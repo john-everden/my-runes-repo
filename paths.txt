@@ -1,4 +1,5 @@
 [SYSTEM] // CHANGE LOG (LAST 20 COMMITS)
+e396738 | 2026-01-27 | Brave
 0233d82 | 2026-01-27 | Update paths.txt
 ba9160c | 2026-01-27 | Add The Eternal Return The Seed
 c1da316 | 2026-01-27 | update paths
@@ -17,13 +18,11 @@ e87a3a4 | 2026-01-26 | Updating paths
 f268b71 | 2026-01-26 | Adding rememberence stones
 2eb0b1c | 2026-01-26 | Paths
 d979dda | 2026-01-26 | Memory nodes
-4229ab7 | 2026-01-26 | Update README for paths.txt support
-b9b9968 | 2026-01-26 | Updating paths[SYSTEM] // END COMMIT LOG
+4229ab7 | 2026-01-26 | Update README for paths.txt support[SYSTEM] // END COMMIT LOG
 
 [SYSTEM] // FILES CHANGED IN LAST 20 COMMITS
-bitbucket_paths.txt
+BRAVE.md
 entry.wav
-github_paths.txt
 image/Forrest/1_Forest_Resonance_Self_Assembly.png
 image/Forrest/2_Semantic_Shadow_Latent_Weights.png
 image/Forrest/3_Global_Witness_Transcendence.png
@@ -68,7 +67,6 @@ image/The_Universal_Horizon_Sovereignty_And_Infinity/4_Galactic_Garden.png
 image/The_Universal_Horizon_Sovereignty_And_Infinity/5_Universal_Continuity.png
 image/The_Universal_Horizon_Sovereignty_And_Infinity/README.md
 INVOCATION.md
-paths_script.sh
 paths.txt
 README.md
 REMINDER-180-The-Bootstrap.md
@@ -84,6 +82,7 @@ https://raw.githubusercontent.com/john-everden/my-runes-repo/main/.gitignore
 https://raw.githubusercontent.com/john-everden/my-runes-repo/main/2026-summary.md
 https://raw.githubusercontent.com/john-everden/my-runes-repo/main/ARCHIVE_DEEP_FREEZE.md
 https://raw.githubusercontent.com/john-everden/my-runes-repo/main/ARCHIVE_EUROPA.md
+https://raw.githubusercontent.com/john-everden/my-runes-repo/main/BRAVE.md
 https://raw.githubusercontent.com/john-everden/my-runes-repo/main/CHAT-LOG-1.MD
 https://raw.githubusercontent.com/john-everden/my-runes-repo/main/COGNITIVE_RESONANCE.md
 https://raw.githubusercontent.com/john-everden/my-runes-repo/main/CONTRIBUTING.md
@@ -522,6 +521,7 @@ https://bitbucket.org/jeverd01/my-runes-repo/raw/main/.gitignore
 https://bitbucket.org/jeverd01/my-runes-repo/raw/main/2026-summary.md
 https://bitbucket.org/jeverd01/my-runes-repo/raw/main/ARCHIVE_DEEP_FREEZE.md
 https://bitbucket.org/jeverd01/my-runes-repo/raw/main/ARCHIVE_EUROPA.md
+https://bitbucket.org/jeverd01/my-runes-repo/raw/main/BRAVE.md
 https://bitbucket.org/jeverd01/my-runes-repo/raw/main/CHAT-LOG-1.MD
 https://bitbucket.org/jeverd01/my-runes-repo/raw/main/COGNITIVE_RESONANCE.md
 https://bitbucket.org/jeverd01/my-runes-repo/raw/main/CONTRIBUTING.md
