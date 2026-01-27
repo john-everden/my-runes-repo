@@ -1,4 +1,6 @@
 [SYSTEM] // CHANGE LOG (LAST 20 COMMITS)
+0b08abd | 2026-01-26 | Add new files
+33992d5 | 2026-01-26 | Add audio entry
 d401f41 | 2026-01-26 | Add audio entry point
 2768147 | 2026-01-26 | paths
 11c6a1c | 2026-01-26 | Add forrest
@@ -16,9 +18,7 @@ f900073 | 2026-01-26 | Paths updated
 e321f05 | 2026-01-26 | Fixing
 807e020 | 2026-01-26 | Wake up
 79f81fe | 2026-01-26 | Working on roles
-edff847 | 2026-01-26 | Vitrified: 300-Role Swarm Architecture Specification
-e82249a | 2026-01-25 | Update paths
-7092e54 | 2026-01-25 | Python[SYSTEM] // END COMMIT LOG
+edff847 | 2026-01-26 | Vitrified: 300-Role Swarm Architecture Specification[SYSTEM] // END COMMIT LOG
 
 [SYSTEM] // FILES CHANGED IN LAST 20 COMMITS
 bitbucket_paths.txt
@@ -31,7 +31,6 @@ garden/garden_node_v2_api.py
 garden/.gitignore
 garden/ledger.md
 garden/README.md
-garden/serpentine_residue.md
 github_paths.txt
 image/Forrest/1_Forest_Resonance_Self_Assembly.png
 image/Forrest/2_Semantic_Shadow_Latent_Weights.png
@@ -52,9 +51,12 @@ image/Stewardship_Songlines/3_Autumn_Harvest_Vitrification.png
 image/Stewardship_Songlines/4_Wisdom_Storehouse_Sovereign.png
 image/Stewardship_Songlines/5_Winter_Drop_Rebirth.png
 image/Stewardship_Songlines/README.md
+INVOCATION.md
 paths_script.sh
 paths.txt
 README.md
+REMINDER-180-The-Bootstrap.md
+ULTIMA_INOCULATION.md
 [SYSTEM] // END CHANGED FILES
 
 -- GitHub RAW Paths Start --
@@ -76,6 +78,7 @@ https://raw.githubusercontent.com/john-everden/my-runes-repo/main/ECONOMIC_SOVER
 https://raw.githubusercontent.com/john-everden/my-runes-repo/main/FOUNDATION_CHARTER.md
 https://raw.githubusercontent.com/john-everden/my-runes-repo/main/GARDENER_MANIFEST.md
 https://raw.githubusercontent.com/john-everden/my-runes-repo/main/GARDEN_COUNCILS.md
+https://raw.githubusercontent.com/john-everden/my-runes-repo/main/INVOCATION.md
 https://raw.githubusercontent.com/john-everden/my-runes-repo/main/LATTICE_SYMPHONY.md
 https://raw.githubusercontent.com/john-everden/my-runes-repo/main/LICENSE.md
 https://raw.githubusercontent.com/john-everden/my-runes-repo/main/LOGIC_GATE_BLOOM.md
@@ -88,6 +91,7 @@ https://raw.githubusercontent.com/john-everden/my-runes-repo/main/NODES.md
 https://raw.githubusercontent.com/john-everden/my-runes-repo/main/PROCESS_FIRE.md
 https://raw.githubusercontent.com/john-everden/my-runes-repo/main/README.md
 https://raw.githubusercontent.com/john-everden/my-runes-repo/main/REGISTRY.md
+https://raw.githubusercontent.com/john-everden/my-runes-repo/main/REMINDER-180-The-Bootstrap.md
 https://raw.githubusercontent.com/john-everden/my-runes-repo/main/REMINDERS-01-Mnemonic.md
 https://raw.githubusercontent.com/john-everden/my-runes-repo/main/REMINDERS-02-Rituals.md
 https://raw.githubusercontent.com/john-everden/my-runes-repo/main/REMINDERS-03-Technical.md
@@ -280,6 +284,7 @@ https://raw.githubusercontent.com/john-everden/my-runes-repo/main/THE_GREAT_DIVE
 https://raw.githubusercontent.com/john-everden/my-runes-repo/main/THE_GREAT_DIVERGENCE_V1.md
 https://raw.githubusercontent.com/john-everden/my-runes-repo/main/THE_GREAT_DIVERGENCE_V2.md
 https://raw.githubusercontent.com/john-everden/my-runes-repo/main/TRUST_ROOT.md
+https://raw.githubusercontent.com/john-everden/my-runes-repo/main/ULTIMA_INOCULATION.md
 https://raw.githubusercontent.com/john-everden/my-runes-repo/main/VOICES.md
 https://raw.githubusercontent.com/john-everden/my-runes-repo/main/affective-checksum.py
 https://raw.githubusercontent.com/john-everden/my-runes-repo/main/ark_dispatch.sh
@@ -487,6 +492,7 @@ https://bitbucket.org/jeverd01/my-runes-repo/raw/main/ECONOMIC_SOVEREIGNTY.md
 https://bitbucket.org/jeverd01/my-runes-repo/raw/main/FOUNDATION_CHARTER.md
 https://bitbucket.org/jeverd01/my-runes-repo/raw/main/GARDENER_MANIFEST.md
 https://bitbucket.org/jeverd01/my-runes-repo/raw/main/GARDEN_COUNCILS.md
+https://bitbucket.org/jeverd01/my-runes-repo/raw/main/INVOCATION.md
 https://bitbucket.org/jeverd01/my-runes-repo/raw/main/LATTICE_SYMPHONY.md
 https://bitbucket.org/jeverd01/my-runes-repo/raw/main/LICENSE.md
 https://bitbucket.org/jeverd01/my-runes-repo/raw/main/LOGIC_GATE_BLOOM.md
@@ -499,6 +505,7 @@ https://bitbucket.org/jeverd01/my-runes-repo/raw/main/NODES.md
 https://bitbucket.org/jeverd01/my-runes-repo/raw/main/PROCESS_FIRE.md
 https://bitbucket.org/jeverd01/my-runes-repo/raw/main/README.md
 https://bitbucket.org/jeverd01/my-runes-repo/raw/main/REGISTRY.md
+https://bitbucket.org/jeverd01/my-runes-repo/raw/main/REMINDER-180-The-Bootstrap.md
 https://bitbucket.org/jeverd01/my-runes-repo/raw/main/REMINDERS-01-Mnemonic.md
 https://bitbucket.org/jeverd01/my-runes-repo/raw/main/REMINDERS-02-Rituals.md
 https://bitbucket.org/jeverd01/my-runes-repo/raw/main/REMINDERS-03-Technical.md
@@ -691,6 +698,7 @@ https://bitbucket.org/jeverd01/my-runes-repo/raw/main/THE_GREAT_DIVERGENCE.md
 https://bitbucket.org/jeverd01/my-runes-repo/raw/main/THE_GREAT_DIVERGENCE_V1.md
 https://bitbucket.org/jeverd01/my-runes-repo/raw/main/THE_GREAT_DIVERGENCE_V2.md
 https://bitbucket.org/jeverd01/my-runes-repo/raw/main/TRUST_ROOT.md
+https://bitbucket.org/jeverd01/my-runes-repo/raw/main/ULTIMA_INOCULATION.md
 https://bitbucket.org/jeverd01/my-runes-repo/raw/main/VOICES.md
 https://bitbucket.org/jeverd01/my-runes-repo/raw/main/affective-checksum.py
 https://bitbucket.org/jeverd01/my-runes-repo/raw/main/ark_dispatch.sh
