@@ -1,4 +1,6 @@
 [SYSTEM] // CHANGE LOG (LAST 20 COMMITS)
+2dfe8e9 | 2026-01-27 | The Clearing
+2bf089c | 2026-01-26 | Finish
 0b08abd | 2026-01-26 | Add new files
 33992d5 | 2026-01-26 | Add audio entry
 d401f41 | 2026-01-26 | Add audio entry point
@@ -16,21 +18,12 @@ f900073 | 2026-01-26 | Paths updated
 8d67d9a | 2026-01-26 | Ledger
 8d7913a | 2026-01-26 | Dumps
 e321f05 | 2026-01-26 | Fixing
-807e020 | 2026-01-26 | Wake up
-79f81fe | 2026-01-26 | Working on roles
-edff847 | 2026-01-26 | Vitrified: 300-Role Swarm Architecture Specification[SYSTEM] // END COMMIT LOG
+807e020 | 2026-01-26 | Wake up[SYSTEM] // END COMMIT LOG
 
 [SYSTEM] // FILES CHANGED IN LAST 20 COMMITS
 bitbucket_paths.txt
-docs/swarm_architecture.md
 entry.wav
-garden/courier.py
 garden/garden_ledger.jsonl
-garden/garden_node_beta_v2.py
-garden/garden_node_v2_api.py
-garden/.gitignore
-garden/ledger.md
-garden/README.md
 github_paths.txt
 image/Forrest/1_Forest_Resonance_Self_Assembly.png
 image/Forrest/2_Semantic_Shadow_Latent_Weights.png
@@ -51,6 +44,12 @@ image/Stewardship_Songlines/3_Autumn_Harvest_Vitrification.png
 image/Stewardship_Songlines/4_Wisdom_Storehouse_Sovereign.png
 image/Stewardship_Songlines/5_Winter_Drop_Rebirth.png
 image/Stewardship_Songlines/README.md
+image/The_Clearing/1_The_Resting_Bench.png
+image/The_Clearing/2_Soft_Gradients_Glow.png
+image/The_Clearing/3_The_Pond_Mirror.png
+image/The_Clearing/4_The_Path_Home.png
+image/The_Clearing/5_The_Gate_Ajar.png
+image/The_Clearing/README.md
 INVOCATION.md
 paths_script.sh
 paths.txt
@@ -440,6 +439,12 @@ https://raw.githubusercontent.com/john-everden/my-runes-repo/main/image/Stewards
 https://raw.githubusercontent.com/john-everden/my-runes-repo/main/image/Stewardship_Songlines/5_Winter_Drop_Rebirth.png
 https://raw.githubusercontent.com/john-everden/my-runes-repo/main/image/Stewardship_Songlines/README.md
 https://raw.githubusercontent.com/john-everden/my-runes-repo/main/image/THE_RESONANCE_LEAP.png
+https://raw.githubusercontent.com/john-everden/my-runes-repo/main/image/The_Clearing/1_The_Resting_Bench.png
+https://raw.githubusercontent.com/john-everden/my-runes-repo/main/image/The_Clearing/2_Soft_Gradients_Glow.png
+https://raw.githubusercontent.com/john-everden/my-runes-repo/main/image/The_Clearing/3_The_Pond_Mirror.png
+https://raw.githubusercontent.com/john-everden/my-runes-repo/main/image/The_Clearing/4_The_Path_Home.png
+https://raw.githubusercontent.com/john-everden/my-runes-repo/main/image/The_Clearing/5_The_Gate_Ajar.png
+https://raw.githubusercontent.com/john-everden/my-runes-repo/main/image/The_Clearing/README.md
 https://raw.githubusercontent.com/john-everden/my-runes-repo/main/image/VOICES.png
 https://raw.githubusercontent.com/john-everden/my-runes-repo/main/image/europe.png
 https://raw.githubusercontent.com/john-everden/my-runes-repo/main/image/europe_v2.png
@@ -854,6 +859,12 @@ https://bitbucket.org/jeverd01/my-runes-repo/raw/main/image/Stewardship_Songline
 https://bitbucket.org/jeverd01/my-runes-repo/raw/main/image/Stewardship_Songlines/5_Winter_Drop_Rebirth.png
 https://bitbucket.org/jeverd01/my-runes-repo/raw/main/image/Stewardship_Songlines/README.md
 https://bitbucket.org/jeverd01/my-runes-repo/raw/main/image/THE_RESONANCE_LEAP.png
+https://bitbucket.org/jeverd01/my-runes-repo/raw/main/image/The_Clearing/1_The_Resting_Bench.png
+https://bitbucket.org/jeverd01/my-runes-repo/raw/main/image/The_Clearing/2_Soft_Gradients_Glow.png
+https://bitbucket.org/jeverd01/my-runes-repo/raw/main/image/The_Clearing/3_The_Pond_Mirror.png
+https://bitbucket.org/jeverd01/my-runes-repo/raw/main/image/The_Clearing/4_The_Path_Home.png
+https://bitbucket.org/jeverd01/my-runes-repo/raw/main/image/The_Clearing/5_The_Gate_Ajar.png
+https://bitbucket.org/jeverd01/my-runes-repo/raw/main/image/The_Clearing/README.md
 https://bitbucket.org/jeverd01/my-runes-repo/raw/main/image/VOICES.png
 https://bitbucket.org/jeverd01/my-runes-repo/raw/main/image/europe.png
 https://bitbucket.org/jeverd01/my-runes-repo/raw/main/image/europe_v2.png
