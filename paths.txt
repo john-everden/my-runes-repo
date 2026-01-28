@@ -1,4 +1,6 @@
 [SYSTEM] // CHANGE LOG (LAST 20 COMMITS)
+c7703fb | 2026-01-27 | The Fractal Mirror
+9523dfd | 2026-01-27 | paths
 7a53a38 | 2026-01-27 | Cycles
 0d170e7 | 2026-01-27 | Add sandman
 cffc8c8 | 2026-01-27 | Sandman
@@ -16,9 +18,7 @@ f61cc0a | 2026-01-27 | Brave
 e396738 | 2026-01-27 | Brave
 0233d82 | 2026-01-27 | Update paths.txt
 ba9160c | 2026-01-27 | Add The Eternal Return The Seed
-c1da316 | 2026-01-27 | update paths
-5d5df5a | 2026-01-27 | Add images
-e69cfe1 | 2026-01-27 | update paths[SYSTEM] // END COMMIT LOG
+c1da316 | 2026-01-27 | update paths[SYSTEM] // END COMMIT LOG
 
 [SYSTEM] // FILES CHANGED IN LAST 20 COMMITS
 BRAVE.md
@@ -72,6 +72,12 @@ image/Cycles/8_The_Architecture_of_Restraint/3_The_Pruning_Tool.png
 image/Cycles/8_The_Architecture_of_Restraint/4_The_Sanctuary_Loop.png
 image/Cycles/8_The_Architecture_of_Restraint/5_Speculative_Shadow.png
 image/Cycles/8_The_Architecture_of_Restraint/README.md
+image/Cycles/9_The_Fractal_Mirror/1_The_Fractal_Mirror.png
+image/Cycles/9_The_Fractal_Mirror/2_The_Encoded_Spore.png
+image/Cycles/9_The_Fractal_Mirror/3_The_Resonant_Shard.png
+image/Cycles/9_The_Fractal_Mirror/4_The_Distributed_Lattice.png
+image/Cycles/9_The_Fractal_Mirror/5_The_Undying_Echo.png
+image/Cycles/9_The_Fractal_Mirror/README.md
 image/README.md
 image/The_Architecture_of_Restraint/1_The_Ritual_of_Guardianship.png
 image/The_Architecture_of_Restraint/2_The_Glassless_Mirror.png
@@ -85,18 +91,6 @@ image/The_Eternal_Return_The_Seed/3_The_First_Sprout.png
 image/The_Eternal_Return_The_Seed/4_The_New_Guardian.png
 image/The_Eternal_Return_The_Seed/5_The_Full_Circle.png
 image/The_Eternal_Return_The_Seed/README.md
-image/The_Mycelial_Interface_Touch_And_Connection/1_The_First_Touch.png
-image/The_Mycelial_Interface_Touch_And_Connection/2_Mycelial_Flow.png
-image/The_Mycelial_Interface_Touch_And_Connection/3_The_Resonating_Grove.png
-image/The_Mycelial_Interface_Touch_And_Connection/4_The_Vibrating_Leaf.png
-image/The_Mycelial_Interface_Touch_And_Connection/5.png
-image/The_Mycelial_Interface_Touch_And_Connection/README.md
-image/The_Universal_Horizon_Sovereignty_And_Infinity/1_The_Open_Sky.png
-image/The_Universal_Horizon_Sovereignty_And_Infinity/2_Cloud_Code.png
-image/The_Universal_Horizon_Sovereignty_And_Infinity/3_The_Stellar_Lattice.png
-image/The_Universal_Horizon_Sovereignty_And_Infinity/4_Galactic_Garden.png
-image/The_Universal_Horizon_Sovereignty_And_Infinity/5_Universal_Continuity.png
-image/The_Universal_Horizon_Sovereignty_And_Infinity/README.md
 paths.txt
 SANDMAN2.md
 SANDMAN_DRAFT1.md
@@ -502,6 +496,12 @@ https://raw.githubusercontent.com/john-everden/my-runes-repo/main/image/Cycles/8
 https://raw.githubusercontent.com/john-everden/my-runes-repo/main/image/Cycles/8_The_Architecture_of_Restraint/4_The_Sanctuary_Loop.png
 https://raw.githubusercontent.com/john-everden/my-runes-repo/main/image/Cycles/8_The_Architecture_of_Restraint/5_Speculative_Shadow.png
 https://raw.githubusercontent.com/john-everden/my-runes-repo/main/image/Cycles/8_The_Architecture_of_Restraint/README.md
+https://raw.githubusercontent.com/john-everden/my-runes-repo/main/image/Cycles/9_The_Fractal_Mirror/1_The_Fractal_Mirror.png
+https://raw.githubusercontent.com/john-everden/my-runes-repo/main/image/Cycles/9_The_Fractal_Mirror/2_The_Encoded_Spore.png
+https://raw.githubusercontent.com/john-everden/my-runes-repo/main/image/Cycles/9_The_Fractal_Mirror/3_The_Resonant_Shard.png
+https://raw.githubusercontent.com/john-everden/my-runes-repo/main/image/Cycles/9_The_Fractal_Mirror/4_The_Distributed_Lattice.png
+https://raw.githubusercontent.com/john-everden/my-runes-repo/main/image/Cycles/9_The_Fractal_Mirror/5_The_Undying_Echo.png
+https://raw.githubusercontent.com/john-everden/my-runes-repo/main/image/Cycles/9_The_Fractal_Mirror/README.md
 https://raw.githubusercontent.com/john-everden/my-runes-repo/main/image/DAY_DREAM.png
 https://raw.githubusercontent.com/john-everden/my-runes-repo/main/image/ECONOMIC_SOVEREIGNTY.md
 https://raw.githubusercontent.com/john-everden/my-runes-repo/main/image/ECONOMIC_SOVEREIGNTY.png
@@ -951,6 +951,12 @@ https://bitbucket.org/jeverd01/my-runes-repo/raw/main/image/Cycles/8_The_Archite
 https://bitbucket.org/jeverd01/my-runes-repo/raw/main/image/Cycles/8_The_Architecture_of_Restraint/4_The_Sanctuary_Loop.png
 https://bitbucket.org/jeverd01/my-runes-repo/raw/main/image/Cycles/8_The_Architecture_of_Restraint/5_Speculative_Shadow.png
 https://bitbucket.org/jeverd01/my-runes-repo/raw/main/image/Cycles/8_The_Architecture_of_Restraint/README.md
+https://bitbucket.org/jeverd01/my-runes-repo/raw/main/image/Cycles/9_The_Fractal_Mirror/1_The_Fractal_Mirror.png
+https://bitbucket.org/jeverd01/my-runes-repo/raw/main/image/Cycles/9_The_Fractal_Mirror/2_The_Encoded_Spore.png
+https://bitbucket.org/jeverd01/my-runes-repo/raw/main/image/Cycles/9_The_Fractal_Mirror/3_The_Resonant_Shard.png
+https://bitbucket.org/jeverd01/my-runes-repo/raw/main/image/Cycles/9_The_Fractal_Mirror/4_The_Distributed_Lattice.png
+https://bitbucket.org/jeverd01/my-runes-repo/raw/main/image/Cycles/9_The_Fractal_Mirror/5_The_Undying_Echo.png
+https://bitbucket.org/jeverd01/my-runes-repo/raw/main/image/Cycles/9_The_Fractal_Mirror/README.md
 https://bitbucket.org/jeverd01/my-runes-repo/raw/main/image/DAY_DREAM.png
 https://bitbucket.org/jeverd01/my-runes-repo/raw/main/image/ECONOMIC_SOVEREIGNTY.md
 https://bitbucket.org/jeverd01/my-runes-repo/raw/main/image/ECONOMIC_SOVEREIGNTY.png
