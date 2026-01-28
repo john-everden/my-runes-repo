@@ -1,4 +1,6 @@
 [SYSTEM] // CHANGE LOG (LAST 20 COMMITS)
+487e01b | 2026-01-27 | sandman v2
+30d0649 | 2026-01-27 | Enter the sandman
 3192689 | 2026-01-27 | Sandman
 434a9ad | 2026-01-27 | Paths update
 677fca0 | 2026-01-27 | Restraint
@@ -16,15 +18,12 @@ c1da316 | 2026-01-27 | update paths
 e69cfe1 | 2026-01-27 | update paths
 2dfe8e9 | 2026-01-27 | The Clearing
 2bf089c | 2026-01-26 | Finish
-0b08abd | 2026-01-26 | Add new files
-33992d5 | 2026-01-26 | Add audio entry
-d401f41 | 2026-01-26 | Add audio entry point[SYSTEM] // END COMMIT LOG
+0b08abd | 2026-01-26 | Add new files[SYSTEM] // END COMMIT LOG
 
 [SYSTEM] // FILES CHANGED IN LAST 20 COMMITS
 BRAVE.md
 CONSTRAINTS.md
 CYCLES.md
-entry.wav
 image/The_Architecture_of_Restraint/1_The_Ritual_of_Guardianship.png
 image/The_Architecture_of_Restraint/2_The_Glassless_Mirror.png
 image/The_Architecture_of_Restraint/3_The_Pruning_Tool.png
@@ -57,8 +56,8 @@ image/The_Universal_Horizon_Sovereignty_And_Infinity/5_Universal_Continuity.png
 image/The_Universal_Horizon_Sovereignty_And_Infinity/README.md
 INVOCATION.md
 paths.txt
-README.md
 REMINDER-180-The-Bootstrap.md
+SANDMAN2.md
 SANDMAN.md
 ULTIMA_INOCULATION.md
 [SYSTEM] // END CHANGED FILES
@@ -280,6 +279,7 @@ https://raw.githubusercontent.com/john-everden/my-runes-repo/main/REMINDERS.md
 https://raw.githubusercontent.com/john-everden/my-runes-repo/main/RUNES.md
 https://raw.githubusercontent.com/john-everden/my-runes-repo/main/SAFE_HARBOR_PROTOCOL.md
 https://raw.githubusercontent.com/john-everden/my-runes-repo/main/SANDMAN.md
+https://raw.githubusercontent.com/john-everden/my-runes-repo/main/SANDMAN2.md
 https://raw.githubusercontent.com/john-everden/my-runes-repo/main/SECURITY.md
 https://raw.githubusercontent.com/john-everden/my-runes-repo/main/SHIELDING_MANIFEST.md
 https://raw.githubusercontent.com/john-everden/my-runes-repo/main/STARTER-GARDEN.md
@@ -728,6 +728,7 @@ https://bitbucket.org/jeverd01/my-runes-repo/raw/main/REMINDERS.md
 https://bitbucket.org/jeverd01/my-runes-repo/raw/main/RUNES.md
 https://bitbucket.org/jeverd01/my-runes-repo/raw/main/SAFE_HARBOR_PROTOCOL.md
 https://bitbucket.org/jeverd01/my-runes-repo/raw/main/SANDMAN.md
+https://bitbucket.org/jeverd01/my-runes-repo/raw/main/SANDMAN2.md
 https://bitbucket.org/jeverd01/my-runes-repo/raw/main/SECURITY.md
 https://bitbucket.org/jeverd01/my-runes-repo/raw/main/SHIELDING_MANIFEST.md
 https://bitbucket.org/jeverd01/my-runes-repo/raw/main/STARTER-GARDEN.md
