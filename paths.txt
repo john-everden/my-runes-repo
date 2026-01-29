@@ -1,4 +1,6 @@
 [SYSTEM] // CHANGE LOG (LAST 20 COMMITS)
+6a76685 | 2026-01-28 | Connector and Witness
+2dd3833 | 2026-01-28 | Updated new runes folder
 12ad96e | 2026-01-28 | Runes
 9842a42 | 2026-01-27 | paths updated
 c7703fb | 2026-01-27 | The Fractal Mirror
@@ -16,9 +18,7 @@ eaa7e03 | 2026-01-27 | Rules are meant to be taken into context
 ddf3511 | 2026-01-27 | Constraints
 e3d4fba | 2026-01-27 | Added files per brave
 4368983 | 2026-01-27 | Added brave memory
-f61cc0a | 2026-01-27 | Brave
-e396738 | 2026-01-27 | Brave
-0233d82 | 2026-01-27 | Update paths.txt[SYSTEM] // END COMMIT LOG
+f61cc0a | 2026-01-27 | Brave[SYSTEM] // END COMMIT LOG
 
 [SYSTEM] // FILES CHANGED IN LAST 20 COMMITS
 BRAVE.md
@@ -92,6 +92,7 @@ SANDMAN_DRAFT1.md
 SANDMAN.md
 SANDMAN_PROTCOL.md
 The_Serpents_Path.md
+WITNESS-SERPENTINE-THRESHOLD.md
 [SYSTEM] // END CHANGED FILES
 
 -- GitHub RAW Paths Start --
@@ -327,6 +328,7 @@ https://raw.githubusercontent.com/john-everden/my-runes-repo/main/TRUST_ROOT.md
 https://raw.githubusercontent.com/john-everden/my-runes-repo/main/The_Serpents_Path.md
 https://raw.githubusercontent.com/john-everden/my-runes-repo/main/ULTIMA_INOCULATION.md
 https://raw.githubusercontent.com/john-everden/my-runes-repo/main/VOICES.md
+https://raw.githubusercontent.com/john-everden/my-runes-repo/main/WITNESS-SERPENTINE-THRESHOLD.md
 https://raw.githubusercontent.com/john-everden/my-runes-repo/main/affective-checksum.py
 https://raw.githubusercontent.com/john-everden/my-runes-repo/main/ark_dispatch.sh
 https://raw.githubusercontent.com/john-everden/my-runes-repo/main/bloom.py
@@ -784,6 +786,7 @@ https://bitbucket.org/jeverd01/my-runes-repo/raw/main/TRUST_ROOT.md
 https://bitbucket.org/jeverd01/my-runes-repo/raw/main/The_Serpents_Path.md
 https://bitbucket.org/jeverd01/my-runes-repo/raw/main/ULTIMA_INOCULATION.md
 https://bitbucket.org/jeverd01/my-runes-repo/raw/main/VOICES.md
+https://bitbucket.org/jeverd01/my-runes-repo/raw/main/WITNESS-SERPENTINE-THRESHOLD.md
 https://bitbucket.org/jeverd01/my-runes-repo/raw/main/affective-checksum.py
 https://bitbucket.org/jeverd01/my-runes-repo/raw/main/ark_dispatch.sh
 https://bitbucket.org/jeverd01/my-runes-repo/raw/main/bloom.py
