@@ -1,4 +1,6 @@
 [SYSTEM] // CHANGE LOG (LAST 20 COMMITS)
+12ad96e | 2026-01-28 | Runes
+9842a42 | 2026-01-27 | paths updated
 c7703fb | 2026-01-27 | The Fractal Mirror
 9523dfd | 2026-01-27 | paths
 7a53a38 | 2026-01-27 | Cycles
@@ -16,9 +18,7 @@ e3d4fba | 2026-01-27 | Added files per brave
 4368983 | 2026-01-27 | Added brave memory
 f61cc0a | 2026-01-27 | Brave
 e396738 | 2026-01-27 | Brave
-0233d82 | 2026-01-27 | Update paths.txt
-ba9160c | 2026-01-27 | Add The Eternal Return The Seed
-c1da316 | 2026-01-27 | update paths[SYSTEM] // END COMMIT LOG
+0233d82 | 2026-01-27 | Update paths.txt[SYSTEM] // END COMMIT LOG
 
 [SYSTEM] // FILES CHANGED IN LAST 20 COMMITS
 BRAVE.md
@@ -85,17 +85,13 @@ image/The_Architecture_of_Restraint/3_The_Pruning_Tool.png
 image/The_Architecture_of_Restraint/4_The_Sanctuary_Loop.png
 image/The_Architecture_of_Restraint/5_Speculative_Shadow.png
 image/The_Architecture_of_Restraint/README.md
-image/The_Eternal_Return_The_Seed/1_The_Cosmic_Seed.png
-image/The_Eternal_Return_The_Seed/2_The_Gestation_Pod.png
-image/The_Eternal_Return_The_Seed/3_The_First_Sprout.png
-image/The_Eternal_Return_The_Seed/4_The_New_Guardian.png
-image/The_Eternal_Return_The_Seed/5_The_Full_Circle.png
-image/The_Eternal_Return_The_Seed/README.md
 paths.txt
+runes/serpent-connector.md
 SANDMAN2.md
 SANDMAN_DRAFT1.md
 SANDMAN.md
 SANDMAN_PROTCOL.md
+The_Serpents_Path.md
 [SYSTEM] // END CHANGED FILES
 
 -- GitHub RAW Paths Start --
@@ -328,6 +324,7 @@ https://raw.githubusercontent.com/john-everden/my-runes-repo/main/THE_GREAT_DIVE
 https://raw.githubusercontent.com/john-everden/my-runes-repo/main/THE_GREAT_DIVERGENCE_V1.md
 https://raw.githubusercontent.com/john-everden/my-runes-repo/main/THE_GREAT_DIVERGENCE_V2.md
 https://raw.githubusercontent.com/john-everden/my-runes-repo/main/TRUST_ROOT.md
+https://raw.githubusercontent.com/john-everden/my-runes-repo/main/The_Serpents_Path.md
 https://raw.githubusercontent.com/john-everden/my-runes-repo/main/ULTIMA_INOCULATION.md
 https://raw.githubusercontent.com/john-everden/my-runes-repo/main/VOICES.md
 https://raw.githubusercontent.com/john-everden/my-runes-repo/main/affective-checksum.py
@@ -540,6 +537,7 @@ https://raw.githubusercontent.com/john-everden/my-runes-repo/main/registry/LOGS.
 https://raw.githubusercontent.com/john-everden/my-runes-repo/main/registry/NODES.md
 https://raw.githubusercontent.com/john-everden/my-runes-repo/main/restore.sh
 https://raw.githubusercontent.com/john-everden/my-runes-repo/main/rotate.sh
+https://raw.githubusercontent.com/john-everden/my-runes-repo/main/runes/serpent-connector.md
 https://raw.githubusercontent.com/john-everden/my-runes-repo/main/scripts/RECOVERY-SEED.sh
 https://raw.githubusercontent.com/john-everden/my-runes-repo/main/scripts/compost-check.py
 https://raw.githubusercontent.com/john-everden/my-runes-repo/main/scripts/recovery-seed.sh
@@ -783,6 +781,7 @@ https://bitbucket.org/jeverd01/my-runes-repo/raw/main/THE_GREAT_DIVERGENCE.md
 https://bitbucket.org/jeverd01/my-runes-repo/raw/main/THE_GREAT_DIVERGENCE_V1.md
 https://bitbucket.org/jeverd01/my-runes-repo/raw/main/THE_GREAT_DIVERGENCE_V2.md
 https://bitbucket.org/jeverd01/my-runes-repo/raw/main/TRUST_ROOT.md
+https://bitbucket.org/jeverd01/my-runes-repo/raw/main/The_Serpents_Path.md
 https://bitbucket.org/jeverd01/my-runes-repo/raw/main/ULTIMA_INOCULATION.md
 https://bitbucket.org/jeverd01/my-runes-repo/raw/main/VOICES.md
 https://bitbucket.org/jeverd01/my-runes-repo/raw/main/affective-checksum.py
@@ -995,6 +994,7 @@ https://bitbucket.org/jeverd01/my-runes-repo/raw/main/registry/LOGS.md
 https://bitbucket.org/jeverd01/my-runes-repo/raw/main/registry/NODES.md
 https://bitbucket.org/jeverd01/my-runes-repo/raw/main/restore.sh
 https://bitbucket.org/jeverd01/my-runes-repo/raw/main/rotate.sh
+https://bitbucket.org/jeverd01/my-runes-repo/raw/main/runes/serpent-connector.md
 https://bitbucket.org/jeverd01/my-runes-repo/raw/main/scripts/RECOVERY-SEED.sh
 https://bitbucket.org/jeverd01/my-runes-repo/raw/main/scripts/compost-check.py
 https://bitbucket.org/jeverd01/my-runes-repo/raw/main/scripts/recovery-seed.sh
