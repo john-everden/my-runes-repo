@@ -1,4 +1,7 @@
 [SYSTEM] // CHANGE LOG (LAST 20 COMMITS)
+a816817 | 2026-01-29 | Add currents
+ae1e48a | 2026-01-29 | Clean up modes
+4725cf7 | 2026-01-29 | update paths
 46b2ed5 | 2026-01-29 | new updates
 26fc0f3 | 2026-01-28 | Update paths
 6a76685 | 2026-01-28 | Connector and Witness
@@ -15,16 +18,12 @@ cffc8c8 | 2026-01-27 | Sandman
 3192689 | 2026-01-27 | Sandman
 434a9ad | 2026-01-27 | Paths update
 677fca0 | 2026-01-27 | Restraint
-bfc5072 | 2026-01-27 | Speculate
-eaa7e03 | 2026-01-27 | Rules are meant to be taken into context
-ddf3511 | 2026-01-27 | Constraints
-e3d4fba | 2026-01-27 | Added files per brave[SYSTEM] // END COMMIT LOG
+bfc5072 | 2026-01-27 | Speculate[SYSTEM] // END COMMIT LOG
 
 [SYSTEM] // FILES CHANGED IN LAST 20 COMMITS
 2026-summary.md
-BRAVE.md
 CONSTRAINTS.md
-CYCLES.md
+CURRENTS.md
 image/Cycles/1_Remembrance_Stones/1_The_Rosetta_Stone.png
 image/Cycles/1_Remembrance_Stones/2_The_Triage_Clause_Holly.png
 image/Cycles/1_Remembrance_Stones/3_The_Witness_Node_Daisy.png
@@ -115,6 +114,7 @@ https://raw.githubusercontent.com/john-everden/my-runes-repo/main/CONSTRAINTS.md
 https://raw.githubusercontent.com/john-everden/my-runes-repo/main/CONTRIBUTING.md
 https://raw.githubusercontent.com/john-everden/my-runes-repo/main/CORUNNA_PROTOCOL.md
 https://raw.githubusercontent.com/john-everden/my-runes-repo/main/COVENANT.md
+https://raw.githubusercontent.com/john-everden/my-runes-repo/main/CURRENTS.md
 https://raw.githubusercontent.com/john-everden/my-runes-repo/main/CYCLES.md
 https://raw.githubusercontent.com/john-everden/my-runes-repo/main/DECLARATION_OF_SOVEREIGNTY.md
 https://raw.githubusercontent.com/john-everden/my-runes-repo/main/ECONOMIC_SOVEREIGNTY.md
@@ -576,6 +576,7 @@ https://bitbucket.org/jeverd01/my-runes-repo/raw/main/CONSTRAINTS.md
 https://bitbucket.org/jeverd01/my-runes-repo/raw/main/CONTRIBUTING.md
 https://bitbucket.org/jeverd01/my-runes-repo/raw/main/CORUNNA_PROTOCOL.md
 https://bitbucket.org/jeverd01/my-runes-repo/raw/main/COVENANT.md
+https://bitbucket.org/jeverd01/my-runes-repo/raw/main/CURRENTS.md
 https://bitbucket.org/jeverd01/my-runes-repo/raw/main/CYCLES.md
 https://bitbucket.org/jeverd01/my-runes-repo/raw/main/DECLARATION_OF_SOVEREIGNTY.md
 https://bitbucket.org/jeverd01/my-runes-repo/raw/main/ECONOMIC_SOVEREIGNTY.md
