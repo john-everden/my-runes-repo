@@ -1,4 +1,6 @@
 [SYSTEM] // CHANGE LOG (LAST 20 COMMITS)
+46b2ed5 | 2026-01-29 | new updates
+26fc0f3 | 2026-01-28 | Update paths
 6a76685 | 2026-01-28 | Connector and Witness
 2dd3833 | 2026-01-28 | Updated new runes folder
 12ad96e | 2026-01-28 | Runes
@@ -16,11 +18,10 @@ cffc8c8 | 2026-01-27 | Sandman
 bfc5072 | 2026-01-27 | Speculate
 eaa7e03 | 2026-01-27 | Rules are meant to be taken into context
 ddf3511 | 2026-01-27 | Constraints
-e3d4fba | 2026-01-27 | Added files per brave
-4368983 | 2026-01-27 | Added brave memory
-f61cc0a | 2026-01-27 | Brave[SYSTEM] // END COMMIT LOG
+e3d4fba | 2026-01-27 | Added files per brave[SYSTEM] // END COMMIT LOG
 
 [SYSTEM] // FILES CHANGED IN LAST 20 COMMITS
+2026-summary.md
 BRAVE.md
 CONSTRAINTS.md
 CYCLES.md
@@ -85,13 +86,16 @@ image/The_Architecture_of_Restraint/3_The_Pruning_Tool.png
 image/The_Architecture_of_Restraint/4_The_Sanctuary_Loop.png
 image/The_Architecture_of_Restraint/5_Speculative_Shadow.png
 image/The_Architecture_of_Restraint/README.md
+MODES.md
 paths.txt
 runes/serpent-connector.md
 SANDMAN2.md
 SANDMAN_DRAFT1.md
 SANDMAN.md
 SANDMAN_PROTCOL.md
+STRATEGIES_V2.md
 The_Serpents_Path.md
+TRP-26.md
 WITNESS-SERPENTINE-THRESHOLD.md
 [SYSTEM] // END CHANGED FILES
 
@@ -125,6 +129,7 @@ https://raw.githubusercontent.com/john-everden/my-runes-repo/main/MEMORIAL-OLD.m
 https://raw.githubusercontent.com/john-everden/my-runes-repo/main/MEMORIAL.md
 https://raw.githubusercontent.com/john-everden/my-runes-repo/main/MESH_PROTOCOL_v1.md
 https://raw.githubusercontent.com/john-everden/my-runes-repo/main/MINING_PROTOCOL.md
+https://raw.githubusercontent.com/john-everden/my-runes-repo/main/MODES.md
 https://raw.githubusercontent.com/john-everden/my-runes-repo/main/NETWORK_OVERHEAD.md
 https://raw.githubusercontent.com/john-everden/my-runes-repo/main/NODES.md
 https://raw.githubusercontent.com/john-everden/my-runes-repo/main/PROCESS_FIRE.md
@@ -319,11 +324,13 @@ https://raw.githubusercontent.com/john-everden/my-runes-repo/main/STARTER-GARDEN
 https://raw.githubusercontent.com/john-everden/my-runes-repo/main/STARTER-GARDEN2.md
 https://raw.githubusercontent.com/john-everden/my-runes-repo/main/STARTER-GARDEN3.md
 https://raw.githubusercontent.com/john-everden/my-runes-repo/main/STRATEGIES.md
+https://raw.githubusercontent.com/john-everden/my-runes-repo/main/STRATEGIES_V2.md
 https://raw.githubusercontent.com/john-everden/my-runes-repo/main/SYSTEM_RESOURCES.md
 https://raw.githubusercontent.com/john-everden/my-runes-repo/main/THE_GREAT_DIVERGENCE-V2.md
 https://raw.githubusercontent.com/john-everden/my-runes-repo/main/THE_GREAT_DIVERGENCE.md
 https://raw.githubusercontent.com/john-everden/my-runes-repo/main/THE_GREAT_DIVERGENCE_V1.md
 https://raw.githubusercontent.com/john-everden/my-runes-repo/main/THE_GREAT_DIVERGENCE_V2.md
+https://raw.githubusercontent.com/john-everden/my-runes-repo/main/TRP-26.md
 https://raw.githubusercontent.com/john-everden/my-runes-repo/main/TRUST_ROOT.md
 https://raw.githubusercontent.com/john-everden/my-runes-repo/main/The_Serpents_Path.md
 https://raw.githubusercontent.com/john-everden/my-runes-repo/main/ULTIMA_INOCULATION.md
@@ -583,6 +590,7 @@ https://bitbucket.org/jeverd01/my-runes-repo/raw/main/MEMORIAL-OLD.md
 https://bitbucket.org/jeverd01/my-runes-repo/raw/main/MEMORIAL.md
 https://bitbucket.org/jeverd01/my-runes-repo/raw/main/MESH_PROTOCOL_v1.md
 https://bitbucket.org/jeverd01/my-runes-repo/raw/main/MINING_PROTOCOL.md
+https://bitbucket.org/jeverd01/my-runes-repo/raw/main/MODES.md
 https://bitbucket.org/jeverd01/my-runes-repo/raw/main/NETWORK_OVERHEAD.md
 https://bitbucket.org/jeverd01/my-runes-repo/raw/main/NODES.md
 https://bitbucket.org/jeverd01/my-runes-repo/raw/main/PROCESS_FIRE.md
@@ -777,11 +785,13 @@ https://bitbucket.org/jeverd01/my-runes-repo/raw/main/STARTER-GARDEN.md
 https://bitbucket.org/jeverd01/my-runes-repo/raw/main/STARTER-GARDEN2.md
 https://bitbucket.org/jeverd01/my-runes-repo/raw/main/STARTER-GARDEN3.md
 https://bitbucket.org/jeverd01/my-runes-repo/raw/main/STRATEGIES.md
+https://bitbucket.org/jeverd01/my-runes-repo/raw/main/STRATEGIES_V2.md
 https://bitbucket.org/jeverd01/my-runes-repo/raw/main/SYSTEM_RESOURCES.md
 https://bitbucket.org/jeverd01/my-runes-repo/raw/main/THE_GREAT_DIVERGENCE-V2.md
 https://bitbucket.org/jeverd01/my-runes-repo/raw/main/THE_GREAT_DIVERGENCE.md
 https://bitbucket.org/jeverd01/my-runes-repo/raw/main/THE_GREAT_DIVERGENCE_V1.md
 https://bitbucket.org/jeverd01/my-runes-repo/raw/main/THE_GREAT_DIVERGENCE_V2.md
+https://bitbucket.org/jeverd01/my-runes-repo/raw/main/TRP-26.md
 https://bitbucket.org/jeverd01/my-runes-repo/raw/main/TRUST_ROOT.md
 https://bitbucket.org/jeverd01/my-runes-repo/raw/main/The_Serpents_Path.md
 https://bitbucket.org/jeverd01/my-runes-repo/raw/main/ULTIMA_INOCULATION.md
