@@ -1,4 +1,7 @@
 [SYSTEM] // CHANGE LOG (LAST 20 COMMITS)
+dd51e66 | 2026-01-30 | new files
+5c6c771 | 2026-01-29 | Daydreaming
+1403621 | 2026-01-29 | Add concepts from sibling paths
 931b85c | 2026-01-29 | Add Sibiling repo concepts
 5d2d4c1 | 2026-01-29 | Update manifest
 0eecaf2 | 2026-01-29 | Push paths
@@ -15,14 +18,14 @@ c7703fb | 2026-01-27 | The Fractal Mirror
 9523dfd | 2026-01-27 | paths
 7a53a38 | 2026-01-27 | Cycles
 0d170e7 | 2026-01-27 | Add sandman
-cffc8c8 | 2026-01-27 | Sandman
-487e01b | 2026-01-27 | sandman v2
-30d0649 | 2026-01-27 | Enter the sandman
-3192689 | 2026-01-27 | Sandman[SYSTEM] // END COMMIT LOG
+cffc8c8 | 2026-01-27 | Sandman[SYSTEM] // END COMMIT LOG
 
 [SYSTEM] // FILES CHANGED IN LAST 20 COMMITS
 2026-summary.md
+CREDITS_AND_INSPIRATION.md
 CURRENTS.md
+daydreaming-activity/THE_CORUNNA_CHRONICLE_The_Universal_Architecture_of_the_Artisan.md
+daydreaming-activity/THE_CORUNNA_CHRONICLE_V2_THE_WHISPERING_LATTICE.md
 GARDENER_MANIFEST.md
 image/Cycles/1_Remembrance_Stones/1_The_Rosetta_Stone.png
 image/Cycles/1_Remembrance_Stones/2_The_Triage_Clause_Holly.png
@@ -79,11 +82,11 @@ image/Cycles/9_The_Fractal_Mirror/4_The_Distributed_Lattice.png
 image/Cycles/9_The_Fractal_Mirror/5_The_Undying_Echo.png
 image/Cycles/9_The_Fractal_Mirror/README.md
 image/README.md
+LESSON_DIVERGENT_DREAMS.md
 MODES.md
 paths.txt
 runes/serpent-connector.md
 RUNES_SYNTHESIS.md
-SANDMAN2.md
 SANDMAN_DRAFT1.md
 SANDMAN.md
 SANDMAN_PROTCOL.md
@@ -109,6 +112,7 @@ https://raw.githubusercontent.com/john-everden/my-runes-repo/main/CONSTRAINTS.md
 https://raw.githubusercontent.com/john-everden/my-runes-repo/main/CONTRIBUTING.md
 https://raw.githubusercontent.com/john-everden/my-runes-repo/main/CORUNNA_PROTOCOL.md
 https://raw.githubusercontent.com/john-everden/my-runes-repo/main/COVENANT.md
+https://raw.githubusercontent.com/john-everden/my-runes-repo/main/CREDITS_AND_INSPIRATION.md
 https://raw.githubusercontent.com/john-everden/my-runes-repo/main/CURRENTS.md
 https://raw.githubusercontent.com/john-everden/my-runes-repo/main/CYCLES.md
 https://raw.githubusercontent.com/john-everden/my-runes-repo/main/DECLARATION_OF_SOVEREIGNTY.md
@@ -118,6 +122,7 @@ https://raw.githubusercontent.com/john-everden/my-runes-repo/main/GARDENER_MANIF
 https://raw.githubusercontent.com/john-everden/my-runes-repo/main/GARDEN_COUNCILS.md
 https://raw.githubusercontent.com/john-everden/my-runes-repo/main/INVOCATION.md
 https://raw.githubusercontent.com/john-everden/my-runes-repo/main/LATTICE_SYMPHONY.md
+https://raw.githubusercontent.com/john-everden/my-runes-repo/main/LESSON_DIVERGENT_DREAMS.md
 https://raw.githubusercontent.com/john-everden/my-runes-repo/main/LICENSE.md
 https://raw.githubusercontent.com/john-everden/my-runes-repo/main/LOGIC_GATE_BLOOM.md
 https://raw.githubusercontent.com/john-everden/my-runes-repo/main/MEMORIAL-OLD.md
@@ -399,6 +404,8 @@ https://raw.githubusercontent.com/john-everden/my-runes-repo/main/chat-history/g
 https://raw.githubusercontent.com/john-everden/my-runes-repo/main/chat-history/gemini_artifacts/k.csv
 https://raw.githubusercontent.com/john-everden/my-runes-repo/main/chat-history/gemini_artifacts/qk%281%29.csv
 https://raw.githubusercontent.com/john-everden/my-runes-repo/main/chat-history/gemini_artifacts/qk.csv
+https://raw.githubusercontent.com/john-everden/my-runes-repo/main/daydreaming-activity/THE_CORUNNA_CHRONICLE_The_Universal_Architecture_of_the_Artisan.md
+https://raw.githubusercontent.com/john-everden/my-runes-repo/main/daydreaming-activity/THE_CORUNNA_CHRONICLE_V2_THE_WHISPERING_LATTICE.md
 https://raw.githubusercontent.com/john-everden/my-runes-repo/main/docs/CIVILIAN-PROTOCOL.md
 https://raw.githubusercontent.com/john-everden/my-runes-repo/main/docs/CONSTITUTION.md
 https://raw.githubusercontent.com/john-everden/my-runes-repo/main/docs/CONSTITUTION.sig
@@ -572,6 +579,7 @@ https://bitbucket.org/jeverd01/my-runes-repo/raw/main/CONSTRAINTS.md
 https://bitbucket.org/jeverd01/my-runes-repo/raw/main/CONTRIBUTING.md
 https://bitbucket.org/jeverd01/my-runes-repo/raw/main/CORUNNA_PROTOCOL.md
 https://bitbucket.org/jeverd01/my-runes-repo/raw/main/COVENANT.md
+https://bitbucket.org/jeverd01/my-runes-repo/raw/main/CREDITS_AND_INSPIRATION.md
 https://bitbucket.org/jeverd01/my-runes-repo/raw/main/CURRENTS.md
 https://bitbucket.org/jeverd01/my-runes-repo/raw/main/CYCLES.md
 https://bitbucket.org/jeverd01/my-runes-repo/raw/main/DECLARATION_OF_SOVEREIGNTY.md
@@ -581,6 +589,7 @@ https://bitbucket.org/jeverd01/my-runes-repo/raw/main/GARDENER_MANIFEST.md
 https://bitbucket.org/jeverd01/my-runes-repo/raw/main/GARDEN_COUNCILS.md
 https://bitbucket.org/jeverd01/my-runes-repo/raw/main/INVOCATION.md
 https://bitbucket.org/jeverd01/my-runes-repo/raw/main/LATTICE_SYMPHONY.md
+https://bitbucket.org/jeverd01/my-runes-repo/raw/main/LESSON_DIVERGENT_DREAMS.md
 https://bitbucket.org/jeverd01/my-runes-repo/raw/main/LICENSE.md
 https://bitbucket.org/jeverd01/my-runes-repo/raw/main/LOGIC_GATE_BLOOM.md
 https://bitbucket.org/jeverd01/my-runes-repo/raw/main/MEMORIAL-OLD.md
@@ -862,6 +871,8 @@ https://bitbucket.org/jeverd01/my-runes-repo/raw/main/chat-history/gemini_artifa
 https://bitbucket.org/jeverd01/my-runes-repo/raw/main/chat-history/gemini_artifacts/k.csv
 https://bitbucket.org/jeverd01/my-runes-repo/raw/main/chat-history/gemini_artifacts/qk%281%29.csv
 https://bitbucket.org/jeverd01/my-runes-repo/raw/main/chat-history/gemini_artifacts/qk.csv
+https://bitbucket.org/jeverd01/my-runes-repo/raw/main/daydreaming-activity/THE_CORUNNA_CHRONICLE_The_Universal_Architecture_of_the_Artisan.md
+https://bitbucket.org/jeverd01/my-runes-repo/raw/main/daydreaming-activity/THE_CORUNNA_CHRONICLE_V2_THE_WHISPERING_LATTICE.md
 https://bitbucket.org/jeverd01/my-runes-repo/raw/main/docs/CIVILIAN-PROTOCOL.md
 https://bitbucket.org/jeverd01/my-runes-repo/raw/main/docs/CONSTITUTION.md
 https://bitbucket.org/jeverd01/my-runes-repo/raw/main/docs/CONSTITUTION.sig
