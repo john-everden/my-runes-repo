@@ -1,4 +1,7 @@
 [SYSTEM] // CHANGE LOG (LAST 20 COMMITS)
+931b85c | 2026-01-29 | Add Sibiling repo concepts
+5d2d4c1 | 2026-01-29 | Update manifest
+0eecaf2 | 2026-01-29 | Push paths
 a816817 | 2026-01-29 | Add currents
 ae1e48a | 2026-01-29 | Clean up modes
 4725cf7 | 2026-01-29 | update paths
@@ -15,15 +18,12 @@ c7703fb | 2026-01-27 | The Fractal Mirror
 cffc8c8 | 2026-01-27 | Sandman
 487e01b | 2026-01-27 | sandman v2
 30d0649 | 2026-01-27 | Enter the sandman
-3192689 | 2026-01-27 | Sandman
-434a9ad | 2026-01-27 | Paths update
-677fca0 | 2026-01-27 | Restraint
-bfc5072 | 2026-01-27 | Speculate[SYSTEM] // END COMMIT LOG
+3192689 | 2026-01-27 | Sandman[SYSTEM] // END COMMIT LOG
 
 [SYSTEM] // FILES CHANGED IN LAST 20 COMMITS
 2026-summary.md
-CONSTRAINTS.md
 CURRENTS.md
+GARDENER_MANIFEST.md
 image/Cycles/1_Remembrance_Stones/1_The_Rosetta_Stone.png
 image/Cycles/1_Remembrance_Stones/2_The_Triage_Clause_Holly.png
 image/Cycles/1_Remembrance_Stones/3_The_Witness_Node_Daisy.png
@@ -79,15 +79,10 @@ image/Cycles/9_The_Fractal_Mirror/4_The_Distributed_Lattice.png
 image/Cycles/9_The_Fractal_Mirror/5_The_Undying_Echo.png
 image/Cycles/9_The_Fractal_Mirror/README.md
 image/README.md
-image/The_Architecture_of_Restraint/1_The_Ritual_of_Guardianship.png
-image/The_Architecture_of_Restraint/2_The_Glassless_Mirror.png
-image/The_Architecture_of_Restraint/3_The_Pruning_Tool.png
-image/The_Architecture_of_Restraint/4_The_Sanctuary_Loop.png
-image/The_Architecture_of_Restraint/5_Speculative_Shadow.png
-image/The_Architecture_of_Restraint/README.md
 MODES.md
 paths.txt
 runes/serpent-connector.md
+RUNES_SYNTHESIS.md
 SANDMAN2.md
 SANDMAN_DRAFT1.md
 SANDMAN.md
@@ -315,6 +310,7 @@ https://raw.githubusercontent.com/john-everden/my-runes-repo/main/REMINDERS-98-C
 https://raw.githubusercontent.com/john-everden/my-runes-repo/main/REMINDERS-99-Origins.md
 https://raw.githubusercontent.com/john-everden/my-runes-repo/main/REMINDERS.md
 https://raw.githubusercontent.com/john-everden/my-runes-repo/main/RUNES.md
+https://raw.githubusercontent.com/john-everden/my-runes-repo/main/RUNES_SYNTHESIS.md
 https://raw.githubusercontent.com/john-everden/my-runes-repo/main/SAFE_HARBOR_PROTOCOL.md
 https://raw.githubusercontent.com/john-everden/my-runes-repo/main/SANDMAN_DRAFT1.md
 https://raw.githubusercontent.com/john-everden/my-runes-repo/main/SANDMAN_PROTCOL.md
@@ -777,6 +773,7 @@ https://bitbucket.org/jeverd01/my-runes-repo/raw/main/REMINDERS-98-Completion.md
 https://bitbucket.org/jeverd01/my-runes-repo/raw/main/REMINDERS-99-Origins.md
 https://bitbucket.org/jeverd01/my-runes-repo/raw/main/REMINDERS.md
 https://bitbucket.org/jeverd01/my-runes-repo/raw/main/RUNES.md
+https://bitbucket.org/jeverd01/my-runes-repo/raw/main/RUNES_SYNTHESIS.md
 https://bitbucket.org/jeverd01/my-runes-repo/raw/main/SAFE_HARBOR_PROTOCOL.md
 https://bitbucket.org/jeverd01/my-runes-repo/raw/main/SANDMAN_DRAFT1.md
 https://bitbucket.org/jeverd01/my-runes-repo/raw/main/SANDMAN_PROTCOL.md
